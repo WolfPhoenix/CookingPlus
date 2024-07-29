@@ -9,6 +9,8 @@ import {
 
 import { getDatabase, ref, set } from "https://www.gstatic.com/firebasejs/10.7.2/firebase-database.js";
 
+
+
 document.addEventListener('deviceready', onDeviceReady, false);
 
 function onDeviceReady() {
@@ -47,7 +49,7 @@ function onDeviceReady() {
       $("#form_inicio").fadeIn();
     });
   });
-
+  //======================================================================================================================
   // Eventos para la validación en tiempo real
   $("#usuario").on("input", function () {
     let usuario = $(this).val();
@@ -95,7 +97,7 @@ function onDeviceReady() {
       $("#errorComprobar").html("");
     }
   });
-
+  //=============================================REGISTRO DE USUARIO=========================================================================
   $("#registrar").on("click", function () {
     // Obtenemos los valores de los campos de entrada
     let email = $("#nuevoCorreo").val();
@@ -200,7 +202,7 @@ function onDeviceReady() {
     const re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return re.test(email);
   }
-
+  //==============================================INICIO DE SESION CON CORREO Y CONTRASEÑA==============================================================
   // Función para iniciar sesión y almacenar el usuario en la sesión
   function iniciarSesion(nombreUsuario) {
     sessionStorage.setItem('usuario', nombreUsuario);
@@ -231,8 +233,8 @@ function onDeviceReady() {
         $("#email").val("");
         $("#contraseña").val("");
 
-        window.location.href = "./html/secciones.html";
-        
+        window.location.href = "./html/categorias.html";
+
       })
       .catch((error) => {
         console.error("Error al iniciar sesión:", error);
@@ -248,6 +250,44 @@ function onDeviceReady() {
     });
 
   }
+  //=================================================INICIO DE SESION MICROSOFT==============================================================================================
+  // Agregamos un evento de clic al botón con ID 'microsoft'
+  $("#microsoft").on('click', function () {
+    // Creamos un proveedor de autenticación OAuth para Microsoft
+    const provider = new OAuthProvider('microsoft.com');
+    // Configuramos parámetros personalizados para el proveedor
+    provider.setCustomParameters({
+      prompt: 'consent'
+    });
+
+    // Iniciamos sesión con un popup utilizando el proveedor de autenticación de Microsoft
+    signInWithPopup(auth, provider)
+      .then((result) => {
+        // Si la sesión se inicia correctamente, mostramos un mensaje de éxito en la consola
+        console.log("Nombre de usuario agregado con éxito.");
+        // Obtenemos la información del usuario autenticado
+        const user_info = result.user;
+
+        // Obtenemos el nombre de usuario y correo electrónico del usuario autenticado
+        const user = user_info.email.replace(/[.@]/g, '');
+        const name = user_info.displayName;
+        const root_ref = ref(db, 'usuarios/' + user);
+
+        // Llamamos a la función iniciarSesion con el nombre de usuario
+        iniciarSesion(user);
+
+        // Guardamos la información del usuario en la base de datos
+        return set(root_ref, {
+          nombre: name,
+          email: user_info.email
+        });
+      })
+      .then(() => {
+        // Si la información del usuario se guarda correctamente en la base de datos, redirigimos al usuario a la página de categorías
+        console.log("Datos del usuario guardados en la base de datos.");
+        window.location.href = "./categorias.html";
+      });
+  });
 
 }
 
