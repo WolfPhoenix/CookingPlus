@@ -288,7 +288,36 @@ function onDeviceReady() {
         window.location.href = "./categorias.html";
       });
   });
+  //==================================INICIO DE SESION CON GOOGLE====================================================
+  //Funcion del boton de google cogemos la autetificación por google
+  $("#google").on("click", function () {
+    const provedor = new GoogleAuthProvider(auth);
+    // Iniciamos sesión con la autenticación
+    signInWithRedirect(auth, provedor);
+  });
 
+  // Tratamos el resultado de la autenticación
+  getRedirectResult(auth).then((result) => {
+    const credencial = GoogleAuthProvider.credentialFromResult(result);
+    const token = credencial.accessToken;
+    const user_info = result.user;
+
+    user = user_info.email.replace(/[.@]/g, '');
+
+    let name = user_info.displayName;
+    let root_ref = ref(db, 'usuarios/' + user);
+    iniciarSesion(user);
+    // Guardamos la información del usuario en la base de datos
+    return set(root_ref, {
+      nombre: name,
+      email: user_info.email
+    });
+  }).then(() => {
+    // Iniciamos sesión y redirige a la página de inicio
+    window.location.href = "./categorias.html";
+  }).catch((error) => {
+    console.error('Error durante la autenticación o redirección:', error);
+  });
 }
 
 
