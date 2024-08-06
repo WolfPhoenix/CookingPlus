@@ -1,52 +1,55 @@
 <!DOCTYPE html>
-<html lang="es"></html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="msapplication-tap-highlight" content="no">
-        <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
-        <meta name="color-scheme" content="light dark">        
-        <link rel="stylesheet" href="css/index.css">
-        <script src="./js/jquery/jquery-3.7.1.js"></script>
-        <title>Cooking+</title>
-    </head>
-    <body id="body">
-        <div id="form_inicio">
-            <img class="logo" src="./img/nombre_transparencia.png">
-            <input type="email" name="email" id="email" placeholder="Email">
-            <input type="password" name="contraseña" id="contraseña" placeholder="Contraseña">
-            <button id="iniciarSesion">Iniciar Sesión</button>
-            
-            <div class="autentificadores">
-                <button id="google" class="distintos"><img src="./img/google-icon.png" height="25" width="25"></button>
-                <button id="microsoft" class="distintos"><img src="./img/microsoft-icon.png" height="25" width="25"></button>
-            </div>
-            <button id="registro">Registrate</button>
-            <div id="mensaje" class="error-message"></div>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="color-scheme" content="light dark">        
+    <link rel="stylesheet" href="css/index.css">
+    <script src="./js/jquery/jquery-3.7.1.js"></script>
+    <title>Cooking+</title>
+</head>
+<body id="body">
+    <div id="form_inicio">
+        <img class="logo" src="./img/nombre_transparencia.png" alt="Logo de Cooking+">
+        <input type="email" name="email" id="email" placeholder="Email" aria-label="Correo electrónico" autocomplete="email">
+        <input type="password" name="contraseña" id="contraseña" placeholder="Contraseña" aria-label="Contraseña" autocomplete="current-password">
+        <button id="iniciarSesion">Iniciar Sesión</button>
+        
+        <div class="autentificadores">
+            <button id="google" class="distintos" aria-label="Iniciar sesión con Google">
+                <img src="./img/google-icon.png" height="25" width="25" alt="Icono de Google">
+                Iniciar con Google
+            </button>                
         </div>
+        
+        <button id="registro">Registrate</button>
+        <div id="mensaje" class="error-message"></div>
+    </div>
 
-        <div id="form_registro">
-            <button id="volverInicio" class="volverInicio">Volver</button>
-            <img class="logo" src="./img/nombre_transparencia.png">
-            
-            <input type="text" id="usuario" placeholder="Nombre de usuario">
-            <span id="errorUsuario" class="error-message"></span>
-            
-            <input type="email" id="nuevoCorreo" placeholder="Email">
-            <span id="errorCorreo" class="error-message"></span>
-            
-            <input type="password" id="nuevoPassword" placeholder="Contraseña">
-            <span id="errorPassword" class="error-message"></span>
-            
-            <input type="password" id="comprobar" placeholder="Confirmar contraseña">
-            <span id="errorComprobar" class="error-message"></span>           
-            
-            <button id="registrar">Registrarse</button>
-            <p id="mensajeRe"></p>
-        </div>
-        <script src="cordova.js"></script>
-        <script type="module" src="js/index.js"></script>
-    </body>
+    <div id="form_registro">
+        <button id="volverInicio" class="volverInicio">Volver</button>
+        <img class="logo" src="./img/nombre_transparencia.png" alt="Logo de Cooking+">
+        
+        <input type="text" id="usuario" placeholder="Nombre de usuario" aria-label="Nombre de usuario" autocomplete="username">
+        <span id="errorUsuario" class="error-message"></span>
+        
+        <input type="email" id="nuevoCorreo" placeholder="Email" aria-label="Nuevo correo electrónico" autocomplete="email">
+        <span id="errorCorreo" class="error-message"></span>
+        
+        <input type="password" id="nuevoPassword" placeholder="Contraseña" aria-label="Nueva contraseña" autocomplete="new-password">
+        <span id="errorPassword" class="error-message"></span>
+        
+        <input type="password" id="comprobar" placeholder="Confirmar contraseña" aria-label="Confirmar contraseña">
+        <span id="errorComprobar" class="error-message"></span>           
+        
+        <button id="registrar">Registrarse</button>
+        <p id="mensajeRe"></p>
+    </div>
+    <script src="cordova.js"></script>
+    <script type="module" src="js/index.js"></script>
+</body>
 </html>
+
+

@@ -1,4 +1,4 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.2/firebase-app.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js";
 
 export class Firebase {
     firebaseConfig;
@@ -7,7 +7,7 @@ export class Firebase {
     this.firebaseConfig = {
       apiKey: "AIzaSyCJ_GQNP-s9i-ZOmzO5mJG1BOlT7xj-Jq0",
       authDomain: "cooking-plus.firebaseapp.com",
-      databaseURL: "https://cooking-plus-default-rtdb.europe-west1.firebasedatabase.app",
+      databaseURL: "https://cooking-plus-default-rtdb.europe-west1.firebasedatabase.app/",
       projectId: "cooking-plus",
       storageBucket: "cooking-plus.appspot.com",
       messagingSenderId: "530944956393",
