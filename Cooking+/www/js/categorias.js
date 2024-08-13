@@ -83,13 +83,33 @@ onValue(recetasRef, (snapshot) => {
         const listItem = $("<li>");
         const enlace = $("<a>")
           .attr("href", `receta.html#${encodeURIComponent(recetaKey)}`)
+          .addClass("iframe")
+          .attr("data-fancybox-type", "iframe") 
           .text(recetaKey)
           .on("click", function (event) {
             event.preventDefault();
             const nombreReceta = recetaKey;
             const miSeccion = seccion[recetaKey];
             localStorage.setItem("receta", JSON.stringify(miSeccion));
-            window.location.href = `receta.html#${encodeURIComponent(nombreReceta)}`;
+
+            $.fancybox.open({
+              src: `receta.html#${encodeURIComponent(nombreReceta)}`,
+              type: 'iframe',
+              opts: {
+                width: "100%",
+                height: "100%",
+                iframe: {
+                  css: {
+                    width: '100%',
+                    height: '100%'
+                  }
+                },
+                titlePosition: "outside",
+                afterShow: function() {
+                  // Aquí puedes agregar código adicional si es necesario
+                }
+              }
+            });
           });
 
         listItem.append(enlace);
@@ -106,4 +126,5 @@ onValue(recetasRef, (snapshot) => {
     });
   }
 });
+
 

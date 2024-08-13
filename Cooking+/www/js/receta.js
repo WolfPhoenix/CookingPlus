@@ -8,7 +8,6 @@ $(function() {  // Esta es la forma abreviada de $(document).ready()
     const db = getDatabase(app);
     const storage = getStorage(app);
 
-    // Parte original de receta.js
     const recetasRef = ref(db, 'recetas/');
 
     $("#cerrarSesion").on("click", function() {

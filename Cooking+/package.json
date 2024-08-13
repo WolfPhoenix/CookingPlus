@@ -26,6 +26,9 @@
     }
   },
   "dependencies": {
-    "firebase": "^10.12.5"
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fancyapps/ui": "^5.0.36",
+    "firebase": "^10.12.5",
+    "jquery": "^3.7.1"
   }
 }
