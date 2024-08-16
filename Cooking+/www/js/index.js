@@ -35,30 +35,50 @@ function onDeviceReady() {
   });
 
   // Validaciones en tiempo real
-  $("#usuario").on("input", function () {
-    let usuario = $(this).val();
-    $("#errorUsuario").html(usuario ? "" : "El nombre de usuario es obligatorio.");
-  });
+  function validarInputs(traduccion) {
+    $("#usuario").on("input", function () {
+      let usuario = $(this).val();
+      $("#errorUsuario").html(usuario ? "" : traduccion.errorUsuario);
+    });
 
-  $("#nuevoCorreo").on("input", function () {
-    let email = $(this).val();
-    $("#errorCorreo").html(email ? (validarEmail(email) ? "" : "Por favor introduzca un formato de email válido.") : "El correo electrónico es obligatorio.");
-  });
+    $("#nuevoCorreo").on("input", function () {
+      let email = $(this).val();
+      let mensaje = "";
+      if (!email) {
+        mensaje = traduccion.errorCorreo.required;
+      } else if (!validarEmail(email)) {
+        mensaje = traduccion.errorCorreo.invalid;
+      }
+      $("#errorCorreo").html(mensaje);
+    });
 
-  $("#nuevoPassword").on("input", function () {
-    let password = $(this).val();
-    let error = "";
-    if (!password) {
-      error = "La contraseña es obligatoria.";
-    } else if (password.length < 6 || password.length > 12) {
-      error = "La contraseña tiene que tener entre 6 y 12 caracteres.";
-    } else if (!/[A-Z]/.test(password)) {
-      error = "La contraseña debe contener al menos una letra mayúscula.";
-    } else if (!/[^a-zA-Z0-9]/.test(password)) {
-      error = "La contraseña debe contener al menos un carácter especial.";
-    }
-    $("#errorPassword").html(error);
-  });
+    $("#nuevoPassword").on("input", function () {
+      let password = $(this).val();
+      let mensaje = "";
+      if (!password) {
+        mensaje = traduccion.errorPassword.required;
+      } else if (password.length < 6 || password.length > 12) {
+        mensaje = traduccion.errorPassword.length;
+      } else if (!/[A-Z]/.test(password)) {
+        mensaje = traduccion.errorPassword.uppercase;
+      } else if (!/[^a-zA-Z0-9]/.test(password)) {
+        mensaje = traduccion.errorPassword.special;
+      }
+      $("#errorPassword").html(mensaje);
+    });
+
+    $("#comprobar").on("input", function () {
+      let password = $("#nuevoPassword").val();
+      let comprobar = $(this).val();
+      let mensaje = "";
+      if (!comprobar) {
+        mensaje = traduccion.errorComprobar.required;
+      } else if (password !== comprobar) {
+        mensaje = traduccion.errorComprobar.match;
+      }
+      $("#errorComprobar").html(mensaje);
+    });
+  }
 
   $("#comprobar").on("input", function () {
     let password = $("#nuevoPassword").val();
@@ -187,6 +207,40 @@ function onDeviceReady() {
         console.error('Error durante la autenticación o redirección:', error);
       });
   });
+
+  function cargarTraduccion(lang) {
+    return fetch(`../json/${lang}.json`)
+      .then(response => response.json())
+      .catch(() => fetch(`../json/en.json`).then(response => response.json()));
+  }
+
+  function traduccion(traduccion) {
+    $('#iniciarSesion').text(traduccion.login);
+    $('#registro').text(traduccion.register);
+    $('#email').attr('placeholder', traduccion.email);
+    $('#contraseña').attr('placeholder', traduccion.password);
+    
+    const textoGoogle = traduccion.google;
+    $('#google').html(`<img src="./img/google-icon.png" height="25" width="25" alt="Icono de Google"> ${textoGoogle}`);
+    
+    if (!email || !contraseña) {
+        $('#mensaje').text(traduccion.mensaje);
+    }
+
+    $('#volverInicio').text(traduccion.volver);
+    $('#usuario').attr('placeholder', traduccion.nombreUsuario);
+    $('#nuevoCorreo').attr('placeholder', traduccion.nuevoCorreo);
+    $('#nuevoPassword').attr('placeholder', traduccion.nuevoPassword);
+    $('#comprobar').attr('placeholder', traduccion.confirmarPassword);
+    $('#registrar').text(traduccion.registrarse);
+
+    validarInputs(traduccion);
+}
+
+
+  const idiomaNavegador = navigator.language.split('-')[0];
+  cargarTraduccion(idiomaNavegador).then(traduccion);
+
 }
 
 

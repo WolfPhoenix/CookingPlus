@@ -1,0 +1,29 @@
+{
+    "login": "Sign In",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "google": "Sign in with Google",
+    "mensaje": "Enter email and password to sign in",
+    "volver": "Back",
+    "nombreUsuario": "Username",
+    "nuevoCorreo": "New Email",
+    "nuevoPassword": "New Password",
+    "confirmarPassword": "Confirm Password",
+    "registrarse": "Sign Up",
+    "errorUsuario": "Username is required.",
+    "errorCorreo": {
+        "required": "Email is required.",
+        "invalid": "Please enter a valid email address."
+    },
+    "errorPassword": {
+        "required": "Password is required.",
+        "length": "Password must be between 6 and 12 characters.",
+        "uppercase": "Password must contain at least one uppercase letter.",
+        "special": "Password must contain at least one special character."
+    },
+    "errorComprobar": {
+        "required": "Confirming the password is required.",
+        "match": "Passwords do not match."
+    }
+}

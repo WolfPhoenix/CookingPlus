@@ -104,10 +104,7 @@ onValue(recetasRef, (snapshot) => {
                     height: '100%'
                   }
                 },
-                titlePosition: "outside",
-                afterShow: function() {
-                  // Aquí puedes agregar código adicional si es necesario
-                }
+                titlePosition: "outside",                
               }
             });
           });

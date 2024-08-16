@@ -1,0 +1,30 @@
+{
+    "login": "Iniciar Sesión",
+    "register": "Registrate",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "google": "Iniciar con Google",
+    "mensaje": "Introduzca correo y contraseña para iniciar sesión",
+    "volver": "Volver",
+    "nombreUsuario": "Nombre de usuario",
+    "nuevoCorreo": "Nuevo correo electrónico",
+    "nuevoPassword": "Nueva contraseña",
+    "confirmarPassword": "Confirmar contraseña",
+    "registrarse": "Registrarse",
+    "errorUsuario": "El nombre de usuario es obligatorio.",
+    "errorCorreo": {
+        "required": "El correo electrónico es obligatorio.",
+        "invalid": "Por favor introduzca un formato de email válido."
+    },
+    "errorPassword": {
+        "required": "La contraseña es obligatoria.",
+        "length": "La contraseña tiene que tener entre 6 y 12 caracteres.",
+        "uppercase": "La contraseña debe contener al menos una letra mayúscula.",
+        "special": "La contraseña debe contener al menos un carácter especial."
+    },
+    "errorComprobar": {
+        "required": "Confirmar la contraseña es obligatorio.",
+        "match": "Las contraseñas no coinciden."
+    }
+}
+
