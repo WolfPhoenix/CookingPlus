@@ -782,22 +782,22 @@
                 }
             },
             "Ravioles con tuco de carne": {
-                "Descripción": "Para todos los fanáticos de la pasta rellena y las salsas suculentas, presentamos esta receta que es una explosión de sabores. No solo verás que amasar en casa es más simple de lo que imaginas, sino que, además, te enseñaremos a preparar el clásico tuco de carne. Y si bien lleva algo de tiempo, el procedimiento en general es simple y el resultado bien vale la pena. Asimismo, también te explicaremos cómo hacer un relleno de zapallo, que contrastará perfectamente con el intenso sabor del tuco.",
+                "Descripción": "For all the fans of stuffed pasta and delicious sauces, we present this recipe that is a burst of flavors. Not only will you find that making dough at home is simpler than you think, but we will also teach you how to prepare the classic meat sauce. While it does take some time, the overall process is straightforward, and the result is well worth it. Additionally, we will explain how to make a pumpkin filling that will perfectly contrast with the intense flavor of the sauce.",
                 "Elaboración": [
-                    "Comenzaremos preparando el tuco para los raviolis. Para ello, retira el exceso de grasa de la carne y córtala en cubos. En este caso, utilizamos roast beef. Otros cortes apropiados para esta receta son: paleta, carnaza, falda, aguja, etc.",
-                    "Calienta una olla grande, agrega una cucharada de aceite y, cuando levante temperatura, sella la carne. Te recomendamos hacerlo en tandas para que la carne se dore y no se hierva. Mientras tanto, pica la cebolla, el diente de ajo y el pimiento.",
-                    "Retira y reserva la carne, agrega otra cucharada de aceite y rehoga las verduras (cebolla, ajo y pimiento). A continuación, baja el fuego al medio y deja cocinar.",
-                    "Cuando los vegetales estén algo tiernos, vierte el vino. Espera unos minutos a que evapore el alcohol e incorpora el extracto de tomate, el tomate triturado, el agua, los condimentos y la carne. Remueve bien y cuando rompa el hervor, baja el fuego al mínimo, tapa y deja cocinar como mínimo 1 hora.",
-                    "A continuación, prepara la masa. Realiza una corona con la harina, y coloca en el centro el huevo, el agua y el aceite. Integra los ingredientes del centro hacia afuera.",
-                    "Amasa unos minutos sobre la mesada hasta formar el bollo. Cúbrelo y deja reposar durante 30 minutos.",
-                    "Entre tanto, prepara el relleno. Envuelve el zapallo cabutia en papel film y cocina en microondas por 10 minutos.",
-                    "Retira la pulpa y realiza un puré. Condimenta con sal, pimienta y nuez moscada y deja enfriar.",
-                    "Comienza con la preparación de los ravioles. Divide el bollo en 4 partes y estira cada uno de ellos. Puedes hacerlo con máquina sobadora, pero si no tienes, estira con palote dejando la masa bien fina.",
-                    "Con la ayuda de un molde, arma los ravioles. Cubre con una porción de masa y rellena cada hueco con el relleno de calabaza.",
-                    "Humedece los bordes y cubre con la otra parte de masa. Presiona suavemente para retirar el aire y para marcar los ravioles.",
-                    "Desmolda y, con un cuchillo, termina de separarlos. Espolvorea con harina y continúa armando ravioles con el resto de la masa y el relleno.",
-                    "Llena una olla con agua y lleva al fuego, cuando rompa el hervor añade los ravioles. Cuando suban, déjalos 1 minuto más y retira con espumadera.",
-                    "Sirve los ravioles, salsea con el tuco de carne y listo para comer."
+                    "We will start by preparing the sauce for the ravioli. To do this, remove the excess fat from the meat and cut it into cubes. In this case, we use roast beef. Other suitable cuts for this recipe are: shoulder, chuck, flank, and blade, etc.",
+                    "Heat a large pot, add a tablespoon of oil, and once it heats up, sear the meat. We recommend doing this in batches so that the meat browns rather than steams. Meanwhile, chop the onion, garlic clove, and bell pepper.",
+                    "Remove and set aside the meat, add another tablespoon of oil, and sauté the vegetables (onion, garlic, and bell pepper). Then, lower the heat to medium and let it cook.",
+                    "When the vegetables are somewhat tender, pour in the wine. Wait a few minutes for the alcohol to evaporate and add the tomato paste, crushed tomatoes, water, seasonings, and meat. Stir well, and when it comes to a boil, reduce the heat to low, cover, and let it cook for at least 1 hour.",
+                    "Next, prepare the dough. Make a mound with the flour and place the egg, water, and oil in the center. Mix the ingredients from the center outwards.",
+                    "Knead for a few minutes on the countertop until you form a dough ball. Cover it and let it rest for 30 minutes.",
+                    "Meanwhile, prepare the filling. Wrap the pumpkin in plastic wrap and cook in the microwave for 10 minutes.",
+                    "Remove the flesh and make a puree. Season with salt, pepper, and nutmeg, and let it cool.",
+                    "Start preparing the ravioli. Divide the dough ball into 4 parts and roll each one out. You can use a pasta machine, but if you don't have one, roll it out with a rolling pin, making the dough very thin.",
+                    "Use a mold to shape the ravioli. Cover with a portion of dough and fill each space with the pumpkin filling.",
+                    "Moisten the edges and cover with the other piece of dough. Press gently to remove the air and to seal the ravioli.",
+                    "Unmold and, using a knife, separate them. Dust with flour and continue shaping ravioli with the remaining dough and filling.",
+                    "Fill a pot with water and bring to a boil. When it boils, add the ravioli. Once they rise to the surface, let them cook for 1 more minute and remove with a slotted spoon.",
+                    "Serve the ravioli, top with the meat sauce, and it's ready to eat."
                 ],
                 "Foto": "gs://cooking-plus.appspot.com/Ravioles con tuco de carne.JPG",
                 "Ingredientes": {
@@ -819,13 +819,13 @@
                 }
             },
             "Rigatoni con salsa amatriciana": {
-                "Descripción": "La salsa amatricana es originaria de la ciudad italiana Amatrice. Parece ser que la crearon los pastores de esta región combinando ingredientes clásicos y al alcance de todos, como lo son la panceta, el tomate y la pasta seca. Es por ello que esta salsa forma parte de lo que se conoce como cucina povera o cocina pobre. Este término hace referencia a la amplia variedad de recetas creadas en Italia desde el siglo XIX hasta después de la Segunda Guerra Mundial. Junto con la salsa carbonara, es una de las salsas más típicas y clásicas de la cocina italiana.",
+                "Descripción": "Amatriciana sauce originates from the Italian city of Amatrice. It seems that it was created by the shepherds of this region by combining classic and readily available ingredients, such as pancetta, tomato, and dry pasta. This is why this sauce is part of what is known as 'cucina povera' or 'poor kitchen.' This term refers to the wide variety of recipes created in Italy from the 19th century until after World War II. Along with carbonara sauce, it is one of the most typical and classic sauces in Italian cuisine.",
                 "Elaboración": [
-                    "Como primer paso de esta receta, retira el cuerito o grasa de la panceta. Pícala y saltéala en una sartén sin aceite con el fuego alto. Aquí buscamos dorarla para que se ponga crujiente y resalte su sabor, así como crear una base grasosa para saltear las cebollas.",
-                    "Una vez dorada, agrega la cebolla picada y baja el fuego a medio. Cuando la cebolla se haya dorado, agrega 1 cucharada de agua caliente y, cuando se evapore, incorpora 1 cucharada más. Repite este procedimiento tantas veces como quieras. Cuantas más veces lo repitas, más dulce quedará la cebolla.",
-                    "Cuando hayas logrado el punto de cocción de la cebolla deseado, agrega la salsa de tomate y baja el fuego al mínimo. Tapa la salsa amatriciana y cocínala por 10 minutos. Puedes utilizar tomates de lata triturados o en cubos, aunque podrías hacerlo de forma casera. Para ello, lava y corta una cruz en la base de 4 tomates perita. Llévalos a una cacerola con agua hirviendo por 2 minutos. Retíralos y, con cuidado de no quemarte, pélalos. Córtalos en cubos y llévalos a la sartén con la cebolla y la panceta.",
-                    "Mientras, cocina la pasta rigatoni en abundante agua hirviendo por 7-10 minutos de acuerdo a tu gusto. Cuélala y, si lo deseas, añádelos a la sartén para cocinar los rigatoni con la salsa amatriciana.",
-                    "Sirve los rigatoni con salsa amatriciana de inmediato para disfrutarlos calientes. Si te gusta, puedes coronarlos con queso rallado y ¡a comer!"
+                    "As the first step of this recipe, remove the skin or fat from the pancetta. Dice it and sauté it in a pan without oil over high heat. The goal here is to brown it so it becomes crispy and enhances its flavor, as well as to create a fatty base for sautéing the onions.",
+                    "Once browned, add the diced onion and lower the heat to medium. When the onion is golden, add 1 tablespoon of hot water, and when it evaporates, add another tablespoon. Repeat this process as many times as you like. The more times you repeat it, the sweeter the onion will become.",
+                    "When you reach the desired level of doneness for the onion, add the tomato sauce and lower the heat to a minimum. Cover the amatriciana sauce and cook it for 10 minutes. You can use canned crushed or diced tomatoes, though you can also make it from scratch. To do this, wash and cut a cross in the base of 4 plum tomatoes. Place them in a pot of boiling water for 2 minutes. Remove them and, being careful not to burn yourself, peel them. Dice them and add them to the pan with the onion and pancetta.",
+                    "Meanwhile, cook the rigatoni pasta in plenty of boiling water for 7-10 minutes, according to your taste. Drain it, and if desired, add it to the pan to cook the rigatoni with the amatriciana sauce.",
+                    "Serve the rigatoni with amatriciana sauce immediately to enjoy them hot. If you like, you can top them with grated cheese and enjoy!"
                 ],
                 "Foto": "gs://cooking-plus.appspot.com/Rigatoni con salsa amatriciana.JPG",
                 "Ingredientes": {
@@ -837,16 +837,16 @@
                 }
             },
             "Tallarines rojos con pollo": {
-                "Descripción": "Muchos de los platos que forman parte del menú de los hogares peruanos y, sobre todo, los almuerzos peruanos, vienen con una pequeña porción de influencias de nuestros antepasados. Encontramos recetas que preservan características orientales, africanas, mexicanas, europeas y, de este último grupo, podemos encontrar una cocina muy importante a nivel mundial: la italiana. Tal es así que los peruanos hemos sabido lograr que la pasta italiana y nuestros insumos y sabores peruanos conversen entre ellos y terminen peleando los primeros puestos a la hora de formar un menú.",
+                "Descripción": "Many of the dishes that are part of the menu in Peruvian households, especially Peruvian lunches, come with a small portion of influences from our ancestors. We find recipes that preserve Oriental, African, Mexican, European characteristics, and from the latter group, we can find a cuisine of great global importance: Italian. So much so that Peruvians have managed to make Italian pasta and our Peruvian ingredients and flavors interact, competing for top spots when creating a menu.",
                 "Elaboración": [
-                    "Para empezar la preparación de los tallarines rojos peruanos, alista el mise en place que debe incluir: la cebolla roja picada en cuadritos, el ajo y el ají panca molidos, zanahoria y tomate cortados en cubos o dados, nuestras 2 hojas de laurel, la pasta y nuestras presas de pollo. Tú puedes escoger las partes del pollo al gusto.",
-                    "Empieza calentando agua en una olla grande donde quepa la pasta. Cuando el agua ha llegado al punto de ebullición, agrega una pizca de sal y un chorrito de aceite vegetal, añade la pasta esparcida por toda la olla. Mueve suavemente para cocinar de forma pareja, esto solo tomará 10 minutos. Luego, escurre los fideos y reserva.",
-                    "En una olla calienta un chorro de aceite vegetal. Aquí sellaremos las presas de pollo por ambos lados. Las presas de pollo las debes sazonar al gusto previamente con sal, pimienta y comino.",
-                    "Retira las presas. En esta misma olla donde acabas de sellar el pollo, agrega la cebolla picada y las dos cucharadas de ajo molido y deja dorar por un par de minutos. Ahora agrega las dos cucharadas de ají panca y deja cocinar por 3 minutos más moviendo suavemente.",
-                    "Agrega la zanahoria y el tomate junto con un poco del agua donde has estado cociendo la pasta. Echa también una pizca de sal aquí.",
-                    "Después de 8 minutos de cocción, lleva esta preparación a licuar. Ten cuidado de no hacerlo cuando esté aún muy caliente. Lo conseguido en el licuado debe tener una textura espesa y pastosa.",
-                    "Incorpora lo que has licuado a la olla donde hiciste el aderezo y agrega más agua de cocción. Aquí también podrías colocar fondo de pollo para realzar el sabor. Agrega también las presas de pollo, las hojas de laurel y rectifica la sazón. Deja cocinar por un lapso de 15 minutos.",
-                    "Cuando el pollo esté cocido, retira por un momento y vierte en este juguito la pasta ya cocida. Mezcla bien y proporciona una última probada a la sazón, rectifica con sal, pimienta y orégano a tu gusto. Para servir, coloca sobre tu plato una buena porción de los fideos y encima la contundente y jugosa presa de pollo. ¡A disfrutar del delicioso guiso de tallarines con pollo!"
+                    "To start preparing Peruvian red noodles, get your mise en place ready, which should include: diced red onion, ground garlic and ají panca, diced carrots and tomatoes, 2 bay leaves, pasta, and your chicken pieces. You can choose the chicken parts to your preference.",
+                    "Start by heating water in a large pot that can hold the pasta. When the water reaches boiling point, add a pinch of salt and a splash of vegetable oil, then add the pasta spread evenly throughout the pot. Stir gently to cook evenly, which will only take 10 minutes. Then, drain the noodles and set aside.",
+                    "In a pot, heat a splash of vegetable oil. Here, we will brown the chicken pieces on both sides. Season the chicken pieces with salt, pepper, and cumin to taste beforehand.",
+                    "Remove the chicken pieces. In the same pot where you browned the chicken, add the diced onion and two tablespoons of ground garlic, and let it brown for a couple of minutes. Then add the two tablespoons of ají panca and cook for 3 more minutes, stirring gently.",
+                    "Add the carrot and tomato along with some of the water used to cook the pasta. Also add a pinch of salt.",
+                    "After 8 minutes of cooking, transfer this mixture to a blender. Be careful not to do this while it’s still too hot. The blended mixture should have a thick and pasty texture.",
+                    "Add the blended mixture to the pot where you made the sauce and add more cooking water. You could also add chicken broth to enhance the flavor. Add the chicken pieces, bay leaves, and adjust the seasoning. Let it cook for about 15 minutes.",
+                    "When the chicken is cooked, remove it for a moment and add the cooked pasta to the sauce. Mix well and give it a final taste check, adjusting with salt, pepper, and oregano to your liking. To serve, place a good portion of noodles on your plate and top with the hearty and juicy chicken piece. Enjoy the delicious noodle and chicken stew!"
                 ],
                 "Foto": "gs://cooking-plus.appspot.com/tallarines_rojos_con_pollo.jpg",
                 "Ingredientes": {
