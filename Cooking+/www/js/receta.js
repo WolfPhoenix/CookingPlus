@@ -1,88 +1,101 @@
 import { Firebase } from './firebase.js';
-import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-database.js";
 import { getStorage, ref as storageRef, getDownloadURL } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-storage.js";
+import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-database.js";
 
-$(function() {  // Esta es la forma abreviada de $(document).ready()
-    const firebaseInstance = new Firebase();
-    const app = firebaseInstance.getApp();
-    const db = getDatabase(app);
-    const storage = getStorage(app);
+$(function () {
+    $(function () {
+        const firebaseInstance = new Firebase();
+        const app = firebaseInstance.getApp();
+        const db = getDatabase(app);
+        const storage = getStorage(app);    
 
-    const recetasRef = ref(db, 'recetas/');
+        var miReceta = JSON.parse(localStorage.getItem("receta"));
+        var recetaNombre = localStorage.getItem("recetaNombre");
 
-    $("#cerrarSesion").on("click", function() {
-        sessionStorage.removeItem('usuario');
-        document.location.href = "./index.html";
-    });
+        console.log("Receta en localStorage:", miReceta);
+        console.log("Nombre de la receta:", recetaNombre);
 
-    let pulsado = true;
-    $("#user").on("click", function() {
-        if (pulsado) {
-            $("#informacion").css("display", "flex");
-            $(this).attr("id", "userActive");
-        } else {
-            $("#informacion").css("display", "none");
-            $(this).attr("id", "user");
+        if (!miReceta || !recetaNombre) {
+            console.error("No se encontró la receta o el nombre en localStorage.");
+            return;
         }
-        pulsado = !pulsado;
+
+        const idiomaNavegador = navigator.language || navigator.userLanguage;
+        const idiomaReceta = idiomaNavegador.startsWith('en') ? 'en' : 'es';
+        const recetasFile = idiomaReceta === 'en' ? 'recetas-en.json' : 'recetas-es.json';
+
+        $.getJSON(`../json/${recetasFile}`)
+            .done(function (data) {
+                const traduccionesRecetas = data.recetas;
+                const descripcionTraduccion = data.descripcion;
+                const ingredientesTraduccion = data.ingredientes;
+                const elaboracionTraduccion = data.elaboracion;
+                const pasosTraduccion = data.pasos;
+
+                const categorias = Object.keys(traduccionesRecetas);
+                console.log("Categorías en el JSON:", categorias);
+
+                const categoria = categorias.find(cat => traduccionesRecetas[cat][recetaNombre]);
+                if (!categoria) {
+                    console.error(`Categoría para receta ${recetaNombre} no encontrada.`);
+                    return;
+                }
+
+                console.log("Categoría encontrada:", categoria);
+                const receta = traduccionesRecetas[categoria][recetaNombre];
+                if (!receta) {
+                    console.error(`Receta ${recetaNombre} no encontrada en la categoría ${categoria}.`);
+                    return;
+                }
+
+                $("h1.descripcion").text(descripcionTraduccion);
+                $("h1.elaboracion").text(elaboracionTraduccion);
+                $("h1.ingredientes").text(ingredientesTraduccion);
+
+                const URLfoto = miReceta.Foto;
+                const contenedorFoto = $(".foto");
+                const imageRef = storageRef(storage, URLfoto);
+
+                getDownloadURL(imageRef).then(function (url) {
+                    const img = $("<img>").attr("src", url).addClass("imagen-receta");
+                    contenedorFoto.append(img);
+                }).catch(function (error) {
+                    console.error("Error obteniendo la URL de la imagen: ", error);
+                });
+
+                const descripcionOriginal = receta.Descripción;
+                const parrafoDescripcion = $("<p>").text(descripcionOriginal);
+                $("#contenedorDescripcion").append(parrafoDescripcion);
+
+                const pasosElaboracion = receta.Elaboración;
+                const contenedorElaboracion = $("#contenedorElaboracion");
+
+                $.each(pasosElaboracion, function (index, paso) {
+                    const pasoTraducido = paso;
+                    const pasoElaboracion = $("<div>").html(`<p><strong>${pasosTraduccion} ${index + 1}:</strong> ${pasoTraducido}</p>`);
+                    contenedorElaboracion.append(pasoElaboracion);
+                });
+
+                const ingredientes = receta.Ingredientes;
+                const contenedorIngredientes = $("#contenedorIngredientes");
+                const tablaIngredientes = $("<table>").addClass("tabla-ingredientes");
+
+                $.each(ingredientes, function (ingrediente, cantidad) {
+                    const ingredienteTraducido = ingrediente;
+                    const fila = $("<tr>");
+                    const celdaNombre = $("<td>").text(ingredienteTraducido);
+                    const celdaCantidad = $("<td>").text(cantidad);
+                    fila.append(celdaNombre).append(celdaCantidad);
+                    tablaIngredientes.append(fila);
+                });
+
+                contenedorIngredientes.append(tablaIngredientes);
+            })
+            .fail(function () {
+                console.error("Error al cargar el archivo JSON de recetas.");
+            });
+
     });
-
-    const usuRef = ref(db, 'usuarios/' + sessionStorage.getItem('usuario'));
-
-    onValue(usuRef, function(snapshot) {
-        var datosUsuario = snapshot.val();
-
-        if (datosUsuario) {
-            let usuario = datosUsuario.nombre;
-            let email = datosUsuario.email;
-            $("#userData").html("Has iniciado sesión como: <br>" + usuario + "<br> Email: <br>" + email);
-        } else {
-            console.log('No hay datos en la referencia.');
-        }
-    });
-
-    $("#logo").on("click", function() {
-        window.location.href = "./categorias.html";
-    });
-
-    var miReceta = JSON.parse(localStorage.getItem("receta"));
-    const URLfoto = miReceta.Foto;
-    const contenedorFoto = $(".foto");
-    const imageRef = storageRef(storage, URLfoto);
-
-    getDownloadURL(imageRef).then(function(url) {
-        const img = $("<img>").attr("src", url).addClass("imagen-receta");
-        contenedorFoto.append(img);
-    }).catch(function(error) {
-        console.error("Error obteniendo la URL de la imagen: ", error);
-    });
-
-    const parrafoDescripcion = $("<p>").text(miReceta.Descripción);
-    $("#contenedorDescripcion").append(parrafoDescripcion);
-
-    const pasosElaboracion = miReceta.Elaboración;
-    const contenedorElaboracion = $("#contenedorElaboracion");
-
-    $.each(pasosElaboracion, function(index, paso) {
-        const pasoElaboracion = $("<div>").html(`<p><strong>Paso ${index + 1}:</strong> ${paso}</p>`);
-        contenedorElaboracion.append(pasoElaboracion);
-    });
-
-    const ingredientes = miReceta.Ingredientes;
-    const contenedorIngredientes = $("#contenedorIngredientes");
-    const tablaIngredientes = $("<table>").addClass("tabla-ingredientes");
-
-    $.each(ingredientes, function(ingrediente, cantidad) {
-        const fila = $("<tr>");
-        const celdaNombre = $("<td>").text(ingrediente);
-        const celdaCantidad = $("<td>").text(cantidad);
-        fila.append(celdaNombre).append(celdaCantidad);
-        tablaIngredientes.append(fila);
-    });
-
-    contenedorIngredientes.append(tablaIngredientes);
 });
-
-
 
 

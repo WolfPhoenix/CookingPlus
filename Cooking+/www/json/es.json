@@ -25,6 +25,10 @@
     "errorComprobar": {
         "required": "Confirmar la contraseña es obligatorio.",
         "match": "Las contraseñas no coinciden."
-    }
+    },
+    "informacionUsuario": "Información del Usuario",
+    "cerrarSesion": "Cerrar Sesión",
+    "hasIniciadoSesionComo": "Has iniciado sesión como:"
 }
+
 

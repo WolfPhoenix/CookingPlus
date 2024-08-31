@@ -1,0 +1,1276 @@
+{
+  "descripcion": "Descripción:",
+  "ingredientes": "Ingredientes:",
+  "elaboracion": "Elaboración:",
+  "pasos": "Paso:",
+  "recetas": {
+    "Arroces": {
+      "Arroz al caldero murciano": {
+        "Descripción": "Arroz caldero es un plato tradicional de la cocina murciana, caracterizado por su intenso sabor a pescado. Para conseguirlo, se hace un buen caldo de pescado con las espinas o la morralla que venden en las pescaderías, que se compone de varios pescados pequeños que solo se utilizan para hacer un buen caldo, y un buen sofrito colorado por las ñoras y el tomate.  Este es un plato que lo preparaban los pescadores utilizando un caldero grande, de ahí el nombre de arroz caldero. Tradicionalmente, se acompaña con el pescado aparte, tal y como hemos hecho nosotros.",
+        "Elaboración": [
+          " Coge una cazuela, añade un chorro de aceite y sella a fuego fuerte el pescado. Puedes hacerlo en filetes sin espinas o en rodajas. Cuando el pescado esté listo, sácalo y resérvalo.",
+          "En la misma cazuela, añade las ñoras y los ajos y cocina a fuego medio hasta que empiecen a coger color los ajos, pero prestando atención a que no se quemen porque esto estropearía el sofrito. Agrega el tomate y deja que se cocine todo junto unos 10 minutos.",
+          "Por otro lado, prepara el caldo de pescado que dará sabor al arroz caldero. Para hacerlo, en una cazuela pon la morralla o espinas, cubre con agua, como con un litro y medio o 2 litros, y añade un poco de sal. Cocina a fuego medio.",
+          "Una vez que está el sofrito listo, tritúralo todo con la batidora eléctrica. Cuando el caldo se encuentre a mitad de cocción, es decir, pasados unos 10 minutos, incorpora el sofrito triturado y deja que se cocine todo unos 10-15 minutos. Cuela el caldo y resérvalo para seguir con la receta de arroz al caldero.",
+          "Vierte el caldo en la cazuela o paella donde vayas a preparar el arroz. Necesitarás aproximadamente un litro y medio, de manera que si te sobra puedes guardarla por si necesitas añadir más. El arroz caldero queda un poco más meloso, por lo que quizá necesites usar un poco más de caldo más adelante.",
+          " Añade el arroz y las hebras de azafrán. Deja que se cueza durante 10 minutos y prueba para valorar si es necesario rectificar con sal. Deja que se termine de hacer. En total, este arroz suele necesitar entre 18 y 20 minutos de cocción, aunque el tiempo total puede variar según el tipo de arroz utilizado y el punto de cocción que te guste.",
+          "Cuando veas que te quedan unos 5 minutos para que el arroz esté listo, añade el pescado por encima para que se termine de cocinar. Cuando esté listo el arroz al caldero murciano, apaga el fuego y deja reposar 5 minutos.",
+          "Una vez listo el caldero murciano, puedes acompañarlo con un poco de alioli."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_al_caldero_murciano.jpg",
+        "Ingredientes": {
+          "Aceite de oliva ": "1 chorro",
+          "Ajo": "3 dientes",
+          "Arroz bomba": "400 gr",
+          "Azafrán": "3 hebras",
+          "Espinas de pescado": "1 kg",
+          "Lubina": "2 lubinas",
+          "Sal": "al gusto",
+          "Tomate triturado": "300gr",
+          "Ñora": "3 ñoras"
+        }
+      },
+      "Arroz al horno valenciano": {
+        "Descripción": "Hoy preparamos un arroz al horno valenciano, un arroz tradicional que se distingue gracias a su mezcla entre arroz y cocido. Esta receta surgió para aprovechar los ingredientes que quedaban de la preparación del cocido.  Así pues, destacamos que el arroz al horno valenciano es un plato muy sencillo y aunque tiene unos cuantos pasos, no es nada dificultoso. Anímate a cocinar con nosotros y prepara este delicioso plato que se termina de hacer en el horno. Te quedará un arroz totalmente suelto y en su punto. ¡El resultado es impresionante!  Debes saber que con arroz se puede hacer cualquier plato y además también se puede mezclar con cualquier ingrediente. Así pues, no puede faltar nunca un paquete de arroz en casa. ¡Sigue leyendo y prepara con nosotros un arroz al horno valenciano!",
+        "Elaboración": [
+          "En primer lugar, ponemos a calentar arriba y abajo el horno a 200ºC. A continuación, salamos la costilla y la panceta. Seguidamente, ponemos una cazuela al fuego con un poco de aceite y cuando esté caliente añadimos la costilla y dejamos que se dore. Cuando esté a medio dorar añadiremos la panceta y dejaremos se dore todo junto. Para finalizar, cuando esté cocinado, retiraremos los ingredientes y reservaremos.",
+          "Pues bien, en este paso debemos pelar las patatas y cortarlas en rodajas de medio cm. En la misma cazuela donde hemos dorado la carne y con el mismo aceite doramos las patatas por ambos lados. En unos 5 minutos estarán listas. Si hiciera falta aceite añadiremos un poco más. Sacamos y reservamos.",
+          "Seguidamente, volvemos a poner la carne, añadimos los garbanzos cocidos y la cabeza de ajos también la incluimos dentro de la cazuela, pero la dejamos a un lado para que vaya cogiendo color. A continuación, añadimos el arroz y todo junto lo mezclamos bien. Finalmente, añadimos la cucharadita de pimentón dulce y lo dejamos cocinar unos minutos. Añadimos un poco de sal.",
+          "Para continuar con la preparación del arroz al horno valenciano, calentamos el caldo y añadimos un poco de azafrán al mismo.",
+          "Seguidamente, añadimos el caldo a la cazuela, removemos todo e incorporamos la carne y el arroz. Colocamos las patatas alrededor de la cazuela, además de la cabeza de ajos que la ponemos en el medio. Seguidamente, ponemos la morcilla alrededor cortada en trozos y las rodajas de tomate también las incluimos. Dejamos que se cocine en el fuego fuerte unos 5 minutos.",
+          "Ahora meteremos la cazuela en el centro del horno. Lo dejamos cocinar unos 20 minutos con calor arriba y abajo. El arroz en el horno debe quedar completamente seco.",
+          " Sacamos el arroz, lo dejamos reposar 10 minutos y servimos. ¡Listo para comer!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_al_horno_valenciano.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "1 chorro",
+          "Ajo": "1 cabeza",
+          "Arroz": "350gr",
+          "Azafrán": "al gusto",
+          "Caldo de carne": "900 ml",
+          "Carne de cerdo": "500 gr",
+          "Garbanzos cocidos": "150gr",
+          "Morcilla": "2 morcillas",
+          "Panceta": "2 tiras",
+          "Patatas": "2 patatas",
+          "Pimentón dulce": "1 cucharada de postre",
+          "Sal ": "al gusto",
+          "Tomate": "1 tomate"
+        }
+      },
+      "Arroz con aceitunas": {
+        "Descripción": "El arroz con aceitunas o arroz al olivo es una guarnición tradicional, especial para la época navideña en Perú. Se trata de un arroz blanco pintado con puré de las aceitunas negras de botija, insumo estrella de la región costa sur del país (zona productora), enriquecido con ají amarillo, tocino, pasas, pecanas e incluso queso parmesano. Un acompañamiento infaltable para el pavo en la cena de Navidad, aunque también lo puedes preparar en cualquier época del año ya que combina muy bien con los marisco y carnes a la parrilla.",
+        "Elaboración": [
+          "Empieza cortando la cebolla finamente o en cubos pequeños, también pica el ajo finamente. También, si no conseguiste pasta de aceitunas, comienza a prepararla. Para hacerla, coloca las aceitunas deshuesadas en la licuadora, agrega un chorrito de agua y licúa hasta obtener un puré.",
+          " Además, corta el tocino en tiras, manteniendo las 3 capas de carne y grasa en cada pieza. Asimismo, pica las pecanas tostadas rústicamente.",
+          " Aparte, en una olla con base gruesa, vierte el tocino y enciende el fuego para que vaya soltando su grasa y se dore en ella. Cuando el tocino se vea dorado, retira de la olla y reserva.",
+          "Seguidamente, en la misma olla y con la grasa del tocino, suda la cebolla hasta que esté traslúcida.",
+          " Luego, añade el ajo y continúa sofriendo por un par de minutos e incorpora la pasta de ají amarillo. Mantén en el fuego removiendo esporádicamente durante 5 minutos o hasta que obtenga la textura de una mermelada.",
+          "A continuación, agrega la pasta de aceitunas y sigue removiendo hasta que se integren al aderezo. Si preparaste tu propia pasta, notarás que el aceite empieza a separarse del aderezo.",
+          " Después, procede a integrar el arroz previamente lavado y nacáralo, es decir, muévelo constantemente hasta que todo el aderezo se distribuya entre cada grano y se vean traslúcidos. Si ves que el arroz no está muy morado, añade un par de cucharadas más del puré de aceitunas.",
+          "Antes de cubrir con agua, añade las pasas rubias, las pasas negras y el tocino previamente dorado.",
+          "Finalmente, cubre con agua hasta que esté un dedo por encima del arroz y añade sal al gusto. Mezcla bien, tapa y deja que el arroz se cocine hasta que esté graneado.",
+          "Destapa e incorpora las pecanas picadas, remueve bien (utiliza un tenedor o una paleta para arroz).",
+          "Sirve inmediatamente en una bandeja, decora con más pasas y pecanas. ¡Buen provecho! "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_con_aceitunas.jpg",
+        "Ingredientes": {
+          "Aceitunas": "250gr",
+          "Ajo molido": "1 cua",
+          "Arroz": "1 taza",
+          "Cebolla": "1 cebolla",
+          "Pasas negras": "al gusto",
+          "Pasas rubias": "al gusto",
+          "Pasta de ají amarillo": "2 cucharadas",
+          "Pecanas tostadas": "al gusto",
+          "Queso parmesano": "al gusto",
+          "Sal": "al gusto",
+          "Tocino": "200gr"
+        }
+      },
+      "Arroz con acelgas valenciano": {
+        "Descripción": "Esta receta de arroz con acelgas valenciano es un plato sencillo y rápido de preparar que no lleva carne y que cuenta con pocas calorías. Se trata de un arroz típico valenciano que admite muchas variantes y que se puede preparar en cualquier época del año. Además, el arroz con acelgas también puede ser un plato de aprovechamiento, ya que podemos usar lo que tengamos en casa y añadir pollo, patatas, virutas de jamón, garbanzos y lentejas.  Es ideal para personas vegetarianas, así que estás buscando un plato nutritivo de verduras, sigue leyendo y descubre cómo hacer arroz con acelgas fácil",
+        "Elaboración": [
+          "Corta la cebolla y el ajo en trozos muy pequeños.",
+          " Lava las acelgas bajo el grifo limpiándolas bien que no contengan tierra. A continuación, retira la parte de la penca y utiliza las hojas de las acelgas.",
+          "Pon una cazuela a fuego medio con un poco de aceite, lo justo para pochar la cebolla. A continuación, añade la cebolla y deja que se poche. Cuando esté transparente, añade el ajo picado y deja que se cocine sin que llegue a coger color. Seguido, añade el tomate frito y mezcla todo, deja un par de minutos con cuidado no se pegue. Añade la cucharadita de pimentón dulce, mezcla todo bien.",
+          "Escurre las acelgas y córtalas en trozos pequeños, en tiras. Incorpóralas a la cazuela, mezcla y deja un minuto todo junto.",
+          "Añade el agua o el caldo de verduras, también se puede hacer un caldo con una pastilla de caldo. Sin embargo, no añadas todo el caldo, se puede dejar y reservar un poco por si no hace falta, según cómo de caldoso te guste el arroz.",
+          "Cuando el caldo empiece a hervir, añade el arroz, nosotros añadimos un puñado por persona, en este caso dos puñados. Baja el fuego un poco y deja que cueza el arroz unos 15-20 minutos, según el arroz. Si ves que se va quedando seco, puedes añadir más agua o caldo. Según como te guste de caldoso el arroz y de lo que vaya necesitando.",
+          " A mitad de la cocción, añade un poco de sal, prueba y rectifica. Ve moviendo la cazuela para que el arroz suelte el almidón y espese el caldo. Cuando veas que el arroz está cocido, apaga. Sirve enseguida para que el arroz con acelgas no se pase. ¡A comer"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_con_acelgas_valenciano.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "4 o 5 cucharadas ",
+          "Acelgas": "1 manojo",
+          "Ajo": "1 diente",
+          "Arroz": "1 puñado de arroz por persona",
+          "Caldo de verduras": "1 l",
+          "Cebolla": "1 cebolla",
+          "Pimentón dulce": "1 cucharada de postre",
+          "Sal ": "al gusto",
+          "Tomate frito": "3 cucharadas soperas"
+        }
+      },
+      "Arroz con calamares y langostinos": {
+        "Descripción": "La receta de arroz con calamares y langostinos es un plato tradicional de la gastronomía española. Una elaboración muy sencilla que no tiene mucha complicación, ya que si los ingredientes son buenos, aportan mucho sabor al arroz, sobre todo, el caldo de pescado con espinas y cabezas. Además, esta elaboración es muy sencilla y rápida de hacer, incluso, puedes preparar el sofrito con tiempo y tenerlo listo solo para añadir el arroz.",
+        "Elaboración": [
+          "Para empezar con la receta de arroz con calamares y langostinos, primero debes preparar el caldo. Para ello, en una cazuela añade las espinas de pescado, las cáscaras de las gambas, 1 diente de ajo y perejil. Seguido, cubre con agua y déjalo que se cocine unos 15 minutos. Luego, cuela el caldo y reserva.",
+          "Retira las cáscaras y las cabezas de los langostinos. Luego, retira la piel de los calamares y límpialos bien por dentro, corta en rodajas no muy finas.",
+          "En una paella o cazuela ancha añade un chorro de aceite y saltea los langostinos y el calamar. Cuando ya estén salteados, retira los langostinos y reserva.",
+          "Pela y pica 1 o 2 ajos. A continuación, añádelo a la cazuela junto con los calamares y, antes de que se doren mucho, añade el tomate triturado y déjalo en el fuego medio que se cocine. Cuando esté listo el tomate, añade el pimentón dulce y las hebras de azafrán. Mezcla todo junto.",
+          "Añade todo el arroz y realiza movimientos con la cuchara de madera o espátula para que se mezcle todo bien y se cocine.",
+          " Calienta el caldo de pescado que has preparado, debe estar limpio de espinas. Añade un poco de sal.",
+          " Añade el caldo de pescado y déjalo 5 minutos a fuego fuerte. Pasado el tiempo, debes bajarlo a fuego medio. A continuación, termina de cocinar unos 10 minutos más o hasta que esté listo. Antes de que esté el arroz, prueba de sal y rectifica. Luego, añade los langostinos por encima y deja que se termine de cocinar el arroz.",
+          "Cuando los calamares con arroz estén listos, apaga y deja reposar 5 minutos. ¡Ya puedes servir y disfrutar del arroz con langostinos y calamares!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_con_calamares_y_langostinos.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "1 chorro",
+          "Ajo": "2 dientes",
+          "Arroz": "400gr",
+          "Azafrán": "3 hebras por persona",
+          "Calamares": "200 gr",
+          "Caldo de pescado": "1l",
+          "Langostinos": "200 gr",
+          "Pimentón dulce": "1 cucharada de postre",
+          "Sal": "al gusto",
+          "Tomate triturado": "300gr"
+        }
+      },
+      "Arroz con conejo estilo andaluz": {
+        "Descripción": "El arroz con conejo tradicional estilo andaluz es un plato muy rico, ya que el conejo aporta muy buen sabor al arroz. Además, si dispones de un buen conejo de campo, el sabor es mucho más bueno. También puedes añadir más especias a este plato, según las zonas se añade comino, orégano o pimentón al arroz. El caldo que se incorpora es de carne o de pollo, pero se puede añadir de verduras o agua si no dispones, aunque actualmente lo puedes comprar ya preparado o hacerlo en un momento, un buen caldo ayudará a que el sabor del plato sea mucho más bueno.",
+        "Elaboración": [
+          " Para hacer el conejo con arroz casero primero limpia el conejo y trocéalo. A continuación, lava las verduras. También coloca una paella al fuego con un buen chorro de aceite de oliva. Añade un poco de sal al conejo y pon a dorarlo en la paella caliente.",
+          "Pica las verduras, la cebolla, el pimiento rojo y verde, pica todo bien pequeño. Cuando observes que el conejo está casi dorado por todos los lados, añade las verduras y deja se pochen.",
+          "Pica los dientes de ajo y añade junto al conejo con cuidado que no se queme. Si observas que no queda aceite, añade un poco más.",
+          "Ralla los tomates o lávalos y córtalos en trozos, incorpora a la cazuela antes de que se doren mucho los ajos. Pon un poco de sal y tomillo picado. Deja unos minutos que se cocine el tomate.",
+          "Añade el vino blanco y deja unos minutos para que se evapore el alcohol.",
+          "Añade el arroz y remueve para que se mezclen los sabores.",
+          "Añade el caldo de pollo caliente y también un poco de azafrán o colorante. Prueba el caldo de sal y, si hace falta, rectifica. Deja que se cocine el arroz deconejo 15-17 minutos hasta que esté al gusto.",
+          "A mitad de la cocción, prueba la paella de conejo y verduras por si falta un poco más de sal o tomillo. Deja que se termine de cocinar el arroz.",
+          " Cuando esté lista la paella con conejo, apaga el fuego y deja que repose unos 5 minutos. ¡A comer el mejor arroz con conejo de España!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_con_conejo_estilo_andaluz.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "3 o 4 cucharadas",
+          "Ajo": "2 dientes",
+          "Arroz": "400gr",
+          "Caldo de pollo": "1l",
+          "Cebolla": "1 cebolla",
+          "Colorante": "1 cucharada de postre",
+          "Conejo": "1 conejo",
+          "Pimiento rojo": "1 pimiento",
+          "Pimiento verde": "1 pimiento",
+          "Sal ": "al gusto",
+          "Tomate": "2 tomates",
+          "Tomillo": "al gusto"
+        }
+      },
+      "Arroz con costillas de la abuela": {
+        "Descripción": "Preparar arroz es muy sencillo, ya que se puede elaborar muy variado y con cualquier ingrediente puede quedar un rico plato: con pollo, conejo, verduras, etc. Pero un arroz con costillas de la abuela siempre queda bien, las costillas aportan muy buen sabor y queda riquísimo, sin embargo, para asegurarte que queda bueno debes preparar un buen sofrito.",
+        "Elaboración": [
+          "Para hacer el arroz con costillas de la abuela, primero limpia las costillas, pon sal y pimienta.",
+          "Coloca una paella con un chorro de aceite de oliva a fuego medio y pon a dorar las costillas, deja que se doren por fuera. A continuación, pica el pimiento rojo y el pimiento verde, añádelo a la cazuela que se vaya cocinando.",
+          "Pica los dientes de ajos y pícalos, añade a la cazuela. Remueve para que se dore todo junto sin que se cocinen demasiado los ajos.",
+          "Añade el tomate triturado y la cucharadita de postre de pimentón dulce. Mezcla todo y deja que se cocine unos minutos hasta que se haga el sofrito, con cuidado no se queme. Puedes utilizar tomate natural, solo tienes que pelar 3-4 tomates, los picas y deja se hagan junto con las verduras.",
+          "Añade el caldo de carne ydeja que se cocine unos 15 minutos para que se haga bien la carne.",
+          "Cuando empiece a hervir añade el azafrán, prueba de sal y rectifica.",
+          "Pon el arroz, repártelo bien y deja se cocine unos 5 minutos a fuego fuerte, baja el fuego medio y deja se cocine unos 10-12 minutos más o hasta que el arroz esté listo.",
+          "Cuando veas que le falta poco al arroz con costilla de la abuela, pruébalo para ver si necesita rectificar.",
+          " Cuando veas que el arroz con costillas y verduras está listo, apaga y deja que repose unos 5 minutos antes de servir."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_con_costillas_de_la_abuela.jpg",
+        "Ingredientes": {
+          "Aceite de oliva ": "4 o 5 cucharadas ",
+          "Ajo": "2 dientes",
+          "Arroz bomba": "350gr",
+          "Azafrán": "1 cucharada de postre",
+          "Caldo de carne": "1.2 l",
+          "Costillas de cerdo": "800 gr",
+          "Pimenton dulce": "1 cucharada de postre",
+          "Pimiento rojo": "1 trozo",
+          "Pimiento verde": "1 pimiento",
+          "Sal": "al gusto",
+          "Tomate triturado": "6 cucharadas soperas"
+        }
+      },
+      "Arroz frito japonés": {
+        "Descripción": "Prepara un delicioso arroz frito japonés o arroz yakimeshi, una elaboración de arroz acompañado de verduras, pollo, setas, etc. Un plato muy sencillo que podemos preparar en poco tiempo. Además, también debes saber que se puede hacer con el arroz hervido que sobre de otra comida o para aprovechar unas verduras que nos quedan por la nevera. El arroz debe quedar suelto, por eso aquí dejamos algunos trucos para que quede bien.",
+        "Elaboración": [
+          "Para que quede suelto el arroz, el truco está en añadirlo en un bol con agua, debes remover hasta que el agua esté blanca. Vierte el agua y vuelve a repetir la misma operación 2-3 veces más, el agua debe quedar blanco, el arroz habrá soltado todo el almidón y nos quedará más suelto. A continuación, añade una cazuela con agua y el arroz a cocer, tapa y deja el tiempo que indique el fabricante. Cuando esté, apaga el fuego y deja en la misma olla unos 30 minutos. Retira y aclara con bastante agua, con las manos manipula para separarlo bien.",
+          "Corta todas las verduras en trozos pequeños y coloca una sartén amplia con aceite. Añade las verduras menos los champiñones, deja que se pochen bien.",
+          " Cuando estén a medio pochar las verduras, pica los champiñones y añade a las verduras.",
+          "Pica el pollo en trozos pequeños y añade con las verduras que se cocine todo junto. Incorpora un poco de sal.",
+          "Elabora una tortilla con los dos huevos y corta en tiras o en trozos pequeños.",
+          "En una cazuela bien ancha, añade un poco de aceite de semillas, girasol o sésamo y coloca el arroz a fuego fuerte. Saltea y añade 3-4 cucharadas de soja y un poco de jengibre, remueve todo.",
+          " Añade las verduras al arroz y la tortilla en trozos. Saltea todo a fuego fuerte unos 2-3 minutos y prueba por si debes añadir algún ingrediente más.",
+          " Sirve el arroz japonés frito y listo para comer."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/arroz_frito_japones.jpg",
+        "Ingredientes": {
+          "Aceite de sésamo": "1 chorro",
+          "Arroz largo": "400gr",
+          "Calabacín": "1 calabacín",
+          "Cebolleta": "1 cebolleta",
+          "Champiñones": "100 gr",
+          "Huevos": "2 huevos",
+          "Jengibre en polvo": "1 cucharada de postre",
+          "Pechuga de pollo": "2 pechugas",
+          "Sal ": "al gusto",
+          "Zanahoria": "2 zanahorias"
+        }
+      },
+      "Foto": "gs://cooking-plus.appspot.com/arroces.jpeg"
+    },
+    "Carne": {
+      "Albondigas en freidora de aire": {
+        "Descripción": "Estas deliciosas albóndigas en freidora de aire son una delicia, jugosas y muy buenas. Además, las puedes preparar para comerlas con una ensalada o acompañarlas con alguna salsa, con pasta, arroz, etc. También las puedes elaborar añadiendo especias, ya que quedan muy bien con un poco de curry, salsa de soja o hierbas.",
+        "Elaboración": [
+          "Para hacer las albóndigas en freidora de aire, empieza preparando los ingredientes. La carne picada puede ser de ternera mezclada con un poco de cerdo, de pollo o de pavo. Pícala tú o pídeselo al carnicero que la pique.",
+          "Pica la cebolla y los dos dientes de ajos en trozos muy pequeños. Lava el perejil y pícalo.",
+          "Añade la carne en un bol con la cebolla picada, los dientes de ajos, el perejil y el huevo, mezcla todo muy bien. Pon un poco de sal y pimienta, vuelve a mezclar muy bien. Deja la carne que repose unos 15 minutos para que se mezcle todo bien.",
+          "Forma las albóndigas, coge porciones de carne y proporciona forma de bola.",
+          "Pon a calentar la freidora a 180 ºC unos 3-4 minutos o hasta que esté caliente.",
+          "Pinta con una brocha mojada en aceite la base de la freidora y encima añade las albóndigas, así no se pegarán. Añade la freidora a 180 ºC unos 15 minutos.",
+          "Abre la freidora a la mitad del tiempo para ver como están las albóndigas. Proporciona la vuelta y vuelve a poner la freidora el resto del tiempo para que se terminen de cocinar",
+          "Retira las albóndigas si ves que ya están cocinadas al gusto. Si te gustan más echas, déjalas unos minutos más. Por el contrario, si te gustan menos echas, retíralas un poco antes.",
+          "Retira las albóndigas en freidora de aire. ¡A comer! Si lo deseas, puedes acompañar las albóndigas en salsa. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/albondigas_en_freidora_de_aire.jpg",
+        "Ingredientes": {
+          "Ajo": "2 dientes",
+          "Carne picada": "1kg",
+          "Cebolla": "1 cebolla",
+          "Huevos": "1 huevo",
+          "Perejil": "al gusto",
+          "Pimienta": "al gusto",
+          "Sal": "al gusto"
+        }
+      },
+      "Carrillada en salsa vino blanco": {
+        "Descripción": "La carrillera o carrillada en salsa de vino blanco es un guiso exquisito y muy sencillo de preparar, aunque requiere una cocción larga. Esto se debe a que el corte de proteína proviene de la parte más grasa de ambos lados de la cara del cerdo (mofletes o mejillas), unas piezas con textura fibrosa y dura. Debido a la cantidad de grasa, aporta untuosidad a la salsa que los recubre, elaborada a base de vegetales, caldo y vino blanco.",
+        "Elaboración": [
+          "Empieza colocando las carrilleras sobre una tabla de picar y, con un cuchillo, retira las membranas que las recubren (si es que las tienen) y salpimiéntalas. Después, calienta una olla y vierte un buen chorro de aceite de oliva. Deja que caliente a máxima temperatura para proceder a sellarlas y evitar que suelten sus jugos y se sancochen. Deja que dore por ambos lados y reserva, todo este proceso solo tomará un par de minutos.",
+          "Aparte, en otra tabla pica los vegetales: cebollas, el poro, el ajo, la zanahoria y el tomate en cubos medianos. No te preocupes si los cortes no están regulares porque luego se colarán y retirarán.",
+          " En la misma olla donde se sellaron las carnes, vuelca primero las cebollas junto con el puerro y el ajo picado, sofríe, de esta manera se recupera todo el sabor que se pegó a la base.",
+          "Cuando comience a verse la cebolla traslúcida, agrega las zanahorias y los tomates. También añade las especias: orégano, romero, hojas de laurel, pimienta negra y una cucharadita de sal.",
+          "Deja que sude por 5 minutos removiendo de vez en cuando y, luego, vuelca el vino blanco. Continúa removiendo hasta que se evapore.",
+          "Seguidamente incorpora las carrilleras junto con el jugo que pudo haber soltado y cubre con caldo o agua. Tapa y deja cocinar de 1 hora y media a 2 horas.",
+          "Cumplido el tiempo de cocción, separa las piezas de carne del guiso que deben estar sumamente tiernas (no se necesita del cuchillo para cortar, se desprende con una cuchara) y cuela la salsa.",
+          "Coloca nuevamente la salsa en la olla y coloca a fuego alto para reducirla, es decir, déjala hervir hasta que se vea napada o más densa.",
+          "Cuando la salsa obtenga tenga más cuerpo, rectifica la sazón, vuelve a integrar las carrilleras para calentarlas y sirve inmediatamente. ¡Buen provecho!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/carrillada_en_salsa_vino_blanco.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "5 cucharadas",
+          "Ajo": "5 diantes",
+          "Carrilleras": "1kg",
+          "Cebolla": "2 cebollas",
+          "Clado de carne": "1/2 litro",
+          "Laurel": "2 hojas",
+          "Orégano": "al gusto",
+          "Primenta negra": "1/2 cucharadita",
+          "Puerro": "1 puerro",
+          "Romero": "1 rama",
+          "Sal": "al gusto",
+          "Tomate": "1 tomate",
+          "Vino Blanco": "1 vaso",
+          "Zanahoria": "1 zanahoria"
+        }
+      },
+      "Conejo al horno al ajillo": {
+        "Descripción": "El conejo al horno al ajillo es un plato rápido y sencillo de preparar. Asimismo, es muy cómodo de hacer, ya que se va haciendo solo en el horno. La carne de conejo que usaremos es muy saludable, esto es debido a que es una carne blanca con pocas grasas. Además, lo mejor de este tipo de carnes es que la podemos cocinar de varias maneras, ya sea en salsa, a la plancha, con tomate, con verduras, frito o, como en este caso, al horno. Por otra parte, esta receta de conejo al horno necesita pocos ingredientes. Por último, es un plato muy económico que nos vale como entrante o como plato único, acompañado de una buena ensalada.",
+        "Elaboración": [
+          "Para empezar con esta receta, primero debes limpiar el conejo, retirando la grasa. Cuando lo hayas limpiado, debes cortarlo en trozos. Seguidamente, enciende el horno a 200 ºC con calor arriba y abajo. Recuerda poner los trozos de conejo en una fuente apto para horno. Después, debes salpimentar los trozos de conejo y añadir un chorro de aceite de oliva.",
+          "Debes pelar los dientes de ajo y añadirlos a la fuente en la que tenemos el conejo. Ahora, pela las patatas y, si son pequeñas, cortarlas en cuartos. Si, de lo contrario, las patatas son grandes, debes cortarlas en 6 trozos para que se cocinen a la vez que el conejo. Posteriormente, echa un poco de sal y aceite a las patatas. Simultáneamente, debes espolvorear un poco de tomillo seco o fresco por toda la fuente. Por último, debes meter al horno unos 15 minutos.",
+          "Cuando hayan pasado los 15 minutos, debes sacar la fuente de horno para darle la vuelta al conejo y a las patatas, de esta forma se cocinarán de forma uniforme y te quedará un conejo al horno jugoso y tierno. Seguidamente, espolvorea un poco más de tomillo y, en caso de ser necesario, un poco de sal. Después, añade el vaso de vino blanco y vuelve a meter la fuente al horno. Ahora, deja que la carne se cocine durante unos 20-30 minutos.",
+          "Debes ir mirando que se dore toda la carne. Es importante que vayas sacando la fuente y le des vueltas hasta que esté todo dorado. También debes ir pinchando las patatas para comprobar si han quedado tiernas. Cuando esté completamente dorado, es el momento de sacarlo del horno. Ya puedes servir el conejo con patatas al horno."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/conejo_al_horno_al_ajillo.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "1 chorro",
+          "Ajo": "7 dientes",
+          "Conejo": "1 conejo troceado",
+          "Patata": " 2 patatas",
+          "Pimienta": "al gusto",
+          "Sal ": "al gusto",
+          "Tomillo": "al gusto",
+          "Vino blanco": "150 ml"
+        }
+      },
+      "Estofado de osobuco": {
+        "Descripción": "El osobuco (del italiano \"ossobuco\" que significa hueso hueco), es un corte de carne correspondiente a una parte de la pata de la vaca o ternera. En algunos países se conoce como morcillo o jarrete de ternera y es ideal para preparar en guisos, brazeado o estofado, como haremos en esta ocasión. Debes saber que es indispensable no retirar el hueso, ya que el tuétano del mismo le otorga el sabor tan característico al plato.",
+        "Elaboración": [
+          "Prepara todos los vegetales. Para ello,pela y pica la cebolla,el ajo ylos pimientos. Tambiénpelay corta en ruedas la zanahoria y lava y pica el puerro reservando por separado la parte verde.",
+          "A continuación, retira algún exceso de grasa de la carne y enharina las porciones de osobuco por ambos lados.",
+          "Seguidamente, pon a calentar la olla con una cucharada de aceite. Cuando tome temperatura, sella la carne de los dos. Luego, retira y reserva.",
+          "En la misma olla, rehoga los vegetales con otra cucharada sopera de aceite. Primero, la cebolla y el ajo. Cuando esté transparente, incorpora los pimientos, la zanahoria y la parte blanca del puerro.",
+          "Después de unos minutos, cuando la verdura empiece a tomar color, vuelve a añadir la carne y vierte el vino. Deja evaporar el alcohol 3 o 4 minutos y agrega el caldo. Tapa la olla y cuando rompa el hervor, baja la temperatura del fuego. Cocina el osobuco al menos por 1 hora y revuelve cada tanto y, si fuera necesario, agrega un poco más de caldo.",
+          "Cuando esté listo, puedes mezclar las hojas picadas del puerro en el estofado de osobuco o bien espolvorearlas por encima al servir el plato. ¡A comer! "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/estofado_de_osobuco.jpg",
+        "Ingredientes": {
+          "Ajo": "1 diente",
+          "Caldo de carne": "1/2 l",
+          "Cebolla": "1 cebolla",
+          "Harina": "2 cucharadas soperas",
+          "Laures": "2 hojas",
+          "Osobuco": "3 rodajas",
+          "Pimentón dulce": "1 cucharada de postre",
+          "Pimienta": "al gusto",
+          "Pimiento rojo": "1/2 pimiento",
+          "Pimiento verde": "1/2 pimiento",
+          "Puerro": "1 puerro",
+          "Sal": "al gusto",
+          "Tomillo": "1 rama",
+          "Zanahoria": "1 zanahoria"
+        }
+      },
+      "Estofado de ternera con setas": {
+        "Descripción": "El estofado de ternera es un clásico en la cocina tradicional española y mediterránea. Se trata de un guiso muy sencillo en el que se aprovechan partes de la ternera que necesitan cocciones más largas para ablandar la carne y que, de otra manera, serían difíciles de ingerir.  En esta receta se utilizan setas para acompañar la carne. Las setas aportan sabores muy especiales a los guisos, ya que sus aromas a tierra y humedad quedan muy presentes en el paladar. Por todo ello, el estofado de ternera con setas es un plato muy reconfortante que, seguro, agradecerá una buena hogaza de pan para acompañarlo.",
+        "Elaboración": [
+          "Enharina la carne y dórala en una olla con el aceite de oliva bien caliente. Retira la carne a un plato y resérvala.",
+          " Pica la cebolla, la zanahoria y el pimiento en pequeños cubos y póchalo todo durante 5 minutos en la misma olla que has utilizado para dorar la cocina.",
+          " Cuando las verduras estén pochadas, añade el tomate triturado y deja sofreír todo junto 5 minutos más. Es muy importante que vayas removiendo para evitar que se queme, ya que el sofrito es lo que aportará más sabor al estofado de ternera con setas.",
+          "Mientras se hace el sofrito, en una sartén aparte saltea las setas durante 2 minutos para que suelten parte del agua. Apaga el fuego y reserva.",
+          " Pasados los 5 minutos, añade de nuevo la carne a la olla, mezcla con cuidado y, seguidamente, vierte el vaso de vino tinto. Deja reducir el alcohol durante aproximadamente 1 minuto. El vino tinto es otra de las claves para conseguir un estofado de ternera con setas muy sabroso, por lo que no aconsejamos eliminarlo de la receta. ¡Ya casi está la receta de carne con setas!",
+          "Incorpora las setas, los dos vasos de agua o caldo y el romero a la olla. Salpimienta al gusto y tapa la olla. Deja cocer a fuego medio unos 40 minutos removiendo de vez en cuando. También puedes hacer el estofado de ternera con setas en olla rápida. En este caso, el tiempo será de 20 minutos.",
+          "¡Ya estará listo para servir! Disfruta de esta increíble receta de estofado de ternera con setas estando aún caliente y no olvides cortar unas buenas rebanadas de pan de hogaza."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/estofado_de_ternera_con_setas.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "200 ml",
+          "Caldo de carne": "1/2 l",
+          "Cebolla": "1 cebolla",
+          "Harina": "140 gr",
+          "Pimiento": "1/2 pimiento",
+          "Romero ": "1 rama",
+          "Setas variadas": "250gr",
+          "Ternera": "400 gr en tacos",
+          "Tomate triturado": "200gr",
+          "Vino tinto": "1 vaso",
+          "Zanahoria": "2 zanahorias"
+        }
+      },
+      "Foto": "gs://cooking-plus.appspot.com/carne.jpg",
+      "Milanesa napolitana con puré": {
+        "Descripción": "La milanesa es un símbolo argentino muy popular en el país. Asimismo, existen numerosas elaboraciones: a caballo, napolitana, fugazzeta, milapizza, lo cierto es que existen tantas variedades como personas que las preparan. Incluso el sándwich de milanesa es toda una institución, tanto es así que no faltan en ninguna casa, tanto de familia como de solteros y en restaurantes del mejor nivel o bodegones. También debes saber que la milanesa se prepara con carne de vaca, de cerdo, de pollo o de pescado, humedecida en huevo y empanada con pan rallado, polenta, avena, panko, semillas o una combinación de todos ellos. Cocida al horno o frita y acompañada por distintas guarniciones, entre las más comunes, papas fritas, puré o ensalada.  En esta receta aprenderás cómo hacer milanesa napolitana con puré con patatas naturales. ¡A cocinar!",
+        "Elaboración": [
+          "Para empezar con receta de la milanesa con puré, primero enciende el horno a temperatura máxima y, por un lado, mezcla el huevo con la leche y la pimienta. A continuación, humedece en esta preparación la carne, que puede ser carré de cerdo sin hueso, lomo, bola de lomo, cuadrada, tapa de nalga o nalga.",
+          " Prepara el pan rallado en un recipiente amplio. Asimismo, puedes mezclarlo o bien reemplazarlo por avena, polenta, copos de maíz procesados o panko. También puedes agregar semillas. A continuación, lleva la milanesa humedecida en huevo a este recipiente y ejerce algo de presión para asegurarte que se pega. Resérvalas.",
+          "Antes de empezar a cocinar las milanesas, cocina los ingredientes del puré. Para ello, necesitarás pelar y cortar en cubos la papa y la calabaza.",
+          " Cocina los vegetales en abundante agua hirviendo hasta que, al pincharlos, se caigan del tenedor o cuchillo.",
+          "Rocía las milanesas con aceite en aerosol por ambos lados y, a continuación, cúbrelas con tan solo un chorrito de aceite, también puedes pintarlas con ayuda de un pincel de cocina. Luego, llévalas a una asadera y cocínalas en el horno precalentado a 200 ºC o 220 ºC durante 10-15 minutos. Para cocinarlas fritas, calienta suficiente aceite para que la napolitana argentina quede sumergida, hazlo durante unos 2 o 3 minutos por cada lado.",
+          " Prepara la salsa para tu milanesa argentina. Para ello, pela y pica la cebolla para saltearla en una sartén con una cucharadita de aceite. Cuando esté transparente, baja el fuego al medio y, si es necesario, agrega una cucharada de agua caliente para despejarla del fondo. Repite unas 2 o 3 veces para que quede bien cocida.",
+          " Cuando la cebolla esté cocida, agrega el tomate pisado y los condimentos: el pimentón, el orégano y el tomillo. Cuando empiece a hervir, baja el fuego al mínimo y cocina tu salsa mientras se cocinan las milanesas en el horno.",
+          "Antes de servir tu salsa, agrega una pizca de bicarbonato de sodio para que no produzca acidez estomacal.",
+          "Pasados los 10 minutos de cocción de las milanesas, gíralas y cocínalas unos 5-10 minutos más, según el grosor de las milanesas.",
+          "Agrega la salsa que habías preparado anteriormente. Asimismo, si habías cocinado la milanesa frita, llévala a una asadera para empezar a seguir estos pasos y prepararla napolitana.",
+          " Incorpora la feta de jamón y el queso fresco. A continuación, devuelve las milanesas a la napolitana al horno y calienta unos 5 minutos para que se derrita el queso y se calienten los ingredientes.",
+          "Prepara el puré. Para ello, pisa la calabaza.",
+          " Condimenta la calabaza al gusto con la pimienta, la nuez moscada y la manteca. Según la consistencia, agrega leche o crema para aligerarlo.",
+          "También pisa y condimenta la papa al gusto con la pimienta, la nuez moscada y la manteca. Según la consistencia y tu gusto, agrega leche o crema para aligerarlo.",
+          " Sirve la milanesa napolitana con puré y con un poco de orégano. ¡A comer!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/milanesa_napolitana_con_pure.jpg",
+        "Ingredientes": {
+          "Cebolla": "1 cebolla",
+          "Huevo": "1 huevo",
+          "Jamón natural": "1 loncha por filete",
+          "Leche": "segun se necesite",
+          "Orégano ": "al gusto",
+          "Pan rallado": "segun se necesite",
+          "Pimentón": "1/2 cucharada de postre",
+          "Pimienta": "1/2 cucharada de postre",
+          "Queso fresco": "60 gr",
+          "Ternera": "1 filete por persona",
+          "Tomete frito": "1/2 lata"
+        }
+      },
+      "Pollo al disco con vino blanco": {
+        "Descripcíon": "La receta que te presentamos es fácil y rápida de preparar gracias al método de cocción al disco. Verás que quedará muy jugosa, colorida y con una deliciosa salsa que obtendremos gracias al sabor de sus ingredientes amalgamados por el vino. En este caso, elegimos usar uno blanco de variedad chardonnay. Se trata de un vino seco y con cuerpo que destaca por su intensidad aromática y sabores frutales que van desde manzana verde hasta frutas tropicales, pasando por los cítricos. Sin duda, marida a la perfección con este plato.",
+        "Elaboración": [
+          "Para comenzar con la preparación de esta receta, pela la cebolla y córtala en juliana y el ajo en finas rodajas. También lava, quita las semillas y las nervaduras de los pimientos rojo y amarillo, córtalos en tiras. Finalmente, pela la zanahoria y córtala en rueditas.",
+          "Separa las patas de los muslos del pollo, retira la piel y la grasa. Condimenta con sal y pimienta.",
+          "Coloca el disco sobre el fuego y vierte un chorro de aceite. Cuando tome temperatura, añade las porciones de pollo y rehoga hasta que esté dorado por todos lados. En ese momento, retira y reserva en un plato.",
+          "Cocina la cebolla y el ajo. Cuando comiencen a transparentar, agrega los pimientos y, cuando estos estén más tiernos, incorpora la zanahoria. Cocina por unos 5 minutos, para que todo se dore un poco. En ese momento, vierte el vino blanco y espera un par de minutos hasta que se evapore el alcohol",
+          "Incorpora el caldo, los condimentos y el pollo. Remueve bien todo y deja cocinar entre 20 y 30 minutos. Revisa cada tanto y, si fuera necesario, agrega más líquido.",
+          " Suma los guisantes y la crema a la preparación. Revuelve bien, retira del fuego y deja reposar unos minutos para que estos ingredientes se calienten y se integren bien los sabores.",
+          "El pollo al disco con vino blanco está listo, espolvorea con el perejil picado. ¡A comer!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/pollo_al_disco_con_vino_blanco.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "segun se necesite",
+          "Ajo": "1 diente",
+          "Caldo de pollo": " 300 ml",
+          "Cebolla": "1 cebolla",
+          "Crema de leche": "2 cucharadas soperas",
+          "Guisantes": "100gr",
+          "Perejil ": "al gusto",
+          "Pimienta": "al gusto.",
+          "Pimiento amarillo": "1/2 pimiento",
+          "Pimiento rojo": "1/2 pimiento",
+          "Pollo": "2 cuartos traseros",
+          "Romero": "1 rama",
+          "Sal": "al gusto",
+          "Vino blanco": "1 vaso",
+          "Zanahoria": "1 zanahoria",
+          "tomillo": "al gusto"
+        }
+      },
+      "Redondo de ternera de la abuela": {
+        "Descripción": "No hay nada mejor que un redondo de ternera, receta de la abuela para preparar un día de celebración o en el día a día. Debes saber que es una carne que puedes hacer con antelación, el día antes y así aun quedará más buena la carne y la salsa. Asimismo, el redondo de ternera lo puedes cocinar de muchas maneras: en una cazuela de barro y que se haga a fuego medio, solo que puede tardar 2 horas según la carne, al horno también lleva su tiempo o en olla express en 30-40 minutos, según la olla.",
+        "Elaboración": [
+          "Primero prepara el redondo de ternera. Para ello, pide en tu carnicería que te lo den atado, así ya no tienes que hacerlo tú. Añade al redondo sal y pimienta.",
+          "Prepara el resto de los ingredientes: limpia los champiñones, pica las cebollas, pela y corta la zanahoria y pela los ajos.",
+          "Pon una cazuela a fuego medio-alto con un chorro de aceite de oliva, dora el redondo por todos los lados. Cuando esté a medio dorar, añade la cebolla que se vaya pochando todo junto.",
+          "Añade las zanahorias picadas y deja todo unos 5 minutos. Incorpora también los dientes de ajo, remueve y añade el tomate frito o natural.",
+          "Cuando tengas las verduras pochadas, añade el vino blanco y déjalo se cocine 3-4 minutos hasta que se evapore el alcohol. Luego, añade el caldo o el agua hasta que quede casi cubierta la carne. A continuación, deja que se cocine la carne durante 1 o 1,30 hora. Si tienes olla rápida, en 30-40 minutos lo puedes tener listo según el grosor de la carne.",
+          "Cuando observes que está el redondo de ternera guisado está tierno, retíralo y déjalo enfriar para poder cortar en lonchas.",
+          "Deja la salsa en la cazuela, puedes triturarla o dejar las verduras. Prueba de sal y rectifica. A continuación, saltea los champiñones en una sartén y añade a la salsa, deja todo unos minutos.",
+          "Corta la carne en rodajas y colócala en una fuente de servir. Acompaña el redondo de ternera, receta de la abuela con las verduras, los champiñones y la salsa. Puedes poner parte de la salsa en una salsera para que se sirvan los comensales."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/redondo_de_ternera_de_la_abuela.jpg",
+        "Ingredientes": {
+          "Aceite de oliva ": "segun se necesite",
+          "Ajo": "2 dientes",
+          "Caldo de carne": "500 ml",
+          "Cebolla": "2 cebollas",
+          "Champiñones": "250 gr",
+          "Pimienta": "al gusto",
+          "Redondo de ternera": "1 redondo",
+          "Sal ": "al gusto",
+          "Tomate frito": "150 gr",
+          "Vino blanco": "200 ml",
+          "Zanahoria": "3 zanahorias"
+        }
+      }
+    },
+    "Guisos": {
+      "Ajiaco de olluco": {
+        "Descripción": "El ajiaco de olluco es una comida peruana fácil de preparar, un guiso tradicional y, como todo ajiaco tradicional del país, se elabora a partir de un aderezo de ají amarillo. Luego, se añade el insumo principal con el que se va a diferenciar el tipo de ajiaco, en este caso es el olluco y se espesa con papas. Para finalizar el plato, se añade un chorrito de leche y cubos de queso fresco. Sin embargo, el protagonista es un tubérculo oriundo de la sierra del Perú que tiene forma alargada, similar a la papa aunque es de color amarillo intenso, por lo que se le conoce como el tubérculo de oro.",
+        "Elaboración": [
+          "Empieza sancochando los tubérculos. Para ello, coloca los 2 tipos de papa y el olluco en una olla grande. Llena con agua fría hasta cubrir, tápalo, lleva a fuego lento y deja cocinar hasta que estén suaves. Para saber si están listos, pínchalos con un palillo, este se debe introducir fácilmente.",
+          "Cuando estén listos, retíralos de la olla y déjalos enfriar por un par de minutos. Aún calientes, pélalos (no es necesario que peles los ollucos) y córtalos en cubos medianos. Luego, aplasta un tercio de estos tubérculos hasta obtener un puré rústico. Este puré ayudará a que el ajiaco sea cremoso y con cuerpo. Reserva.",
+          " Además, corta el queso en cubos medianos del mismo tamaño que los cubos de papa.",
+          "Aparte, calienta una olla y vierte un buen chorro de aceite. Cuando esté bien caliente, agrega la cebolla finamente picada y súdala hasta que se vea traslúcida.",
+          "Para continuar con el aderezo, añade el ajo molido o de preferencia picado, el ají amarillo en pasta (si deseas puedes agregar una cucharadita de ají panca) y, las especias que son el comino molido, pimienta negra molida, orégano seco molido y sal. Mezcla esporádicamente hasta que este aderezo comience a separarse del aceite.",
+          "A continuación, vuelca la mezcla de papa y olluco. Vierte también una taza de caldo de pollo o agua y aromatiza con una rama de huacatay.",
+          "Deja hervir y mueve constantemente porque es muy fácil que la base se queme. Si está muy espeso puedes verter más líquido.",
+          " Antes de servir, añade un chorro de leche, los cubos de queso fresco, rectifica la sazón y deja que de un último hervor.",
+          " Rectifica la sazón del guiso de olluco y sirve acompañado de huevos fritos o escalfados y una ración de salsa criolla cruda."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Ajiaco de olluco.PNG",
+        "Ingredientes": {
+          "Ajo molito o picado": "2 cucharadas soperas",
+          "Ají amarillo en pasta": "4 cucharadas soperas",
+          "Cebolla": "1 unidad picada fina",
+          "Comino molido": "1 pizca",
+          "Huacatay": "1 rama",
+          "Leche evaporada": "1 chorro",
+          "Olluco": "1 kilogramo",
+          "Orégano seco molido": "Al gusto",
+          "Patata amarilla": "1/4 kg",
+          "Patata rosada": "1/4 kg",
+          "Pimienta negra": "1 pizca",
+          "Queso fresco": "1/4 kg",
+          "Sal": "Al gusto"
+        }
+      },
+      "Cocido de la abuela": {
+        "Descripción": "El cocido de la abuela es un plato muy completo y contundente de cuchara. Una elaboración ideal en la época de frío, ya que es muy completo. Para preparar este cocido los ingredientes deben ser de buena calidad para que el resultado sea bueno. También debes saber que según la zona de creación, suele variar algún ingrediente, pero queda igual de bueno de todas las formas. Para cocinar esta receta, lo típico es elaborarla en cazuela de barro, pero también se puede hacer en olla rápida si quieres reducir el tiempo.",
+        "Elaboración": [
+          "Para hacer la receta de cocido de la abuela primero debes dejar en remojo los garbanzos durante un día, deben estar cubiertos con agua y con una pizca de sal. Al día siguiente, cuando empieces a elaborar el cocido madrileño auténtico, debes escurrir bien los garbanzos y lavarlos.",
+          "Coge una olla amplia y añade toda la carne que previamente habrás lavado. A continuación, colócala en la olla y cubre con agua. Luego, añade los garbanzos remojados, los chorizos y la morcilla. Coloca la olla a fuego fuerte. Reserva las patatas.",
+          " Deja en el fuego hasta que empiece a hervir el cocido madrileño fácil. A continuación, debes retirar la espuma con una espumadera, se forma en la superficie del caldo. Déjalo a fuego medio durante 2 horas sin tocar la carne ni los garbanzos. Si observas que se reduce mucho el caldo, añade más agua.",
+          "Cuando pasen las 2 horas, observa cómo están los garbanzos y la carne. Mientras, pela, lava y corta las patatas por la mitad, añádelas a la olla. Limpia y corta las zanahorias también, introdúcelas en la olla. Deja que se cocine unos 20-30 minutos más hasta que estén las patatas y las zanahorias tiernas.",
+          "Cuando ya esté todo cocido, retira la carne. Puedes pasar a otra olla la cantidad de caldo, los garbanzos y las patatas, añade también el chorizo troceado y la morcilla.",
+          " A la hora de servir, coloca la carne en una fuente.",
+          "Prueba de sal el cocido madrileño tradicional y, si es necesario, rectifica. Debes saber que es contundente, pues no necesitará mucha sal. Cuando hayas cocido el chorizo y la morcilla, apaga y sirve por un lado los garbanzos y, por otro, la carne. "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/cocido_de_la_abuela.jpg",
+        "Ingredientes": {
+          "Chorizo": "2 chorizos",
+          "Garbanzos": " 500gr",
+          "Hueso de caña": "1 hueso",
+          "Hueso de espinazo": "1 hueso",
+          "Hueso de ternera salado": "1 hueso",
+          "Jamón": "1 punta de jamón",
+          "Morcilla": "2 0 3 morcillas de cebolla",
+          "Patatas": "3 patatas",
+          "Pollo": "1/4 de pollo",
+          "Ternera": "1 trozo de ternera para caldo",
+          "Zanahoria": "2 zanahorias"
+        }
+      },
+      "Estofado argentino": {
+        "Descripción": "El estofado es un plato muy elegido en todos los hogares argentinos. Se caracteriza por llevar pocos ingredientes pero seleccionados cuidadosamente para que el plato final sea bien sabroso. Otra de sus claves es la cocción, que se inicia con un rehogado y continúa con un hervido largo y lento para asegurar que la carne queda sumamente tierna y jugosa a la vez. Puede comerse solo a modo de guiso o como acompañamiento de otros platos. No te pierdas todas las opciones que te contaremos al finalizar la receta.",
+        "Elaboración": [
+          "El primer paso para esta preparación consiste en pelar y picar la cebolla y el ajo. También pela y corta en rueditas la zanahoria.",
+          "Retira el exceso de grasa de la carne y, luego, córtala en porciones grandes (mínimo 1 porción por comensal). Lleva al fuego una olla grande con una cucharada de aceite. Cuando esté caliente, coloca la carne y sella por todos sus lados, girándolos a medida que se vayan dorando por cada lado.",
+          "Retira la carne y en el mismo recipiente, vierte otra cucharada de aceite y saltea la cebolla y el ajo a fuego bajo. Cuando comiencen a dorarse, sube nuevamente el fuego y añade el vino.",
+          " Reserva un par de minutos para que se evapore el alcohol y, luego, reincorpora la carne para el estofado argentino. También cubre con los tomates triturados. Finalmente, agrega los condimentos. Remueve bien, baja el fuego al mínimo, tapa y deja cocinar 20 minutos.",
+          " Agrega las rueditas de zanahoria, revuelve bien, tapa nuevamente y continúa la cocción mínimo 40 minutos más, mezclando cada tanto.",
+          " El estofado argentino está listo para comer."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Estofado Argentino.PNG",
+        "Ingredientes": {
+          "Aceite": "2 cucharadas soperas",
+          "Carne de vacuno": "600 gr",
+          "Cebolla": "1 unidad",
+          "Diente de ajo": "1 unidad",
+          "Especias": "Sal, pimienta, comino, laurel, pimentón, tomillo y ají molido",
+          "Tomates triturados": "500 gr",
+          "Vino": "1/2 copa",
+          "Zanahoria": "1 unidad"
+        }
+      },
+      "Foto": "gs://cooking-plus.appspot.com/guisos.jpg",
+      "Guiso de caigua": {
+        "Descripción": "La caigua es un fruto muy versátil, ya que su parte comestible es suave y no tiene sabores invasivos, por lo que es consumida tanto cruda como cocida en ensaladas, rellena, estofados, saltados o como en esta receta, en un guiso. Asimismo, este potaje es sumamente fácil de preparar, se cocina en poco tiempo y, sobre todo, es nutritivo. En esta oportunidad usaremos la carne como proteína, sin embargo, puedes sustituirla por pollo e incluso puedes enriquecerla con cubos de queso fresco.",
+        "Elaboración": [
+          "Empieza picando finamente la cebolla y el ajo.",
+          "Para la caigua corta las puntas de los extremos y, luego, pártelas por la mitad, desecha las venas y las semillas. A continuación, corta en tiras gruesas y reserva.",
+          " También corta el tomate en rodajas delgadas y procede a cortarlas en tiras para volver a cortar de forma transversal y obtener cubos pequeños.",
+          "Finalmente, antes de empezar a preparar el guiso, lava, pela, retira los ojos y corta la papa en cubos medianos.",
+          "Pon a calentar una olla y vierte un buen chorro de aceite. Cuando esté caliente, vierte la cebolla y sofríela moviendo de vez en cuando hasta que se vea traslúcida.",
+          "A continuación, agrega el ajo, el tomate picado y sigue removiendo. En este momento también puedes añadir las especias y las hierbas secas (comino molido, pimienta negra, orégano en polvo y hojas de laurel).",
+          "Seguidamente, añade el ají panca o colorando. Continúa removiendo hasta que este aderezo tenga la textura de una mermelada y notes que el aceite se está separando.",
+          " Agrega la carne picada, mézclala bien y deja sellar por un par de minutos.",
+          "Luego, vierte caldo de carne hasta cubrir. A continuación, agrega sal al gusto, tapa y deja que rompa hervor.",
+          "Dependiendo del tipo de corte, cuando la carne esté a media cocción, incorpora la papa picada y deja cocer hasta que esté al dente. Puedes agregar más caldo de carne si el liquido no llega a cubrir.",
+          "Vierte la caigua picada, mezcla un poco y deja cocer solo por un par de minutos. El guiso estará listo cuando la papa esté suave, así que aplástala un poco para que de consistencia al jugo. Si la caigua ya está suave, pero sin llegar a marchitarse, inmediatamente apaga el fuego.",
+          "Para finalizar el plato, añade perejil picado, rectifica la sazón y también la textura. Si ha espesado mucho, puedes añadir más caldo de carne o agua y, sin dejar que se enfrié, sirve. ¡Buen provecho!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Guiso de caigua.PNG",
+        "Ingredientes": {
+          "Ajo picado": "1 cucharada sopera",
+          "Ají panca en pasta": "2 cucharadas",
+          "Caiguas": "7 unidades",
+          "Caldo de carne": "c/n",
+          "Carne picada": "1 kg",
+          "Cebolla roja": "1 unidad",
+          "Comino molido": "1 pizca",
+          "Laurel": "2 hojas",
+          "Orégano seco en polvo": "1 pizca",
+          "Patatas": "1/2 kg",
+          "Perejil picado": "c/n",
+          "Pimienta negra molida": "1 pizca",
+          "Sal": "Al gusto",
+          "Tomate": "1 unidad grande"
+        }
+      },
+      "Guiso de fideos moñito": {
+        "Descripción": "Los guisos son comidas donde podemos incorporar ingredientes que tengamos restantes en la heladera y aún así conseguir un sabor único. Por ello, en esta oportunidad, queremos mostrarte cómo hacer un guiso con fideos moñito. Estos fideos son ideales para un guiso con salsa debido a la forma que tienen, donde pueden guardar líquido, funcionando como cuchara. El nombre original de esta pasta es \"farfalle\", que en su traducción literal del italiano al español, significa mariposa. Como sus alas también evocan a un moño, también se conocen con ambos nombres.",
+        "Elaboración": [
+          "El primer paso para la preparación del guiso de fideos moñito consiste en pelar y picar tanto la cebolla como el diente de ajo. Saltéalos en una sartén antiadherente a fuego máximo con 1 cucharadita de aceite. Cuando el salteado empiece a secarse, baja el fuego a medio y añade una cucharada de agua caliente. Repite varias veces hasta que la cebolla se caramelice.",
+          "Cuando la cebolla esté caramelizada, agrega la zanahoria pelada y rallada y los morrones picados limpios y sin las nervaduras blancas ni las semillas. Mantén el fuego bajo para que se cocinen unos minutos.",
+          " Agrega una cucharada de agua caliente en el salteado para retirar las verduras. Resérvalas en un plato mientras salteas la carne cortada en cubos pequeños del tamaño de un bocado en el mismo fondo de cocción, esta vez con el fuego fuerte y una nueva cucharada de aceite. No la muevas hasta que esté dorada o se pegará.",
+          " Cuando la carne esté dorada, llévala a la olla a presión junto con las verduras, los fideos moñito y la lata de tomates perita pisados. Si no tienes estas latas, puedes rallar 3 tomates cortándolos por la mitad y pasándolos por la parte gruesa de un rallador. Añade también 1 vaso de agua del mismo tamaño que usaste para medir los fideos. De usar lata, puedes medir todo en ella, tanto los fideos como el agua. Condimenta con el laurel, tomillo y pimentón. Cierra la tapa y cocina tu guiso de fideos con verduras por unos 15 minutos desde que empieza a sonar el silbato.",
+          "Pasado el tiempo de cocción, sirve y disfruta el guiso de fideos moñito. "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Guiso de fideos moñito.PNG",
+        "Ingredientes": {
+          "Cebolla": "1 unidad",
+          "Diente de ajo": "1 unidad",
+          "Fideos moñito": "1 taza",
+          "Laurel": "1 hoja",
+          "Lomo de cerdo": "200 gr",
+          "Pimentón": "1 cucharada sopera",
+          "Pimiento morrón rojo": "1/4",
+          "Pimiento morrón verde": "1/4",
+          "Tomate pera": "1 lata",
+          "Tomillo": "1 cucharada",
+          "Zanahoria": "1 unidad"
+        }
+      },
+      "Guiso de patatas y atún": {
+        "Descripción": "Cuando llega el frío apetecen platos calientes. Aparte de las sopas, los guisos son una excelente opción, como este guiso de patatas y atún, que representa un plato principal sabroso y contundente.",
+        "Elaboración": [
+          "Aquí tenemos los ingredientes para este guiso de atún y patata, que combinamos con otras verduras, como el pimiento, la cebolla y el tomate. Las especias, que son opcionales o bien puedes sustituirlas por otras alternativas, le darán un aporte de sabor a este guiso con atún.",
+          " Cortamos la cebolla en juliana y la echamos en una cacerola con aceite, ya caliente, para dorarla.",
+          "A continuación añadimos el pimiento verde, que habremos lavado y troceado, y el atún, también troceado. Lo dejaremos unos minutos para que se dore bien, mientras removemos con una cuchara de madera para evitar que se pegue a la olla.",
+          "El siguiente paso para elaborar este guiso de patatas y pescado es añadir el tomate, previamente lavado y troceado, y la hoja de laurel. Echaremos también un poco de sal, así como el cilantro y el resto de especias.",
+          "Mientras se cuece durante unos minutos más, lavamos y pelamos las patatas, y las cortamos en trozos similares a los del atún. Las añadimos a la olla y las dejamos rehogar durante cinco minutos.",
+          "Pasados los cinco minutos, cubrimos con agua el guiso con atún y dejamos que se cueza durante unos 30 minutos a fuego lento, removiendo de vez en cuando.",
+          "Retira la guindilla en el momento de servir el guiso, que puedes emplatar y consumir enseguida o dejar reposar durante unas horas. Acompáñalo con vino blanco, ¡y disfruta!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/guiso_de_patatas_y_atun.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "4 o 5 cucharadas",
+          "Atún": "1/2 en tacos",
+          "Cebolla": "1 cebolla",
+          "Cilantro": "1 pizca",
+          "Guindilla": "1 guindilla",
+          "Laurel": "1 hoja",
+          "Patata": "3 patatas",
+          "Pimentón dulce": "1 pizca",
+          "Pimiento verde": "1 pimiento",
+          "Sal": "al gusto",
+          "Tomate": "2 tomates"
+        }
+      },
+      "Matasquita de pollo": {
+        "Descripción": "No solo en el calor de un hogar peruano se descubre la generosidad de sus moradores, sino también a la hora de sentarse a la mesa, donde se aprecia la enorme creatividad y cariño con el que convierten cada producto en platos que perduran generación tras generación. Asimismo, en la región de Arequipa y en partes del Cusco, las picanterías son representativas de esos hogares que destacan por su grandiosa cocina. Uno de sus guisos tradicionales es la matasquita de carne, un plato que se remonta a la época colonial, originalmente preparado con carne de res, pero que con el tiempo ha incluido pollo, carne de cerdo e incluso pescado, convirtiéndose en una deliciosa opción.",
+        "Elaboración": [
+          "Para empezar, ten picado el pollo en cubos medianos, la papa en cubos pequeños y la zanahoria en cuadraditos. Lo mismo con la cebolla pero en cuadraditos aún más pequeños, pues será para nuestro aderezo.",
+          " Sazona los trozos de pollo con sal, pimienta y comino, deja que tomen sabor por un par de minutos. En una olla calienta un chorro de aceite y, cuando esté bien caliente, añade con cuidado los trozos de pollo para que se sellen por ambos lados.",
+          " Cuando esté sellado el pollo, retira y conserva. Ahora en el mismo lugar de cocción, añade la cebolla picadita y, luego, el ajo molido y sofríe por unos 3 minutos.",
+          "Incorpora las 3 cucharadas de ají panca molido y sofríe por 3 minutos más.",
+          "En este punto, agrega el caldo de pollo, las papas picadas, la zanahoria y una rama de hierbabuena para aromatizar. Añade sal, pimienta y comino al gusto. Tapa la olla y deja cocinar por aproximadamente 10 minutos.",
+          "Para finalizar, regresa los trozos de pollo, adiciona el resto de las hojas de hierbabuena picadas finamente y cocina por 5 minutos más. Rectifica de sazón y ya estará lista para servir.",
+          "Alista una sarsa criolla para acompañar, solo necesitas cebolla y tomate en juliana, jugo de limón y sal y hierbabuena picadita. Además, este plato sin duda que puede ser acompañado con una buena porción de arroz."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Matasquita de pollo.PNG",
+        "Ingredientes": {
+          "Aceite vegetal": "1 chorro",
+          "Ajo molido": "1 cucharada sopera",
+          "Ají panca molido": "3 cucharadas",
+          "Caldo de pollo": "2 tazas",
+          "Cebolla roja": "1 unidad",
+          "Especias": "Al gusto",
+          "Filete de pechuga o contramuslo pollo": "500 gr",
+          "Hierbabuena": "2 ramas",
+          "Patatas": "3 unidades",
+          "Zanahoria": "1 unidad"
+        }
+      },
+      "Relleno negro yucateco": {
+        "Descripción": "El relleno negro yucateco es un platillo típico de la cocina maya, que incorpora muchos ingredientes y varios componentes: el primero es el chilmole o recado negro, una salsa a base de chiles y especias. Aparte el \"but\", que consiste en albóndigas de carne de cerdo rellenas de yemas de huevo y, por último, el pavo o pollo deshebrado que acompañan la preparación. Todo se cocina en el caldo de pavo o pollo que elegimos para la preparación. Una receta laboriosa y muy deliciosa.",
+        "Elaboración": [
+          "Prepara el consomé de pollo: en una cacerola a fuego alto, coloca todos los ingredientes. Tapa la cacerola y a partir de que rompa el hervor, cuenta 45 minutos. Aparte, también pon a cocer 6 de los huevos para el but.",
+          "Cuando el pollo esté bien cocido, permite que se enfríe un poco y deshebra la carne, separando los huesos, piel y cartílagos. Estos últimos los puedes desechar, pues ya no se van a ocupar. Reserva la carne del pollo y también el consomé, pues se utiliza como base para el recado negro.",
+          " Para el but: pela los huevos cocidos. Con cuidado separa las claras de las yemas, reservando las yemas y procurando que no se rompan, pues estas son parte importante de la presentación del plato. Las claras puedes picarlas o rallarlas e incorporarlas a la carne molida de cerdo.",
+          "Incorpora a la carne molida los condimentos para sazonar, el huevo crudo que reservamos,así como el jitomate y la cebolla finamente picados.",
+          "Por último, agrega 1 de las tazas del chilmole y mezcla todo muy bien.",
+          " Cuando todos los ingredientes para el but estén bien incorporados, forma albóndigas con la carne molida y rellénalas con las yemas de huevo que reservamos anteriormente.",
+          "Cuela el consomé de pollo que reservamos anteriormente y llévalo al fuego de nuevo. Cuando esté caliente, disuelve ahí mismo el resto de la pasta de chilmole.",
+          " En un poco del consomé caliente, disuelve perfectamente la bolita de masa de maíz y regrésala al consomé. Esto nos va a ayudar como espesante para nuestro recado negro.",
+          "Agrega el but al recado negro y cuenta 1 hora de cocción a fuego medio-bajo, con la cacerola tapada. Sazona con sal al gusto y no olvides mover constantemente.",
+          "Por último, incorpora el pollo deshebrado junto con la rama de epazote a la preparación y cuenta 20 minutos más de tiempo de cocción. Sigue moviendo constantemente para evitar que el recado negro se pegue al fondo de la olla.",
+          " Sirve el relleno negro yucateco con un poco de recado negro como base, pollo deshebrado y but. Opcionalmente, puedes agregar más huevo cocido y tortillas calientitas, acompañado de tu bebida favorita. Esperamos que disfrutes de esta tradicional receta mexicana originaria de la península de Yucatán."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Relleno negro yucateco.PNG",
+        "Ingredientes": {
+          "Ajo en polvo": "1 cucharadita",
+          "Cebolla blanca": "1/2 pieza",
+          "Cebolla en polvo": "1 cucharadita",
+          "Huevos": "7 unidades",
+          "Sal fina": "1/2 cucharadita",
+          "Tomate": "1 unidad",
+          "Carne de cerdo molida": "1/4 kg",
+          "Chilmole": "2 tazas",
+          "Masa de maiz": "1 trozo",
+          "Pimienta molida": "1/2 cucharadita",
+          "epazote": "1 rama",
+          "Agua": "1/2 litro",
+          "Diente de ajo": "2 dientes",
+          "Laurel": "5 hojas",
+          "Muslo de pollo": "2 piezas",
+          "Tortillas de maiz": "1 docena"
+        }
+      }
+    },
+    "Pastas": {
+      "Espagueti rojo sin crema": {
+        "Descripción": "Aprende a preparar una de las pastas más populares con una salsa igualmente muy tradicional, te proporcionamos una fácil y deliciosa receta de espagueti rojo sin crema, para aquellos intolerantes a la lactosa, que no les gusta o, simplemente, para una preparación más sencilla. Asimismo, puedes usar esta receta de espagueti rojo sin crema para acompañar casi cualquier platillo, también puede ser el platillo principal servido con alguna proteína de tu elección.  Anímate a preparar esta receta, comprueba lo fácil que es y lo rico que queda, así que sigue leyendo y descubre cómo hacer espagueti rojo sin crema.",
+        "Elaboración": [
+          "Comienza la receta de espagueti rojo sin crema añadiendo la pasta de espagueti a cocer con suficiente agua con un poco de sal y una pizca de epazote seco. El tiempo dependerá de las instrucciones del empaque, aunque en promedio el tiempo de cocción de la pasta es de 8 minutos. Cuando esté lista, drena el agua y reserva.",
+          "Para la salsa del espagueti, en una sartén con muy poco aceite coloca el jitomate en rebanadas, la cebolla y los dientes de ajo limpios. A fuego muy bajito deja que se doren uniformemente, estarán listos cuando el ajo esté de color dorado y tostado, la cebolla ligeramente transparente, el jitomate se vea dorado y se despegue la piel fácilmente.",
+          "Cuando estén bien dorados, pasa a la licuadora, agrega media taza de agua, 1 pizca de epazote seco, 1 pizca de paprika, sal y pimienta al gusto. Licúa durante unos 3 minutos. Además, también puedes sustituir el agua por caldo de pollo o por fondo de verduras, también puedes usar epazote fresco, pero si es así te recomendamos que no lo agregues a la licuadora hasta más tarde.",
+          "Cuando esté licuada la salsa de jitomate, calienta una cucharada de aceite en una olla y, una vez caliente, vacía la salsa de jitomate, añade 2 cucharaditas de caldo de pollo en polvo o bien un cubito de caldo de pollo. También agrega una ramita de cilantro y si usas epazote fresco este es el momento para añadirlo. Deja cocinar todo hasta que hierva y, luego, comprueba de sabor y, si lo ves, necesario añade más sal y o pimienta.",
+          "Cuando la salsa esté sazonada, baja el fuego, vacía la pasta ya cocida y mezcla para que se integre bien la salsa con la pasta. Deja cocinar todo junto solo por un par de minutos y, después, retira del fuego.",
+          "Una vez listo el espagueti, ya puedes servir y disfrutar. Además, si lo deseas puedes agregar unas hojas extras de cilantro fresco o puedes optar por perejil, también puedes añadir queso desmoronado. ¡A comer! "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/espagueti_rojo_sin_crema.jpg",
+        "Ingredientes": {
+          "Agua": "3 tazas",
+          "Ajo ": "2 dientes",
+          "Caldo de pollo": "1/2 taza",
+          "Cebolla": "1/2 cebolla",
+          "Epazote seco": "1 pizca",
+          "Paprika": "1 cucharadita",
+          "Pimienta negra": "al gusto",
+          "Sal": "al gusto",
+          "Spagueti": "200 gr",
+          "Tomates": "4 tomates"
+        }
+      },
+      "Espaguetis a la carbonara": {
+        "Descripción": "En esta ocasión, te llevaremos a Italia con una receta clásica y reconfortante: la pasta a la carbonara. Este plato, originario de la región de Lacio, ha conquistado corazones en todo el mundo con su combinación perfecta de pasta al dente, una salsa cremosa y sabrosa a base de huevo y queso pecorino o parmesano, todo coronado con trozos de panceta, bacon crujiente o guanciale.",
+        "Elaboración": [
+          "Antes de empezar a hacer esta receta italiana de espaguetis a la carbonara lo primero que hay que hacer es alistar todos los ingredientes para preparar nuestra rico plato de pasta.",
+          "Posteriormente, pelar y picar finamente la cebolla. Y después hay que dorarla en una cucharada de mantequilla.",
+          "A continuación, cortar en tiras la panceta ahumada o guanciale y machacar los ajos previamente pelados.",
+          "Luego llevar estos dos ingredientes de los espaguetis a la carbonara originales al fuego junto con la cebolla y sofreír.",
+          " A continuación, hervir los espaguetis en abundante agua con sal. El tiempo de cocción dependerá del tipo de pasta, así que comprueba las recomendaciones del fabricante en el envase.",
+          "Aparte mezclar las yemas de huevo con 100 gramos del queso parmesano que tenemos preparado y condimentar con sal y pimienta.",
+          " Agregar la crema de leche al sofrito de los espaguetis a la carbonara con huevo y dejarlo a fuego bajo por 5 minutos para seguir con la preparación de la salsa carbonara.",
+          "Después de ese tiempo, apagar el fuego e incorporarle la mezcla de las yemas al sofrito, revolver rápido e inmediatamente mezclar con la pasta hervida.",
+          "¡A disfrutar de estos espaguetis a la carbonara acompañados con el resto del queso parmesano rallado!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Espaguetis a la carbonara.PNG",
+        "Ingredientes": {
+          "Cebolla": "1 mediana",
+          "Crema de leche o leche vaporada": "400gr",
+          "Diente de ajo": "2 unidades",
+          "Espaguetis o Tallarines": "400 gr",
+          "Huevos": "Uno por comensal (3)",
+          "Mantequilla": "1 cucharada sopera",
+          "Panceta ahumada o Guanciale": "100 gr",
+          "Pimienta negra": "1 pizca",
+          "Queso parmesano o pecorinno": "300 gr",
+          "Sal": "1 pizca"
+        }
+      },
+      "Foto": "gs://cooking-plus.appspot.com/Pastas.jpeg",
+      "Lasaña de carne picada": {
+        "Descripción": "La lasaña de carne y verduras es una elaboración exquisita y fácil que gustará a todos en casa, un plato completo con diferentes verduras que podemos preparar con antelación. Aunque es un poco entretenida, vale la pena, el resultado es una delicia. ¿Te animas a cocinar con nosotros?",
+        "Elaboración": [
+          "Para preparar la lasaña fácil de carne picada, primero pela la cebolla, limpia la zanahoria y el pimiento verde, corta las verduras en trozos pequeños. Coloca una sartén con un buen chorro de aceite de oliva e incorpora todas las verduras y déjalas que se pochen unos 5 minutos.",
+          "Añade la carne picada al sofrito de verduras, saltea todo junto hasta que adquiera un poco de color, unos 10 minutos. Añade un poco de sal y pimienta.",
+          "Añade un vaso de vino blanco a la carne picada ydeja se evapore el alcohol unos minutos. Luego, incorpora el tomate frito, mezcla bien y deja se cocine otros 10 minutos todo junto. Ve removiendo para que no se pegue la carne. Prueba la mezcla de carne y salpimienta si hace falta.",
+          " Prepara la bechamel. Para ello, en un cazo añade la mantequilla a fuego medio y la harina, remueve para que se cocine un poco la harina.",
+          " Añade la mitad de la leche y con unas varillas ve removiendo sin parar para que no se formen grumos para elaborar la salsa para lasaña. Cuando esté mezclado, ve añadiendo el resto de la leche hasta dejarla con el espesor que te guste. Añade sal y un poco de nuez moscada.",
+          " Para preparar las láminas de lasaña, sigue las instrucciones del fabricante. Las que utilizamos nosotros ya son precocinadas, solo debemos colocarlas 10 minutos en agua caliente. A continuación, monta la lasaña. Para ello, coloca en una fuente para horno un poco de bechamel y encima las placas de lasaña cubriendo el fondo de la bandeja.",
+          "Encima de las láminas de lasaña añade una capa fina de carne picada, unas cucharadas de bechamel y un poco de queso rallado.",
+          "Vuelve a añadir otra capa de láminas de lasaña, carne, más láminas, carne y termina con láminas de lasaña.",
+          "Cubre la lasaña de verduras con el resto de bechamel y espolvorea con queso rallado. Coloca la fuente en el horno para gratinar.",
+          "Cuando la lasaña de carne picada y bechamel esté dorada, retira del horno y ya estará lista para servir. ¡A comer!."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Lasaña de carne picada.PNG",
+        "Ingredientes": {
+          "Aceite": "c/n",
+          "Bechamel": "Para la lasaña",
+          "Carne picada ternera o cerdo": "1 kg",
+          "Cebolla": "1 unidad",
+          "Harina": "50 gr",
+          "Leche": "600 ml",
+          "Láminas de lasaña": "12 unidades",
+          "Mantequilla": "50 gr",
+          "Nuez moscada": "c/n",
+          "Pimienta": "c/n",
+          "Pimiento verde": "1 unidad",
+          "Queso rallado": "c/n",
+          "Sal": "c/n",
+          "Tomate frito": "200 gr",
+          "Vino blanco": "150 ml",
+          "Zanahoria": "1 unidad"
+        }
+      },
+      "Macarrones con chistorra": {
+        "Descripción": "La chistorra es un embutido de origen español elaborado normalmente con carne de cerdo fresca, hierbas aromáticas, ajo, sal y pimentón, este último le proporciona el color característico. Normalmente, la chistorra se consume asada o frita y como complemento de distintos platos, como en esta ocasión, ya que el ingrediente principal de esta elaboración es la pasta. En este caso, hemos optado por los macarrones, una pasta muy consumida que encanta a niños y a mayores.",
+        "Elaboración": [
+          "Para hacer la receta de macarrones con chistorra, primero debes cocer los macarrones. Para ello, pon un cazo con agua y un poco de sal al fuego. Una vez empiece a hervir, añade los macarrones y deja cocer según la recomendación del fabricante, normalmente entre 9-11 minutos. Remueve de vez en cuando para que no se pegue en el fondo.",
+          "Mientras se cuecen los macarrones, trocea la chistorra, pela y pica la cebolla.",
+          "Vierte en una sartén amplia dos cucharadas de aceite de oliva al fuego y, cuando esté bien caliente el aceite, añade la chistorra y sofríe durante 1 o 2 minutos para que el aceite tome el sabor de la chistorra y deje su color rojizo en él. Retira la chistorra con ayuda de unas pinzas de cocina y colócala en un plato con papel de cocina absorbente.",
+          "En el mismo aceite que has sofrito la chistorra, incorpora la cebolla picada y sofríe a fuego no muy fuerte hasta que esté dorada.",
+          " Cuando la cebolla esté bien pochada, añade el tomate frito, las 2 cucharadas soperas de orégano y la chistorra que tenías apartada. Remueve y deja cocer 5 minutos a fuego suave, removiendo de vez en cuando. La salsa de macarrones con chistorra menguará un poco y tomará el sabor de la chistorra.",
+          "Cuando estén cocidos los macarrones, retira del fuego y cuela para retirar el agua. A continuación, incorpora los macarrones en la salsa de tomate, orégano y chistorra. Remueve bien para que los macarrones en salsa se impregnen bien, apaga el fuego.",
+          "Sirve los macarrones con tomate y chistorra. Como habrás visto es un plato muy fácil de hacer y lleno de sabor. "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Macarrones con chistorra.PNG",
+        "Ingredientes": {
+          "Aceite de oliva": "2 cucharadas soperas",
+          "Cebolla": "1 unidad",
+          "Chistorra": "150 gr",
+          "Macarrones": "300 gr",
+          "Orégano seco": "2 cucharadas soperas",
+          "Sal": "1 pizca",
+          "Tomate frito": "500 gr"
+        }
+      },
+      "Ravioles con tuco de carne": {
+        "Descripción": "Para todos los fanáticos de la pasta rellena y las salsas suculentas, presentamos esta receta que es una explosión de sabores. No solo verás que amasar en casa es más simple de lo que imaginas, sino que, además, te enseñaremos a preparar el clásico tuco de carne. Y si bien lleva algo de tiempo, el procedimiento en general es simple y el resultado bien vale la pena. Asimismo, también te explicaremos cómo hacer un relleno de zapallo, que contrastará perfectamente con el intenso sabor del tuco.",
+        "Elaboración": [
+          "Comenzaremos preparando el tuco para los raviolis. Para ello, retira el exceso de grasa de la carne y córtala en cubos. En este caso, utilizamos roast beef. Otros cortes apropiados para esta receta son: paleta, carnaza, falda, aguja, etc.",
+          "Calienta una olla grande, agrega una cucharada de aceite y, cuando levante temperatura, sella la carne. Te recomendamos hacerlo en tandas para que la carne se dore y no se hierva. Mientras tanto, pica la cebolla, el diente de ajo y el pimiento.",
+          "Retira y reserva la carne, agrega otra cucharada de aceite y rehoga las verduras (cebolla, ajo y pimiento). A continuación, baja el fuego al medio y deja cocinar.",
+          "Cuando los vegetales estén algo tiernos, vierte el vino. Espera unos minutos a que evapore el alcohol e incorpora el extracto de tomate, el tomate triturado, el agua, los condimentos y la carne. Remueve bien y cuando rompa el hervor, baja el fuego al mínimo, tapa y deja cocinar como mínimo 1 hora.",
+          "A continuación, prepara la masa. Realiza una corona con la harina, y coloca en el centro el huevo, el agua y el aceite. Integra los ingredientes del centro hacia afuera.",
+          "Amasa unos minutos sobre la mesada hasta formar el bollo. Cúbrelo y deja reposar durante 30 minutos.",
+          "Entre tanto, prepara el relleno. Envuelve el zapallo cabutia en papel film y cocina en microondas por 10 minutos.",
+          "Retira la pulpa y realiza un puré. Condimenta con sal, pimienta y nuez moscada y deja enfriar.",
+          "Comienza con la preparación de los ravioles. Divide el bollo en 4 partes y estira cada uno de ellos. Puedes hacerlo con máquina sobadora, pero si no tienes, estira con palote dejando la masa bien fina.",
+          "Con la ayuda de un molde, arma los ravioles. Cubre con una porción de masa y rellena cada hueco con el relleno de calabaza.",
+          " Humedece los bordes y cubre con la otra parte de masa. Presiona suavemente para retirar el aire y para marcar los ravioles.",
+          " Desmolda y, con un cuchillo, termina de separarlos. Espolvorea con harina y continúa armando ravioles con el resto de la masa y el relleno.",
+          "Llena una olla con agua y lleva al fuego, cuando rompa el hervor añade los ravioles. Cuando suban, déjalos 1 minuto más y retira con espumadera.",
+          "Sirve los ravioles, salsea con el tuco de carne y listo para comer"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Ravioles con tuco de carne.JPG",
+        "Ingredientes": {
+          "Aceite de oliva": "2 cucharadas soperas",
+          "Agua": "1/4 l",
+          "Ajo": "1 diente",
+          "Carne de ternera": "500 gr",
+          "Cebolla": "1 cebolla",
+          "Harina": "250 gr",
+          "Huevo": "1 huevo",
+          "Nuez moscada": "al gusto",
+          "Pasta de tomate": "1 cucharada",
+          "Pimienta": "al gusto",
+          "Pimiento rojo": "1 pimiento",
+          "Sal": "al gusto",
+          "Tomate triturado": "500 gr",
+          "Vino blanco": "1 vaso",
+          "Zapallo cabutia": "1 zapallo"
+        }
+      },
+      "Rigatoni con salsa amatriciana": {
+        "Descripción": "La salsa amatricana es originaria de la ciudad italiana Amatrice. Parece ser que la crearon los pastores de esta región combinando ingredientes clásicos y al alcance de todos, como lo son la panceta, el tomate y la pasta seca. Es por ello que esta salsa forma parte de lo que se conoce como cucina povera o cocina pobre. Este término hace referencia a la amplia variedad de recetas creadas en Italia desde el siglo XIX hasta después de la Segunda Guerra Mundial  Junto con la salsa carbonara, es una de las salsas más típicas y clásicas de la cocina italiana.",
+        "Elaboración": [
+          " Como primer paso de esta receta, retira el cuerito o grasa de la panceta. Pícala y saltéala en una sartén sin aceite con el fuego alto. Aquí buscamos dorarla para que se ponga crujiente y resalte su sabor, así como crear una base grasosa para saltear las cebollas.",
+          "Una vez dorada, agrega la cebolla picada y baja el fuego a medio. Cuando la cebolla se haya dorado, agrega 1 cucharada de agua caliente y, cuando se evapore, incorpora 1 cucharada más. Repite este procedimiento tantas veces como quieras. Cuantas más veces lo repitas, más dulce quedará la cebolla.",
+          "Cuando hayas logrado el punto de cocción de la cebolla deseado, agrega la salsa de tomate y baja el fuego al mínimo. Tapa la salsa amatricana y cocínala por 10 minutos.  Puedes utilizar tomates de lata triturados o en cubos, aunque podrías hacerlo de forma casera. Para ello, lava y corta una cruz en la base de 4 tomates perita. Llévalos a una cacerola con agua hirviendo por 2 minutos. Retíralos y, con cuidado de no quemarte, pélalos. Córtalos en cubos y llévalos a la sartén con la cebolla y la panceta.",
+          "Mientras, cocina la pasta rigatoni en abundante agua hirviendo por 7-10 minutos de acuerdo a tu gusto. Cuélala y, si lo deseas, añádelos a la sartén para cocinar los rigatoni con la salsa amatricana.",
+          "Sirve los rigatoni con salsa amatricana de inmediato para disfrutarlos calientes. Si te gusta, puedes coronarlos con queso rallado y ¡a comer!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Rigatoni con salsa amatriciana.JPG",
+        "Ingredientes": {
+          "Cebolla": "1 cebolla",
+          "Panceta ahumada": "3 lonchas",
+          "Queso rallado": "30gr",
+          "Rigatoni": "210gr",
+          "Tomate frito": "200gr"
+        }
+      },
+      "Tallarines rojos con pollo": {
+        "Descripción": "Muchos de los platos que forman parte del menú de los hogares peruanos y, sobre todo, los almuerzos peruanos, vienen con una pequeña porción de influencias de nuestros antepasados. Encontramos recetas que preservan caracterísiticas orientales, africanas, mexicanas, europeas y, de este último grupo, podemos encontrar una cocina muy importante a nivel mundial: la italiana. Tal es así que los peruanos hemos sabido lograr que la pasta italiana y nuestros insumos y sabores peruanos conversen entre ellos y terminen peleando los primeros puestos a la hora de formar un menú.",
+        "Elaboración": [
+          "Para empezar la preparación de los tallarines rojos peruanos, alista el mise an place que debe incluir: la cebolla roja picada en cuadritos, el ajo y el ají panca molidos, zanahoria y tomate cortados en cubos o dados, nuestras 2 hojas de laurel, la pasta y nuestras presas de pollo. Tú puedes escoger las partes del pollo al gusto.",
+          "Empieza calentando agua en una olla grande donde quepa la pasta. Cuando el agua ha llegado al punto de ebullición, agrega una pizca de sal y un chorrito de aceite vegetal, añade la pasta esparcida por toda la olla. Mueve suavemente para cocinar de forma pareja, esto solo tomará 10 minutos. Luego, escurre los fideos y reserva.",
+          "En una olla calienta un chorro de aceite vegetal. Aquí sellaremos las presas de pollo por ambos lados. Las presas de pollo las debes sazonar al gusto previamente con sal, pimienta y comino.",
+          " Retira las presas. En esta misma olla donde acabas de sellar el pollo, agrega la cebolla picada y las dos cucharadas de ajo molido y deja dorar por un par de minutos. Ahora agrega las dos cucharadas de ají panca y deja cocinar por 3 minutos más moviendo suavemente.",
+          "Agrega la zanahoria y el tomate junto con un poco del agua donde has estado cociendo la pasta. Echa también una pizca de sal aquí.",
+          " Después de 8 minutos de cocción, lleva esta preparación a licuar. Ten cuidado de no hacerlo cuando esté aún muy caliente. Lo conseguido en el licuado debe tener una textura espesa y pastosa.",
+          " Incorpora lo que has licuado a la olla donde hiciste el aderezo y agrega más agua de cocción. Aquí también podrías colocar fondo de pollo para realzar el sabor. Agrega también las presas de pollo, las hojas de laurel y rectifica la sazón. Deja cocinar por un lapso de 15 minutos.",
+          "Cuando el pollo esté cocido, retira por un momento y vierte en este juguito la pasta ya cocida. Mezcla bien y proporciona una última probada a la sazón, rectifica con sal, pimienta y orégano a tu gusto. Para servir, coloca sobre tu plato una buena porción de los fideos y encima la contundente y jugosa presa de pollo. ¡A disfrutar del delicioso guiso de tallarines con pollo!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/tallarines_rojos_con_pollo.jpg",
+        "Ingredientes": {
+          "Aceite de oliva ": "1 chorro",
+          "Ajo molido": "2 cucharadas soperas",
+          "Cebolla morada": "1 cebolla",
+          "Comino": "al gusto",
+          "Laurel": "2 hojas",
+          "Orégano": "",
+          "Pimienta": "al gusto",
+          "Pollo": "4 muslos",
+          "Sal": "al gusto",
+          "Spagueti": "750 gr",
+          "Tomate": "5 tomates",
+          "Zanahoria": "1 zanahoria"
+        }
+      },
+      "Ñoquis de papa sin huevo": {
+        "Descripción": "Aunque este plato es tradicional los 29 de cada mes, los ñoquis son tan ricos, rápidos y fáciles de preparar que bien merecen prepararse cuantas veces quieras. También podrás elaborarlos cuando te hayas quedado sin huevos en la heladera, si eres vegano o si no puedes incluir huevos en tu alimentación. Si bien este ingrediente aporta mayor consistencia, buen puedes prescindir de él y obtener ñoquis de papa fáciles y perfectos.",
+        "Elaboración": [
+          "Cocina la papa. Para ello, lávala perfectamente con un cepillo que solo uses en la cocina y no la peles. Luego, puedes optar por hervirla hasta que esté tierna o en microondas. Una vez cocida, déjala enfriar y pélala.",
+          "Forma un puré con la papa. Písala y condimenta con sal, pimienta, nuez moscada y el queso rallado.",
+          "Incorpora harina al puré y mezcla integrando los ingredientes para formar un bollo, pero sin amasar, ya que no queremos activar el gluten.",
+          "Corta porciones de la masa y estira formando rollos como ves en la foto.",
+          "Corta porciones de aproximadamente 1,5 cm. A continuación, proporciona la forma típica con el utensilio que se utiliza para marcarlos o con un tenedor. Espolvorea con un poco de harina y deja que se oreen unos 15-20 minutos.",
+          "Hierve abundante agua en una olla amplia donde los ñoquis quepan cómodamente. Cuando rompa el hervor, coloca los ñoquis. Cuando comiencen a subir a la superficie, retira con una espumadera y sirve directamente en cada plato.",
+          "Baña los ñoquis caseros de papa sin huevo con tu salsa preferida. ¡A comer!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/noquis_de_papa_sin_huevo.jpg",
+        "Ingredientes": {
+          "Harina": "150 gr",
+          "Nuez moscada": "al gusto",
+          "Patata": "1 patata grande",
+          "Pimienta negra": "al gusto",
+          "Polvo para hornear": "1 cucharadita",
+          "Queso rallado": "150 gr",
+          "Sal ": "al gusto"
+        }
+      }
+    },
+    "Pescados": {
+      "Albóndigas de bacalao de la abuela": {
+        "Descripción": "Prepara estas ricas albóndigas de bacalao en salsa, otra manera de comer albóndigas pero con pescado, ideal para dar a los más pequeños, seguro que les gustará mucho. Asimismo, para los amantes del bacalao es otra manera de hacer este pescado. Para hacer este plato podéis utilizar bacalao desalado ya desmigado o bacalao congelado. Para acompañar este plato se puede hacer una salsa como esta que te proporcionamos, es sencilla y muy buena, incluso, también puedes hacer una buena salsa de tomate.",
+        "Elaboración": [
+          "Para hacer las albóndigas de bacalao de la abuela primero pon el pan de molde en un bol con la leche, déjalo unos minutos para que se quede bien empapado.",
+          "Retira la piel y espinas al bacalao, córtalo en trozos muy pequeños, ayúdate con una tijera para que quede muy desmenuzado. Añade en un bol con el huevo, los ajos picados, perejil picado y el pan que tenemos con la leche desmenuzado. Mézclalo todo muy bien.",
+          "Añade el pan rallado, la cantidad es según como veas, debe quedar que se pueda coger la masa, aproximadamente unas 2 cucharadas. Deja reposar la masa en la nevera un ratito o de un día para otro.",
+          "Coloca harina en un plato, coge bolas de masa y pásalas por la harina.",
+          "Añade aceite en una sartén a calentar y, cuando esté caliente, fríe las albóndigas por todos los lados para que se doren bien por fuera. Déjalas en un plato con papel de cocina para que suelten el exceso de aceite. Retira las albóndigas una vez hechas y resérvalas.",
+          "Pica media cebolla, pon una cazuela a calentar con un chorro de aceite y añade la cebolla, deja que se dore. Cuando empiece a dorarse incorpora la cucharada de harina, remueve bien para que se cocine la harina.",
+          "Añade el vino blanco, déjalo unos minutos reduzca el alcohol. Echa el caldo de pescado o agua y, cuando esté caliente, añade las albóndigas, deja que se cocinen 10 minutos. Prueba de sal y rectifica si hace falta.",
+          "Cuando estén listas las albóndigas de bacalao en salsa, pica un puñado de perejil y añade en la cazuela con las albóndigas."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Albóndigas de bacalao de la abuela.PNG",
+        "Ingredientes": {
+          "Aceite de oliva": "c/n",
+          "Bacalao desalado": "600 gr",
+          "Dientes de ajo": "2 unidades",
+          "Harina": "c/n",
+          "Huevo": "1 unidad",
+          "Leche": "1 vaso pequeño",
+          "Pan de molde": "2 rebanadas",
+          "Pan rallado": "3 cucharaditas",
+          "Para la salsa: Caldo de pescado o agua": "c/n ",
+          "Para la salsa: Cebolla": "1/2 unidad",
+          "Para la salsa: Harina": "c/n",
+          "Para la salsa: Perejil picado": "c/n",
+          "Para la salsa: Vino blanco": "c/n",
+          "Perejil": "c/n",
+          "Sal": "Al gusto"
+        }
+      },
+      "Atún encebollado": {
+        "Descripción": "El atún encebollado de la abuela consiste en un guiso tradicional típico de la provincia de Cádiz, Andalucia. Una elaboración marinera muy sencilla de preparar que tendremos lista en poco tiempo. Además, debes saber que el atún es un pescado azul con muy buenos nutrientes y con un buen aporte de omega 3, un pescado saludable.",
+        "Elaboración": [
+          "Para preparar el atún encebollado al estilo andaluz, primero prepara el pescado. Pide en la pescadería que lo corten en filetes de 2cm. y limpio de espinas. A continuación, corta el pescado en tacos de bocado y, si no te gusta, puedes hacerlo en filetes.",
+          "Cubre el fondo de una cazuela con aceite de oliva y pon a calentar a fuego medio. Cando esté, saltea el atún, solo debes dorarlo o sellarlo por todos los lados sin que llegue a hacerse por dentro. Retira y reserva.",
+          "Pela la cebolla y los ajos y, a continuación, corta la cebolla en juliana fina y los ajos en rodajas. En la misma cazuela donde se ha dorado el atún, añade un poco más de aceite de oliva y los ajos, deja unos segundos para que se integren los sabores, fuego medio hasta que esté la cebolla pochada unos 10-15 minutos. A continuación, tapa la cazuela así la cebolla se pochara antes, ya que se formará vapor y así se cocinará.",
+          "Cuando esté pochada la cebolla, aparta la cazuela del fuego e incorpora media cucharada de pimentón dulce y la hoja de laurel, remueve para que el pimentón no se queme",
+          "Pon otra vez la cazuela al fuego y añade el vinagre, deja que se cocine unos minutos y vierte también un vaso de agua. Incorpora un poco de sal y pimienta y deja que se cocine todo unos minutos más hasta que la salsa se reduzca un poco, prueba y rectifica.",
+          "Incorpora los trozos de atún a la cazuela y deja que se cocine todo junto 2 minutos. Apaga y deja que se termine de cocinar con el calor de la salsa. Para que el atún encebollado de Cádiz quede bueno, no lo cocines mucho, el atún muy hecho queda seco. ¡Listo la mejor receta de atún encebollado!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/atun_encebollado.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "5 cucharadas",
+          "Agua": "1.5 l",
+          "Ajo": "2 dientes",
+          "Atún": "600gr",
+          "Cebolla": "2 cebollas",
+          "Laures": "1 hoja",
+          "Orégano": "al gusto",
+          "Pimentón dulce": "1 cucharadita",
+          "Sal ": "al gusto",
+          "Vinagre": "40ml"
+        }
+      },
+      "Bacalao en salsa vizcaína": {
+        "Descripción": "La receta de bacalao a la vizcaína fácil consiste en un plato de bacalao excelente con un salsa muy buena y especial que se prepara con pimientos choriceros. Una elaboración tradicional de la cocina vasca que hace que la mezcla del bacalao y la salsa quede estupenda. Además, debes saber que se prepara mucho en época de Navidad y, sobre todo, en Semana Santa. Para prepararlo, es esencial utilizar un buen trozo de bacalao sin espinas y en su punto de sal. Actualmente, se encuentra ya desalado al punto de sal en muchas tiendas.",
+        "Elaboración": [
+          " Si quieres aprender cómo hacer bacalao a la vizcaína tradicional, primero debes saber que es importante comprar los trozos de bacalao ya desalados. Si los desalas en casa, debes tener 48 horas en agua cambiando cada 8 horas, si es muy gordo igual necesita un poco más. Asimismo, en una cazuela añade un buen chorro de aceite de oliva, que cubra el fondo. Luego, pela los ajos y corta en rodajas. La cazuela debe estar a temperatura suave, añade los ajos, no se deben dorar. Coloca los trozos de bacalao y cocina durante 2-3 minutos por cada lado. Retira y reserva.",
+          "Pela la cebolla y corta en tiras. En la cazuela donde has cocinado el bacalao, añade la cebolla. Deja que se poche a fuego medio unos 25 minutos, debe quedar muy pochada sin dorarse.",
+          " Cuando tengas la cebolla hecha, añade la cucharada de pimiento choricero y mezcla con la cebolla. A continuación, añade el coñac y deja unos minutos hasta que se evapore el alcohol.",
+          "Añade un vaso de 200ml. de agua y deja cocinar a fuego medio unos 10 minutos.",
+          "Pasa la salsa a un vaso o jarra y tritura con un robot o un brazo batidor hasta que quede la salsa bien triturada.",
+          "Vuelve a añadir la salsa a la cazuela y, si está muy espesa, añade un poco más de agua hasta que la dejes al gusto. A continuación, prueba de sal y pimienta, rectifica. Luego, añade los trozos de bacalao a la salsa y deja cocinar a fuego medio unos 5 minutos para que se mezclen bien los sabores.",
+          "¡Ya puedes disfrutar de un exquisito y sabroso bacalao a la vizcaína sencillo!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Bacalao en salsa vizcaína.PNG",
+        "Ingredientes": {
+          "Aceite de oliva": "1 vaso pequeño",
+          "Agua": "1 vaso",
+          "Bacalao desalado": "4 trozos",
+          "Cebolla": "1 unidad grande",
+          "Coñac": "50 ml",
+          "Dientes de ajo": "4 dientes",
+          "Pimiento choricero": "1 cucharada sopera",
+          "Sal": "1 pizca"
+        }
+      },
+      "Ceviche de atún estilo Sinaloa": {
+        "Descripción": "Si tienes antojo de algo fresco, rico y rápido de preparar, esta receta de ceviche de atún estilo Sinaloa te va a encantar. Sinaloa es uno de los estados de México con una gran oferta turística, sus playas son bellas, además de una exquisita gastronomía, es por eso que alguna vez en la vida tienes que ir y probar su variedad de platillos del mar. El ceviche es uno de los platos principales, hay de pescado, de camarón, de pulpo y más, sin embargo, en esta ocasión, te enseñamos cómo preparar un delicioso ceviche de atún estilo Sinaloa, muy similar a la ensalada de atún fresco con mango combinando el fresco sabor del atún con pepino, cebolla, cilantro y con un ingrediente extra, el mango, que hará de esta receta una elaboración exquisita.",
+        "Elaboración": [
+          "Empieza la receta de ceviche de atún estilo Sinaloa picando el medallón o filete de atún en cubos pequeños, coloca en un bol y reserva.",
+          "Pica finamente la cebolla morada y los chiles serranos, además, puedes retirar las semillas y las venas de los chiles si no quieres que pique demasiado, también puedes sustituir la cebolla morada por cebolla blanca.",
+          "Pica la mitad de un pepino en cubos más o menos del mismo tamaño que las verduras y el atún, retira las semillas. Si lo deseas, puedes pelar el pepino o dejar la cáscara, personalmente me gusta dejarla, pues aporta una textura crocante y un sabor especial.",
+          "También pica el cilantro, sin embargo, antes no olvides desinfectar muy bien la rama. Puedes picar todo o bien solo usar las hojas, esto ya es meramente al gusto. A continuación, reserva.",
+          " Incorpora los ingredientes en un bol o recipiente amplio para mezclar más adelante. Coloca el atún, el pepino, el cilantro, la cebolla, el chile serrano, el mango picado, el jugo de 5-6 limones, sal y pimienta al gusto.",
+          "Mezcla muy bien para integrar todos los ingredientes y, luego, añade una cucharadita de salsa de soya o salsa inglesa, vuelve a mezclar. También puedes usar salsa marisquera o si quieres proporcionar un toque dulce, puedes usar salsa cátsup.",
+          "En pocos minutos tendrás un rico y fresco ceviche de atún estilo Sinaloa. ¡Disfruta con tostadas de maíz o con galletas saladas!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Ceviche de atún estilo Sinaloa.PNG",
+        "Ingredientes": {
+          "Atún fresco": "200 gr",
+          "Cebolla morada": "1/2 unidad",
+          "Chile serrano": "2 unidades",
+          "Cilantro fresco": "1 rama",
+          "Limones": "5 unidades",
+          "Mango cortado en cubos": "1 taza",
+          "Pimienta": "Al gusto",
+          "Sal": "Al gusto",
+          "Salsa de soja o inglesa": "1 cucharadita",
+          "Tostadas para acompañar": "1 paquete"
+        }
+      },
+      "Foto": "gs://cooking-plus.appspot.com/Pescados.jpg",
+      "Merluza con salsa marinera": {
+        "Descripción": "Prepara un plato tradicional de pescado, exactamente una elaboración de merluza a la marinera. Una receta sencilla y rápida de hacer que también se puede cocinar con otros pescados en salsa marinera que tengan una carne consistente. Asimismo, debes saber que la merluza tiene un sabor suave y agradable, es ligera gracias a la poca grasa que contiene. Además, este plato tiene una salsa sencilla, rápida y ligera.",
+        "Elaboración": [
+          "Coloca un bol con agua y sal, añade las almejas unos 30 minutos.",
+          "Pela las gambas, retira las cabezas y las cáscaras del cuerpo, reserva.",
+          "En un cazo añade un poco de aceite, un ajo picado y un poco de perejil.",
+          "Añade las cabezas de las gambas y cocina un par de minutos sin que se quemen. Incorpora también agua que cubra bien todas las espinas y, si tienes espinas o cabeza de la merluza también. Deja cocinar unos 20 minutos e incorporaun poco de sal.",
+          " Adquiere una cazuela a caletnar para preparar la merluza y vierte un poco de aceite. Añade las gambas y saltea un poco, retira y reserva.",
+          " En la misma cazuela si hace falta añade aceite y dora a fuego fuerte la merluza que previamente habrás pasado por harina, retira y reserva.",
+          "Pica una cebolla y los dientes de ajos, incorpora en la cazuela y pocha a fuego medio. A continuación, cuando esté la cebolla pochada, añade una cuchara de harina, mezcla y vierte el vino blanco. Deja 1 minuto e incorpora el pimentón dulce, remueve y añade el caldo de pescado.",
+          "Cuando el caldo empiece a hervir, prueba e incorpora sal si hace falta. Añade también las rodajas de merluza y deja unos 5 minutos que se cocine moviendo la cazuela, incorpora las almejas.",
+          "Cuando empiecen a abrirse las almejas añade las gambas peladas, mueve la cazuela para que todo se mezcle y apaga. Deja reposar 5 minutos y sirve.",
+          " ¡Ya está lista la merluza con salsa fácil y rápida! "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Merluza con salsa marinera.PNG",
+        "Ingredientes": {
+          "Aceite de oliva": "1 chorro",
+          "Almejas": "1 kg",
+          "Caldo de pescado": "500 ml",
+          "Cebolla": "1 unidad",
+          "Dientes de ajos": "2 unidades",
+          "Gambas": "12 mínimo",
+          "Harina": "3 Cucharadas soperas",
+          "Pimentón dulce": "1 cucharadita",
+          "Rodajas de merluza": "8 unidades",
+          "Sal": "1 pizca",
+          "Vino blanco": "100 ml"
+        }
+      },
+      "Palitos de merluza": {
+        "Descripción": "El pescado es, dentro de las carnes, la que menor cantidad de grasas tiene. Además, sus grasas contienen efectos positivos para nuestra salud, puesto que no solo ayudan a prevenir enfermedades cardiovasculares, sino que si ya tenemos una enfermedad, colabora en que la transitemos con menos complicaciones.  Si ya tienes una enfermedad establecida, te recomendamos reemplazar la harina por pan rallado y cocinar el pescado al horno. Si te alimentas de forma saludable habitualmente, puedes probar sin problemas esta receta de milanesas de pescado marineras en forma de palitos. También es una forma tentadora de incorporar el pescado en la dieta de los niños.",
+        "Elaboración": [
+          "Corta la merluza en bastones de tamaño similar para que su cocción sea pareja. Te recomendamos seleccionar pescados como la merluza o el lenguado que son turgentes y sostienen su forma al cocinarse.",
+          " En un recipiente amplio, mezcla la harina, el huevo y los condimentos. Vuelca en él los palitos de merluza, macéralos unos minutos para que tomen sabor y úntalos bien con la preparación.",
+          "Cocina tus palitos de merluza en una sartén con aceite caliente. Ten en cuenta no agregar muchos palitos a la vez para no bajar la temperatura del aceite. Al final de la receta podrás leer otras recomendaciones respecto a la fritura.",
+          "Reserva los palitos de merluza en un plato con papel absorbente para retirar el exceso de grasa y listo. Ya puedes disfrutar de esta delicia. Así es como queda el primer rebozado.",
+          " Si finalmente te decantaste por el segundo rebozado, los palitos de merluza caseros quedarán de la siguiente manera. ¡Ambas opciones quedan deliciosas! Cuéntanos cuál es tu favorita."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Palitos de merluza.PNG",
+        "Ingredientes": {
+          "Filete de merzula despinado": "300 gr",
+          "Harina": "1/4 taza",
+          "Harina de trigo": "c/n",
+          "Huevo": "1 unidad",
+          "Pan rallado": "c/n",
+          "Pimentón dulce o paprika": "c/n"
+        }
+      },
+      "Poke de salmón": {
+        "Descripción": "El poke bowl es un plato típico de Hawaii, creado por los pescadores que combinaban cortes de la pesca del día, con distintos alimentos regionales. Poké significa trocear en su idioma original y esa es la base del plato, presentar distintos ingredientes cortados, listos para comer, de forma elegante y apetitosa. Asimismo, en esta oportunidad, queremos enseñarte a preparar un poke bowl de salmón, el cual combinaremos con arroz, palta, mango y queso Filadelfia. Podrás disfrutarlo como una cena liviana o un almuerzo fresco en los días de calor.",
+        "Elaboración": [
+          "Para empezar con la preparación del poke bowl de salmón, lleva el arroz a una cacerola tapado por 1 dedo de alto de agua. Enciende la hornalla y reserva hasta que el agua comience a hervir.",
+          " Cuando el agua hierva, retira la cacerola del fuego y tápalo para reposarlo por unos 12 minutos, hasta que absorba el agua y esté tierno",
+          "Pasado el tiempo, disuelve el azúcar en el vinagre y condimenta el arroz con esa preparación. Enfríalo en heladera por al menos una hora.",
+          "Cuando tu arroz esté frío, comienza a armar el poke bowl de salmón. Para ello, corta el mango en cubos y distribúyelo en un sector. En otro, añade el queso. Puedes hacerlo con una cuchara o una manga, para tener una presentación distinta. También agrega el salmón ahumado y fileteado, el aguacate cortado en láminas finas y termina con ralladura de limón.",
+          "¡Y así tienes listo el poke bowl de salmón! "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/poke_de_salmon.jpg",
+        "Ingredientes": {
+          "Aguacate": "1 aguacate",
+          "Arroz": "3/4 taza",
+          "Azúcar": "30 gr",
+          "Limón": "ralladura",
+          "Mango": "un trozo",
+          "Salmón ahumado": "160 gr",
+          "Vinagre blanco": "50 ml"
+        }
+      },
+      "Salmón en salsa verde": {
+        "Descripción": "La salsa verde es un tipo de salsa muy tradicional en pescado blancos como la merluza. En esta ocasión, en RecetasGratis vamos a utilizar un pescado azul para preparar esta receta saludable ideal para una cena o para una comida ligera. Se trata de salmón en salsa verde.  El salmón es un pescado muy saludable, muy rico en ácidos grasos y proteínas y además es muy versátil en la cocina; existen muchas recetas con diferentes tipos de cocción y todas ellas con un resultado maravilloso. Dicho esto, preparar esta receta te va a resultar muy fácil y apetecible. ¿Quieres ver como hacer salmón en salsa verde paso a paso? ",
+        "Elaboración": [
+          "Corta el salmón en lomos rectangulares. En una olla, calienta el aceite de oliva y sella el pescado unos segundos por cada lado. Resérvalo para más adelante.",
+          "En la misma olla, añade la cebolla picada y cocínala unos minutos hasta que empiece a dorarse. Agrega entonces el ajo laminado y cocínalo 1 minuto.",
+          "Añade una cucharada sopera de harina de trigo y cocínala unos minutos para evitar que el salmón en salsa verde tenga sabor a harina cruda.",
+          "Vierte el vino blanco y remueve muy bien para que se integre con la harina. Cocina unos segundos para que se evapore el alcohol y añade el vaso de agua. Sigue removiendo bien y notarás que la salsa empieza a espesarse. Si fuera necesario, añade un poco más de agua. Sazona al gusto.",
+          " Lava bien el perejil y pícalo muy fino. Añádelo a la salsa y mezcla bien. Verás que la tonalidad de la salsa se vuelve verdosa, eso quiere decir que ya estará lista.",
+          " Por último, añade a la salsa el salmón que habías reservado anteriormente y deja que cueza todo junto entre 8 y 10 minutos aproximadamente, o hasta que el pescado esté cocinado.",
+          "Cuece el huevo 10 minutos en agua hirviendo. Enfríalo, pélalo y córtalo a cuartos.",
+          " Pon el salmón en un plato hondo y cúbrelo con la salsa verde. Decora con el huevo duro y a disfrutar de este rico y saludable plato de pescado azul. ¡Buen provecho!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/Salmón en salsa verde.PNG",
+        "Ingredientes": {
+          "Aceite de oliva": "1 vaso",
+          "Agua": "1 vaso pequeño",
+          "Cebolla tierna": "1 unidad",
+          "Diente de ajo": "1 diente",
+          "Harina de trigo": "1 cucharada sopera",
+          "Huevo": "1 huevo",
+          "Perejil fresco": "1 manojo",
+          "Salmón fresco": "300 gr",
+          "Vino blanco": "1 vaso pequeño"
+        }
+      }
+    },
+    "Verduras": {
+      "Berenjenas rellenas sin bechamel": {
+        "Descripción": "Las berenjenas rellenas al horno con queso consisten en un plato estupendo, rico y sencillo de elaborar. Además, las podemos rellenar con cualquier carne, incluso también están deliciosas con verduras, setas, pescado, etc. Debes saber que la berenjena es una verdura muy buena, baja en calorías y ligera. Por otro lado, esta receta no contiene bechamel, por ello, hemos añadido una pizca de queso rallado gratinado. Se pueden preparar como entrante o como plato único.",
+        "Elaboración": [
+          "¿Te preguntas cómo se hacen las berenjenas rellenas fáciles? Pues bien, para empezar con la receta de berenjenas rellenas sin bechamel, primero debes poner el horno a calentar a 200 ºC con calor arriba y abajo. Seguido, lava las berenjenas y corta por la mitad cada una, debes cortar a lo largo. Colócalas en una bandeja de horno con un chorro de aceite y un poco de sal. A continuación, introduce en el horno hasta que estén asadas, aproximadamente unos 30-40 minutos.",
+          "Coloca una cazuela con un buen chorro de aceite a fuego medio y, seguido, pela y pica la cebolla muy pequeña, añade en la cazuela. A continuación, lava y corta los pimientos en trozos pequeños, incorpóralos junto con la cebolla hasta que quede pochado.",
+          " Cuando las verduras estén listas, añade la carne picada, mezcla con las verduras y deja que se cocine la carne. Remueve para que se haga bien por todo. Seguido, añade el tomate frito, la sal y la pimienta. Deja que se cocine unos 10 minutos removiendo para que no se pegue.",
+          " Cuando estén listas las berenjenas, retira del horno y deja que se enfríen un poco para poder manipularlas bien. A continuación, retira la carne de las berenjenas. Seguido, pica la carne y añade al sofrito que has preparado.",
+          "Con ayuda de una cuchara, rellena las berenjenas con la carne.",
+          " Coloca las berenjenas rellenas de carne ligeras en una fuente para horno y cubre con el queso rallado. A continuación, introduce en el horno a 180 ºC con calor arriba y abajo, hasta que estén gratinadas.",
+          "Cuando observes que el queso está gratinado, retira la bandeja del horno con las berenjenas rellenas de verduras. ¡Ya puedes servir las deliciosas berenjenas rellenas de verduras sin bechamel!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/berenjenas_rellenas_sin_bechamel.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "4 o 5 cucharadas",
+          "Berenjena": "4 berenjenas",
+          "Carne picada": "400 gr",
+          "Cebolla": "1 cebolla",
+          "Pimienta negra": "1 pizca",
+          "Pimiento rojo": "un trozo",
+          "Pimiento verde": "un trozo",
+          "Queso ralldo": "100gr",
+          "Sal ": "al gusto",
+          "Tomate frito": "100gr"
+        }
+      },
+      "Cebolla caramelizada para hamburguesa": {
+        "Descripción": "Si alguna vez has mirado la carta de una hamburguesería gourmet, seguro que has visto que la cebolla caramelizada es un ingrediente común entre las opciones. Esto se debe a que las cebollas caramelizadas le dan un delicioso toque agridulce a cualquier hamburguesa de carne y combinan muy bien con el queso, particularmente el queso cheddar. Si te gusta hacer hamburguesas en casa, debes aprender también a hacer cebollas caramelizadas.",
+        "Elaboración": [
+          "Empieza pelando las cebollas y cortándolas en rodajas de unos 5 mm de grosor, es decir, ni muy finas ni muy gruesas.",
+          "Calienta una sartén con la mantequilla y, cuando se derrita, añade las rodajas de cebolla sin superponerlas. Deja a fuego lento unos 5-7 minutos o hasta que la cebolla se vuelva transparente.",
+          " Después del paso anterior, agrega la salsa de soja y el azúcar, mezcla y separa los aros de cebolla. Deja a fuego lento otros 5 minutos.",
+          "Cuando la cebolla esté muy suave y caramelizada, puedes apagar el fuego y servir. Disfruta de esta receta agridulce de hamburguesa con cebolla y mira también algunos consejos al final de esta receta para mejorar su sabor. ¡A comer! "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/cebolla_caramelizada_para_hamburguesa.jpg",
+        "Ingredientes": {
+          "Azúcar moreno": "1/2 cucharada de postre",
+          "Cebolla": "2 cebollas",
+          "Manteca": "1 cucharada de postre",
+          "Salsa de soja": "2 cucharadas soperas"
+        }
+      },
+      "Chop suey de verduras": {
+        "Descripción": "Prepara un exquisito salteado de verduras o chop suey de verduras, una comida china que consiste en mezclar diferentes verduras, saltearlas y proporcionar un toque oriental con las salsas. Además, para que queden unas verduras bien hechas, se deben cortar en tiras similares, así se cocinarán a la vez. También es importante la sartén que se utiliza para este plato, en este caso, es un wok o una sartén alta.",
+        "Elaboración": [
+          "Para preparar el chop suey de verduras, primero lava las verduras. A continuación, corta los pimientos en tiras, la cebolla en cuartos y cada cuarto por la mitad, la zanahoria la puedes cortar en tiras o córtalas tal cual pero que sean finitas las rodajas. Lava el calabacín, corta los extremos y, luego, en 2 o en 3 partes corta cada parte a lo largo de un cm. de ancho y en tiras.",
+          "Añade un wok o una sartén alta a fuego alto con 2-3 cucharadas de aceite de sésamo o girasol y pica los dientes de ajo. Añade a la sartén e incorpora también todas las verduras menos los brotes de soja. Cocina las verduras unos 5 minutos removiendo.",
+          "Añade la salsa de soja y mueve para que se mezcle bien todo. Incorpora también el caldo de verduras, mezcla todo y deja se cocine 2-3 minutos.",
+          " Incorpora los brotes de soja y saltea todo junto un par de minutos más.",
+          "Cuando tengas salteado el chop suey de verduras, prueba si está bien el punto de sal y retira del fuego.",
+          "Sirve en una fuente o en un plato hondo y espolvorea con semillas de sésamo. ¡A comer! Puedes acompañar esta receta con pan frito chino, te encantará."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/chop_suey_de_verduras.jpg",
+        "Ingredientes": {
+          "Aceite de girasol": "segun se necesite",
+          "Ajo": "1 diente",
+          "Bortes de soja": "100 gr",
+          "Calabacin": "1 calabacin",
+          "Caldo de verduras": "1 l",
+          "Cebolleta": "2 cebolletas",
+          "Pimiento rojo": "1 pimiento",
+          "Pimiento verde": "1 pimiento",
+          "Semillas de sésamo": "100gr",
+          "Zanahoria": "2 zanahorias"
+        }
+      },
+      "Coliflor con queso al horno": {
+        "Descripción": "Esta vez vengo con otro de esos platos ya clásicos en mi casa, la coliflor con queso al horno. Este era el plato de mi hermano mayor cuando éramos pequeños y siempre que mi madre le preguntaba a él qué quería comer lo pedía. Por supuesto, era obligado en su cumpleaños. Al resto de la familia no nos importaba nada porque también nos encantaba comer esta coliflor gratinada con bechamel. Y es que he de decir que a mi madre le salía de concurso. Y aún le sale así :) Y yo, como buena hija, la preparo igual y a mi marido le vuelve loco. No podía ser de otra manera :)",
+        "Elaboración": [
+          "Cocemos la coliflor y la escurrimos bien. Luego la ponemos en una fuente apta para horno.",
+          "Mientras se hace la coliflor preparamos la bechamel. Los ingredientes son más bien orientativos porque yo la hago a ojo. Lo que sí es importante es que os quede tirando a líquida (más que con las croquetas, por ejemplo) porque queremos regar la coliflor y que llegue a todos los huecos. Si queda muy espesa quedará un mazacote encima. Queremos obtener un plato de coliflor con gratinada con queso en su punto, ligero a pesar de llevar la salsa. La clave es la bechamel. Si nos queda muy densa quedará un plato muy pesado y perderá su gracia. Cuando la tengamos lista, regamos la coliflor con la salsa bechamel. Asegurando que se cubra bien toda y que se llenen los huecos.",
+          "Por último, espolvoreamos queso rallado por encima, metemos la coliflor al horno con queso con la función grill y dejamos unos minutos hasta que se dore la superficie a nuestro.",
+          "Entonces sacamos la coliflor gratinada al horno y servimos directamente. Ya veréis qué delicia!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/coliflor_con_queso_al_horno.jpg",
+        "Ingredientes": {
+          "Coliflor": "1 coliflor",
+          "Harina": "20gr",
+          "Leche": "lo que se necesite",
+          "Mantequilla": "40 gr",
+          "Queso rallado ": "al gusto",
+          "Sal ": "al gusto"
+        }
+      },
+      "Croquetas de arroz y espinaca": {
+        "Descripción": "Las croquetas son un plato muy versátil, en el que puedes combinar distintos vegetales para incluir más fibra y micronutrientes a tu alimentación. En esta oportunidad, aprenderás a hacer unas sencillas croquetas de arroz al horno, ideales para un almuerzo liviano, para los más chicos de la casa o para llevar al trabajo, universidad, escuela, como vianda. Esta versión se cocina al horno, para lograr un plato saludable, que equilibra los 3 nutrientes principales en nuestra alimentación: hidratos, proteínas y fibra. Puedes servirlas con una ensalada o salsa para mojarlas y hacerlas parte de una picada saludable. Al final de la receta te daremos más ideas.",
+        "Elaboración": [
+          "Cocina el arroz de acuerdo a las indicaciones del paquete. En general, consiste en hervir en unas 3 partes su cantidad. Es decir, aquí estamos usando 1 pocillo, deberíamos agregar mínimo 3 pocillos de agua. Cocínalo por unos 8 minutos, apaga el fuego y repósalo tapado para que termine de hidratarse.",
+          "Mientras se cocina el arroz, pela y pica la cebolla junto al diente de ajo para saltearlos en una sartén a fuego alto con una cucharadita de aceite. Una vez que la cebolla transparente, baja el fuego a medio y saltea revolviendo cada tanto para evitar que se queme. Si necesita más líquido, puedes agregar una cucharada de agua, para de a poco caramelizar la cebolla.",
+          "Por otro lado, lava y procesa las hojas de espinaca. Para lavarlas, recomendamos separes cada una de su cabo y las remojes en agua con vinagre. Luego, llévalas a un recipiente con una solución de 1 gota de lavandina apta para alimentos por litro de agua y sumérgelas por 15 minutos. Pasado ese tiempo, cuélalas y procésalas. De esta forma, quedarán desinfectadas y seguras.",
+          "Mezcla el arroz cocido con la espinaca procesada y la cebolla y el ajo salteados. Condimenta al gusto con la nuez moscada y el queso rallado. Puedes agregar otros condimentos como cúrcuma, provenzal, ají molido y mostaza. Pruébalo para corroborar que te guste.",
+          "Cuando hayas probado la preparación y te haya gustado, añade el huevo y la harina. Integra.",
+          "En una asadera engrasada o cubierta por pan rallado, arma tus croquetas de arroz y espinaca, ayudándote con una cuchara. Puedes proporcionar la forma que desees.",
+          "Cocínalas en el horno precalentado a temperatura máxima (200-220 ºC) por unos 10 minutos hasta que estén doradas. Gíralas y cocínalas unos 7 minutos más",
+          " Sirve tus bocadillos de arroz y espinaca. ¡A comer! "
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/croquetas_de_arroz_y_espinaca.jpg",
+        "Ingredientes": {
+          "Ajo": " 1 diente",
+          "Arroz largo": "1 vaso pequeño",
+          "Cebolla": "1 cebolla",
+          "Espinacas": "200 gr",
+          "Harina": " 2 cucharadas de postre",
+          "Huevo": "1 huevo",
+          "Nuez moscada": "1 cucharada de postre",
+          "Queso rallado": "3 cucharads de postre"
+        }
+      },
+      "Foto": "gs://cooking-plus.appspot.com/verduras.jpg",
+      "Rollitos de primavera vegetarianos": {
+        "Descripción": "Los rollitos de primavera estilo chino son un aperitivo o snack, sorprendentemente fácil y rápido de hacer. Lo que te llevará más tiempo es cortar los vegetales. Esta receta usualmente se hace con una masa de harina de trigo, pero para hacerla libre de gluten utilizamos unas obleas de arroz y tapioca como lo hacen en Vietnam.",
+        "Elaboración": [
+          " Corta la cebolla blanca en pluma, es decir, córtala por la mitad en el sentido de los gajos, apoya una mitad con la parte plana sobre la tabla para cortar los extremos y luego en tiras muy finas, repite los mismos pasos con la otra mitad de cebolla. Seguidamente, corta el porro de la misma manera, primero corta la parte blanca en piezas de 6 cm y córtalos por la mitad, luego estas mitades en juliana. También corta las zanahorias y el zucchini en juliana. Comienza cortando los vegetales en láminas delgadas para luego cortarlas en tiras muy finas. Por último, corta el repollo en gajos, retirando el tallo y cada trozo córtalo en chiffonade o en tiras delgadas. Reserva.",
+          "Calienta un wok o una sartén grande, vierte un chorro de aceite de oliva y coloca la cebolla en pluma y el poro en juliana. Remueve hasta que la cebolla se vea traslúcida y el poro esté suave.",
+          "Agrega la zanahoria en juliana y deja cocinar por un par de minutos removiendo de vez en cuando para evitar que los vegetales se doren.",
+          "Cuando la zanahoria esté al dente, incorpora el repollo y el zucchini en juliana. Mezcla bien.",
+          "A continuación, añade las raíces chinas y sazona con un chorro de salsa de soja, pimienta negra molida y una pizca de sal. Remueve bien, reduce el fuego al mínimo y deja cocinar por 10 minutos o hasta que los vegetales estén perfectamente cocidos. Rectifica la sazón y reserva fuera de fuego.",
+          "Para armar, hidrata el papel de arroz sumergiéndolo por 5 segundos en agua, deja escurrir y coloca sobre una tabla (rápidamente notarás que la hoja se vuelve más flexible).",
+          "Inmediatamente coloca un par de cucharadas de la mezcla de vegetales en el centro del papel.",
+          " Levanta los extremos más cercanos y dóblalos hacia el centro cubriendo el relleno, en este paso medimos la longitud de los rollitos.",
+          "Dobla un lado hacia adentro para evitar que el relleno se caiga.",
+          "Enrolla el papel de arroz firmemente hasta obtener la forma de tubo.",
+          "Finalmente, si deseas, fríelos en una sartén con aceite caliente por cada lado hasta que estén dorados.",
+          "Sirve los rollitos de primavera de verduras acompañados de salsa de soja o salsa agridulce china. ¡A disfrutar!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/rollitos_de_primavera_vegetarianos.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "segun se necesite",
+          "Agua": "Un poco para hidratar",
+          "Calabacín": "1 calabacín",
+          "Cebolla": "1 cebolla",
+          "Hojas especiales para rollos": "1 sobre",
+          "Pimienta negra molida": " al gusto",
+          "Puerro": "1 puerro",
+          "Raices chinas": "200 gr",
+          "Repollo": "1 repollo pequeño",
+          "Sal ": "al gusto",
+          "Salsa de soja": "al gusto",
+          "Zanahoria": "2 zanahorias"
+        }
+      },
+      "Romanescu al horno": {
+        "Descripción": "El romanescu es un tipo de brócoli y de coliflor con numerosos beneficios y propiedades para la salud. Contiene muchas vitaminas y minerales, con propiedades anticancerígenas, diuréticas, cardiosaludables, reduce el colesterol en sangre y, además, tiene pocas calorías. Es un gran aliado a la hora de perder peso. Incluso, si consumes el romanescu con pocos complementos, como la receta que te proponemos, es mucho más saludable y recomendable. En muy pocos pasos, vas a obtener un romanescu al horno delicioso, con su sabor particular, suave y afrutado.",
+        "Elaboración": [
+          "¿Te preguntas cómo cocinar el romanescu? Pues bien, para hacer la receta de romanescu al horno, primero debes retirar todas las hojas de la hortaliza. También debes cortar un poco la base del romanescu, la parte más dura del tronco. A continuación, lávala bien y sacude para retirar el exceso de agua.",
+          "Pon el romanescu en una bandeja forrada con papel de horno y añade un poco de sal por toda la superficie, tanto por la parte de arriba como por la de abajo. A continuación, riega con un chorrito de aceite. Introduce en el horno precalentado a 180 ºC con calor arriba y abajo y hornea durante 15 minutos. A mitad de cocción, dale vuelta para que también se dore un poco por la parte de abajo",
+          " Pasado los 15 minutos, retira el romanescu del horno y ralla encima de él un diente de ajo de buen tamaño. Por último, añade otro chorrito de aceite de oliva.",
+          "Cubre el romanescu con papel de aluminio y vuelve a introducir en el horno, sigue cociendo a 180 ºC con calor arriba y abajo 20 minutos más.",
+          "Retira el papel de aluminio con cuidado, pues suelta vapor de su interior. A continuación, corta los ramilletes del romanescu al horno y sirve enseguida."
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/romanescu_al_horno.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "2 chorros",
+          "Ajo": "1 diente",
+          "Romanescu": "1 romanescu de 1.2 kg",
+          "Sal": "al gusto"
+        }
+      },
+      "Verduras con queso": {
+        "Descipción": "El gratinado de verduras es un plato muy rico y fácil de preparar. Asimismo, este plato nos da mucho juego, ya que lo podemos hacer con las verduras que más nos gusten o las que nos vayan quedando por la nevera. Una forma de darle mucho sabor a las verduras es haciéndolas con bechamel, de esta manera, le da mucha jugosidad y sabor al plato. Además, se pueden mezclar las verduras que quieras. Además, para proporcionar sabor, añadimos queso rallado que le da ese toque crujiente del gratinado, puedes usar cualquier tipo de queso cremoso.",
+        "Elaboración": [
+          " Para empezar con la receta, primero debes lavar las verduras, luego, pélalas y córtalas en trozos o en rodajas. Por un lado, pon el brócoli y la coliflor a cocer en una olla con un poquito de agua. Después, debes cocerlo 10 minutos.",
+          "Por otro lado, debes poner en una sartén a fuego fuerte el calabacín en rodajas y las zanahorias en tiras. Solo hay que cocinarlas un poco, por eso, es mejor poner el fuego fuerte para que se doren un poco y se terminen de cocinar en el horno. Cuando las verduras estén doradas, debes añadir las espinacas, remover y, por último, reservarlas.",
+          " A continuación, debes hacer la bechamel. Para ello, debes poner en un cazo la mantequilla a derretir. Luego, añade la harina, debes dejarlas un minuto para que se cocine todo junto.",
+          "Seguidamente, añade la leche poco a poco y remueve hasta que se forme una crema espesa. Luego, añade sal y un poco de nuez moscada.",
+          "Cuando la bechamel esté lista, debes poner todas las verduras en una fuente apta para el horno.",
+          "A continuación, debes cubrir las verduras con la bechamel y que toda la mezcla quede bien cubierta. Ahora, añade por encima el queso rallado. Por último, mete la fuente al horno a gratinar a 200 ºC y deja hasta que las verduras estén gratinadas.",
+          "Cuando veamos que ya está dorado sacamos del horno y servimos las verduras con queso al horno. ¡A comer!"
+        ],
+        "Foto": "gs://cooking-plus.appspot.com/verduras_con_queso.jpg",
+        "Ingredientes": {
+          "Aceite de oliva": "1 chorro",
+          "Brócoli": "1 brócoli",
+          "Calabacín": "2 calabacines",
+          "Coliflor": "1 coliflor",
+          "Espinacas": "250 gr",
+          "Harina": "50 gr",
+          "Leche": "700 ml",
+          "Mantequilla": "50 gr",
+          "Nuez moscada": "1 pizca",
+          "Queso rallado": "50 gr",
+          "Sal ": "al gusto",
+          "Zanahoria": "2 zanahorias"
+        }
+      }
+    }
+  }
+}

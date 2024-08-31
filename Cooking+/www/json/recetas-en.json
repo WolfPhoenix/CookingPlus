@@ -1,0 +1,1274 @@
+{
+    "descripcion": "Description:",
+    "ingredientes": "Ingredients:",
+    "elaboracion": "Preparation:",
+    "pasos": "Step:",
+    "recetas": {
+        "Arroces": {
+            "Arroz al caldero murciano": {
+                "Descripción": "Caldero rice is a traditional dish from Murcia, characterized by its intense fish flavor. To achieve this, a good fish broth is made with the bones or fish scraps sold at fish markets, consisting of various small fish used only for making a good broth, and a well-cooked red sofrito with ñoras and tomato. This is a dish that was prepared by fishermen using a large cauldron, hence the name caldero rice. Traditionally, it is served with the fish on the side, as we have done.",
+                "Elaboración": [
+                    "Take a pot, add a splash of oil, and sear the fish over high heat. You can do this with boneless fillets or in slices. Once the fish is ready, remove and set aside.",
+                    "In the same pot, add the ñoras and garlic and cook over medium heat until the garlic starts to color, but be careful not to burn it as this would spoil the sofrito. Add the tomato and cook everything together for about 10 minutes.",
+                    "On the other hand, prepare the fish broth that will flavor the caldero rice. To do this, in a pot place the fish scraps or bones, cover with water, about one and a half to 2 liters, and add a little salt. Cook over medium heat.",
+                    "Once the sofrito is ready, blend everything with an electric mixer. When the broth is halfway through cooking, that is, after about 10 minutes, add the blended sofrito and cook everything for another 10-15 minutes. Strain the broth and set it aside to continue with the caldero rice recipe.",
+                    "Pour the broth into the pot or paella where you will prepare the rice. You will need approximately one and a half liters, so if you have leftovers, you can keep it in case you need to add more. Caldero rice is a bit more soupy, so you might need to use a little more broth later.",
+                    "Add the rice and saffron threads. Let it cook for 10 minutes and taste to see if it needs more salt. Let it finish cooking. In total, this rice usually needs between 18 and 20 minutes of cooking, although the total time may vary depending on the type of rice used and the desired doneness.",
+                    "When you see that there are about 5 minutes left for the rice to be ready, add the fish on top so it can finish cooking. When the caldero rice is ready, turn off the heat and let it rest for 5 minutes.",
+                    "Once the caldero murciano is ready, you can serve it with a bit of aioli."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_al_caldero_murciano.jpg",
+                "Ingredientes": {
+                    "Olive oil": "1 splash",
+                    "Garlic": "3 cloves",
+                    "Bomba rice": "400 gr",
+                    "Saffron": "3 threads",
+                    "Fish bones": "1 kg",
+                    "Sea bass": "2 basses",
+                    "Salt": "to taste",
+                    "Crushed tomato": "300 gr",
+                    "Ñora pepper": "3 ñoras"
+                }
+            },
+            "Arroz al horno valenciano": {
+                "Descripción": "Today we prepare a traditional Valencian baked rice, a rice dish that stands out thanks to its mix of rice and stew. This recipe originated to use up leftover ingredients from making stew. Thus, we highlight that Valencian baked rice is a very simple dish and although it has a few steps, it is not difficult at all. Get ready to cook with us and prepare this delicious dish that finishes cooking in the oven. You will end up with perfectly cooked, loose rice. The result is impressive! You should know that rice can be used in any dish and can be mixed with any ingredient. Therefore, a package of rice should never be missing at home. Keep reading and prepare with us a Valencian baked rice!",
+                "Elaboración": [
+                    "First, preheat the oven to 200ºC (392ºF) top and bottom. Next, salt the ribs and bacon. Then, heat a pot with a bit of oil and once hot, add the ribs and let them brown. When they are halfway browned, add the bacon and let everything brown together. Finally, once cooked, remove the ingredients and set aside.",
+                    "In this step, peel the potatoes and cut them into 0.5 cm slices. In the same pot where you browned the meat and with the same oil, brown the potatoes on both sides. In about 5 minutes they will be ready. If more oil is needed, add a bit more. Remove and set aside.",
+                    "Next, return the meat to the pot, add the cooked chickpeas, and also include the head of garlic on one side so it can get some color. Then, add the rice and mix everything well. Finally, add the teaspoon of sweet paprika and let it cook for a few minutes. Add a bit of salt.",
+                    "To continue preparing the Valencian baked rice, heat the broth and add a bit of saffron to it.",
+                    "Then, add the broth to the pot, stir everything, and incorporate the meat and rice. Place the potatoes around the pot, as well as the head of garlic in the center. Then, place the morcilla around cut into pieces and also add the tomato slices. Let it cook on high heat for about 5 minutes.",
+                    "Now, put the pot in the center of the oven. Let it cook for about 20 minutes with heat top and bottom. The rice in the oven should be completely dry.",
+                    "Remove the rice, let it rest for 10 minutes, and serve. Ready to eat!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_al_horno_valenciano.jpg",
+                "Ingredientes": {
+                    "Olive oil": "1 splash",
+                    "Garlic": "1 head",
+                    "Rice": "350 gr",
+                    "Saffron": "to taste",
+                    "Beef broth": "900 ml",
+                    "Pork meat": "500 gr",
+                    "Cooked chickpeas": "150 gr",
+                    "Blood sausage": "2 blood sausages",
+                    "Pancetta": "2 strips",
+                    "Potatoes": "2 potatoes",
+                    "Sweet paprika": "1 teaspoon",
+                    "Salt": "to taste",
+                    "Tomato": "1 tomato"
+                }
+            },
+            "Arroz con aceitunas": {
+                "Descripción": "Rice with olives, or olive rice, is a traditional side dish, especially for the Christmas season in Peru. It consists of white rice tinted with a puree of black botija olives, a key ingredient from the southern coastal region of the country (a producing area), enriched with yellow chili, bacon, raisins, pecans, and even Parmesan cheese. An essential side dish for turkey at Christmas dinner, although you can also prepare it any time of the year as it pairs very well with seafood and grilled meats.",
+                "Elaboración": [
+                    "Start by finely chopping the onion or cutting it into small cubes, and also finely chop the garlic. If you didn’t get olive paste, start making it. To do this, place the pitted olives in a blender, add a splash of water, and blend until you get a puree.",
+                    "Cut the bacon into strips, keeping the 3 layers of meat and fat in each piece. Also, roughly chop the toasted pecans.",
+                    "In a heavy-bottomed pot, pour in the bacon and turn on the heat to let it release its fat and brown. When the bacon is browned, remove it from the pot and set aside.",
+                    "In the same pot, use the bacon fat to sweat the onion until translucent.",
+                    "Add the garlic and continue sautéing for a couple of minutes, then incorporate the yellow chili paste. Keep on the heat, stirring occasionally for 5 minutes or until it reaches a jam-like texture.",
+                    "Add the olive paste and continue stirring until it is well incorporated into the seasoning. If you made your own paste, you will notice that the oil starts to separate from the seasoning.",
+                    "Add the previously washed rice and coat it, meaning, keep moving it constantly until all the seasoning is distributed among each grain and they appear translucent. If the rice isn’t very purple, add a couple more tablespoons of olive paste.",
+                    "Before covering with water, add the golden raisins, black raisins, and the previously browned bacon.",
+                    "Cover with water until it is one finger above the rice and add salt to taste. Mix well, cover, and let the rice cook until fluffy.",
+                    "Uncover and incorporate the chopped pecans, stir well (use a fork or a rice paddle).",
+                    "Serve immediately on a tray, decorate with more raisins and pecans. Enjoy your meal!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_con_aceitunas.jpg",
+                "Ingredientes": {
+                    "Olives": "250 gr",
+                    "Ground garlic": "1 tsp",
+                    "Rice": "1 cup",
+                    "Onion": "1 onion",
+                    "Black raisins": "to taste",
+                    "Golden raisins": "to taste",
+                    "Yellow chili paste": "2 tablespoons",
+                    "Toasted pecans": "to taste",
+                    "Parmesan cheese": "to taste",
+                    "Salt": "to taste",
+                    "Bacon": "200 gr"
+                }
+            },
+            "Arroz con acelgas valenciano": {
+                "Descripción": "This Valencian rice with Swiss chard recipe is a simple and quick dish to prepare that doesn’t involve meat and is low in calories. It’s a typical Valencian rice dish that can be made with many variations and can be prepared any time of the year. Moreover, rice with chard can also be a dish for using up leftovers, as you can add chicken, potatoes, ham scraps, chickpeas, and lentils. It is ideal for vegetarians, so if you're looking for a nutritious vegetable dish, keep reading and discover how to make easy rice with chard.",
+                "Elaboración": [
+                    "Chop the onion and garlic into very small pieces.",
+                    "Wash the Swiss chard under running water, ensuring there is no dirt. Then, remove the stalks and use only the leaves.",
+                    "Heat a pot with a little oil, just enough to sauté the onion. Add the onion and let it cook until translucent. When transparent, add the chopped garlic and cook without letting it color. Then, add the tomato sauce and mix everything. Let it cook for a couple of minutes, being careful not to let it stick. Add the teaspoon of sweet paprika and mix well.",
+                    "Drain the Swiss chard and cut it into small pieces or strips. Add it to the pot, mix, and let everything cook together for a minute.",
+                    "Add water or vegetable broth; you can also use a bouillon cube to make the broth. However, don't add all the broth at once; reserve some in case you need more depending on how soupy you like your rice.",
+                    "When the broth starts to boil, add the rice (about a handful per person, in this case, two handfuls). Lower the heat slightly and let the rice cook for about 15-20 minutes, depending on the type of rice. If it looks too dry, you can add more water or broth as needed.",
+                    "Halfway through cooking, add a little salt, taste, and adjust if necessary. Stir the pot occasionally to help the rice release its starch and thicken the broth. When the rice is cooked, turn off the heat. Serve immediately to avoid overcooking the rice with chard."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_con_acelgas_valenciano.jpg",
+                "Ingredientes": {
+                    "Olive oil": "4 or 5 tablespoons",
+                    "Swiss chard": "1 bunch",
+                    "Garlic": "1 clove",
+                    "Rice": "1 handful of rice per person",
+                    "Vegetable broth": "1 liter",
+                    "Onion": "1 onion",
+                    "Sweet paprika": "1 teaspoon",
+                    "Salt": "to taste",
+                    "Tomato sauce": "3 tablespoons"
+                }
+            },
+            "Arroz con calamares y langostinos": {
+                "Descripción": "The recipe for rice with squid and prawns is a traditional Spanish dish. It’s a very simple preparation that doesn’t require much complication, as long as the ingredients are good, they add a lot of flavor to the rice, especially the fish stock with bones and heads. Additionally, this dish is very straightforward and quick to make; you can even prepare the sofrito in advance and have it ready to just add the rice.",
+                "Elaboración": [
+                    "To start with the rice with squid and prawns recipe, first prepare the stock. In a pot, add fish bones, prawn shells, 1 clove of garlic, and parsley. Then cover with water and let it cook for about 15 minutes. Strain the stock and set it aside.",
+                    "Remove the shells and heads from the prawns. Then, remove the skin from the squid, clean them well inside, and cut into not-too-thin rings.",
+                    "In a paella pan or wide pot, add a splash of oil and sauté the prawns and squid. When they are sautéed, remove the prawns and set them aside.",
+                    "Peel and chop 1 or 2 cloves of garlic. Add them to the pot with the squid and, before they brown too much, add the crushed tomato and cook over medium heat. When the tomato is ready, add the sweet paprika and saffron threads. Mix everything together.",
+                    "Add all the rice and stir with a wooden spoon or spatula to mix everything well and cook evenly.",
+                    "Heat the fish stock you prepared, making sure it’s free of bones. Add a bit of salt.",
+                    "Add the fish stock and let it cook for 5 minutes on high heat. After that, lower the heat to medium. Continue cooking for about 10 more minutes or until the rice is done. Before the rice is fully cooked, taste and adjust the salt if needed. Then, add the prawns on top and let the rice finish cooking.",
+                    "When the squid with rice is ready, turn off the heat and let it rest for 5 minutes. Serve and enjoy your rice with prawns and squid!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_con_calamares_y_langostinos.jpg",
+                "Ingredientes": {
+                    "Olive oil": "a splash",
+                    "Garlic": "2 cloves",
+                    "Rice": "400 gr",
+                    "Saffron": "3 threads per person",
+                    "Squid": "200 gr",
+                    "Fish stock": "1 liter",
+                    "Prawns": "200 gr",
+                    "Sweet paprika": "1 teaspoon",
+                    "Salt": "to taste",
+                    "Crushed tomato": "300 gr"
+                }
+            },
+            "Arroz con conejo estilo andaluz": {
+                "Descripción": "Traditional Andalusian-style rabbit rice is a very tasty dish, as the rabbit adds great flavor to the rice. Moreover, if you have a good field rabbit, the flavor is even better. You can also add more spices to this dish; depending on the region, cumin, oregano, or paprika may be added to the rice. The stock used is typically meat or chicken, but vegetable stock or water can also be used if you don’t have any; nowadays, you can buy prepared stock or make it quickly. A good stock will enhance the flavor of the dish significantly.",
+                "Elaboración": [
+                    "To make homemade rabbit rice, first clean and cut the rabbit into pieces. Next, wash the vegetables. Heat a paella pan with a good splash of olive oil. Add some salt to the rabbit and brown it in the hot pan.",
+                    "Chop the vegetables: onion, red bell pepper, and green bell pepper into small pieces. When you see that the rabbit is almost browned on all sides, add the vegetables and let them sauté.",
+                    "Chop the garlic cloves and add them with the rabbit, being careful not to burn them. If you notice that there isn’t enough oil, add a little more.",
+                    "Grate the tomatoes or wash and cut them into pieces, and add them to the pan before the garlic browns too much. Add a bit of salt and chopped thyme. Let the tomato cook for a few minutes.",
+                    "Add the white wine and let it cook for a few minutes to evaporate the alcohol.",
+                    "Add the rice and stir to mix the flavors.",
+                    "Add the hot chicken stock and also a bit of saffron or coloring. Taste the stock and adjust the salt if needed. Let the rice cook for 15-17 minutes until done to your liking.",
+                    "Halfway through cooking, taste the rabbit and vegetable paella to check if more salt or thyme is needed. Let the rice finish cooking.",
+                    "When the paella with rabbit is ready, turn off the heat and let it rest for about 5 minutes. Enjoy the best rabbit rice in Spain!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_con_conejo_estilo_andaluz.jpg",
+                "Ingredientes": {
+                    "Olive oil": "3 or 4 tablespoons",
+                    "Garlic": "2 cloves",
+                    "Rice": "400 gr",
+                    "Chicken stock": "1 liter",
+                    "Onion": "1 onion",
+                    "Coloring": "1 teaspoon",
+                    "Rabbit": "1 rabbit",
+                    "Red bell pepper": "1 bell pepper",
+                    "Green bell pepper": "1 bell pepper",
+                    "Salt": "to taste",
+                    "Tomatoes": "2 tomatoes",
+                    "Thyme": "to taste"
+                }
+            },
+            "Arroz con costillas de la abuela": {
+                "Descripción": "Preparing rice is quite simple, as it can be made in various ways with different ingredients like chicken, rabbit, vegetables, etc. But rice with grandma's ribs always turns out well; the ribs add great flavor and taste delicious. However, to ensure it turns out well, you need to prepare a good sofrito.",
+                "Elaboración": [
+                    "To make rice with grandma's ribs, first clean the ribs and season them with salt and pepper.",
+                    "Heat a paella pan with a splash of olive oil over medium heat and brown the ribs until they are nicely browned on the outside. Then, chop the red and green bell peppers and add them to the pan to cook.",
+                    "Chop the garlic cloves and add them to the pan. Stir to ensure everything browns together without burning the garlic.",
+                    "Add the crushed tomato and a teaspoon of sweet paprika. Mix everything and let it cook for a few minutes until the sofrito is done, being careful not to burn it. You can use fresh tomatoes; just peel 3-4 tomatoes, chop them, and let them cook with the vegetables.",
+                    "Add the beef stock and let it cook for about 15 minutes to ensure the meat is cooked thoroughly.",
+                    "When it starts to boil, add the saffron, taste for salt, and adjust if necessary.",
+                    "Add the rice, distribute it evenly, and let it cook over high heat for about 5 minutes. Then lower the heat to medium and let it cook for another 10-12 minutes or until the rice is done.",
+                    "When the rice with ribs is almost done, taste it to see if it needs any adjustments.",
+                    "When the rice with ribs and vegetables is ready, turn off the heat and let it rest for about 5 minutes before serving."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_con_costillas_de_la_abuela.jpg",
+                "Ingredientes": {
+                    "Olive oil": "4 or 5 tablespoons",
+                    "Garlic": "2 cloves",
+                    "Bomba rice": "350 gr",
+                    "Saffron": "1 teaspoon",
+                    "Beef stock": "1.2 liters",
+                    "Pork ribs": "800 gr",
+                    "Sweet paprika": "1 teaspoon",
+                    "Red bell pepper": "1 piece",
+                    "Green bell pepper": "1 pepper",
+                    "Salt": "to taste",
+                    "Crushed tomato": "6 tablespoons"
+                }
+            },
+            "Arroz frito japonés": {
+                "Descripción": "Prepare delicious Japanese fried rice or yakimeshi, a rice dish accompanied by vegetables, chicken, mushrooms, etc. It’s a very simple dish that can be made quickly. Additionally, you should know that it can be made with leftover boiled rice from another meal or to use up leftover vegetables in the fridge. The rice should be loose, so here are some tips to ensure it turns out well.",
+                "Elaboración": [
+                    "To make the rice loose, the trick is to rinse it in a bowl of water, stirring until the water is cloudy. Drain the water and repeat the process 2-3 more times until the water runs clear. This removes excess starch, making the rice less sticky. Next, cook the rice in a pot with water according to the manufacturer's instructions. Once cooked, turn off the heat and let it sit in the pot for 30 minutes. Then rinse with plenty of water, using your hands to separate the grains.",
+                    "Chop all the vegetables into small pieces and heat a large pan with oil. Add the vegetables, except for the mushrooms, and let them cook until tender.",
+                    "When the vegetables are halfway cooked, chop the mushrooms and add them to the pan.",
+                    "Cut the chicken into small pieces and add it to the pan with the vegetables. Cook everything together and season with a bit of salt.",
+                    "Make an omelet with the two eggs and cut it into strips or small pieces.",
+                    "In a wide pan, add a splash of seed, sunflower, or sesame oil and heat it. Add the rice and stir-fry over high heat. Add 3-4 tablespoons of soy sauce and a bit of ginger powder, and mix everything together.",
+                    "Add the vegetables and omelet pieces to the rice. Stir-fry everything together over high heat for 2-3 minutes and taste to see if any additional seasoning is needed.",
+                    "Serve the Japanese fried rice and enjoy."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/arroz_frito_japones.jpg",
+                "Ingredientes": {
+                    "Sesame oil": "a splash",
+                    "Long-grain rice": "400 gr",
+                    "Zucchini": "1 zucchini",
+                    "Spring onion": "1 spring onion",
+                    "Mushrooms": "100 gr",
+                    "Eggs": "2 eggs",
+                    "Ground ginger": "1 teaspoon",
+                    "Chicken breast": "2 breasts",
+                    "Salt": "to taste",
+                    "Carrots": "2 carrots"
+                }
+            },
+            "Foto": "gs://cooking-plus.appspot.com/arroces.jpeg"
+        },
+        "Carne": {
+            "Albondigas en freidora de aire": {
+                "Descripción": "These delicious air fryer meatballs are a treat—juicy and very good. You can prepare them to eat with a salad or pair them with a sauce, pasta, rice, etc. You can also make them with spices, as they go very well with a bit of curry, soy sauce, or herbs.",
+                "Elaboración": [
+                    "To make air fryer meatballs, start by preparing the ingredients. The ground meat can be a mix of beef with a bit of pork, chicken, or turkey. You can grind it yourself or ask the butcher to grind it for you.",
+                    "Chop the onion and the two garlic cloves into very small pieces. Wash the parsley and chop it.",
+                    "Add the meat to a bowl with the chopped onion, garlic cloves, parsley, and the egg. Mix everything very well. Add a bit of salt and pepper, and mix again. Let the mixture rest for about 15 minutes to allow the flavors to combine.",
+                    "Shape the meatballs by taking portions of the meat and forming them into balls.",
+                    "Preheat the air fryer to 180°C (350°F) for about 3-4 minutes or until it's hot.",
+                    "Brush the base of the air fryer with oil and place the meatballs on it to prevent sticking. Cook in the air fryer at 180°C (350°F) for about 15 minutes.",
+                    "Open the air fryer halfway through the cooking time to check the meatballs. Flip them and continue cooking for the remaining time to ensure they are fully cooked.",
+                    "Remove the meatballs when they are cooked to your liking. If you prefer them more well-done, leave them a bit longer. Conversely, if you like them less done, take them out a bit earlier.",
+                    "Remove the meatballs from the air fryer. Enjoy! If you wish, you can serve the meatballs with a sauce. Let us know your opinion in the comments and share a photo of the final result."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/albondigas_en_freidora_de_aire.jpg",
+                "Ingredientes": {
+                    "Garlic": "2 cloves",
+                    "Ground meat": "1 kg",
+                    "Onion": "1 onion",
+                    "Egg": "1 egg",
+                    "Parsley": "to taste",
+                    "Pepper": "to taste",
+                    "Salt": "to taste"
+                }
+            },
+            "Carrillada en salsa vino blanco": {
+                "Descripción": "Pork cheek or carrillada in white wine sauce is a delicious and very simple stew to prepare, although it requires long cooking. This is because the cut of meat comes from the fattier part of both sides of the pig's face (cheeks), pieces with a fibrous and tough texture. Due to the fat, it adds richness to the sauce made from vegetables, stock, and white wine.",
+                "Elaboración": [
+                    "Start by placing the pork cheeks on a cutting board and, using a knife, remove any membranes covering them (if they have any) and season them with salt and pepper. Next, heat a pot and pour in a generous amount of olive oil. Heat to maximum temperature to sear the cheeks and prevent them from releasing their juices and stewing. Brown them on both sides and set aside; this process will only take a couple of minutes.",
+                    "Separately, chop the vegetables: onions, leek, garlic, carrot, and tomato into medium cubes. Don’t worry if the cuts aren’t uniform as they will be strained out later.",
+                    "In the same pot where the meat was seared, add the onions, leek, and chopped garlic. Sauté to recover all the flavors stuck to the bottom of the pot.",
+                    "When the onions become translucent, add the carrots and tomatoes. Also add the spices: oregano, rosemary, bay leaves, black pepper, and a teaspoon of salt.",
+                    "Allow to sweat for 5 minutes, stirring occasionally, then pour in the white wine. Continue stirring until the alcohol evaporates.",
+                    "Next, add the pork cheeks along with any juices that have been released and cover with stock or water. Cover and cook for 1.5 to 2 hours.",
+                    "After the cooking time, separate the meat pieces from the stew, which should be extremely tender (they should fall apart with a spoon rather than needing a knife) and strain the sauce.",
+                    "Return the sauce to the pot and cook over high heat to reduce it, i.e., let it simmer until it thickens and becomes more substantial.",
+                    "When the sauce has thickened, adjust the seasoning, return the pork cheeks to the pot to reheat, and serve immediately. Enjoy your meal!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/carrillada_en_salsa_vino_blanco.jpg",
+                "Ingredientes": {
+                    "Olive oil": "5 tablespoons",
+                    "Garlic": "5 cloves",
+                    "Cheeks (pork or beef)": "1 kg",
+                    "Onion": "2 onions",
+                    "Beef broth": "1/2 liter",
+                    "Bay leaf": "2 leaves",
+                    "Oregano": "to taste",
+                    "Black pepper": "1/2 teaspoon",
+                    "Leek": "1 leek",
+                    "Rosemary": "1 sprig",
+                    "Salt": "to taste",
+                    "Tomato": "1 tomato",
+                    "White wine": "1 glass",
+                    "Carrot": "1 carrot"
+                }
+            },
+            "Conejo al horno al ajillo": {
+                "Descripción": "Oven-baked garlic rabbit is a quick and simple dish to prepare. It is also very convenient as it cooks by itself in the oven. The rabbit meat used is very healthy due to being a white meat with little fat. Additionally, this type of meat can be cooked in various ways, such as in sauce, grilled, with tomato, with vegetables, fried, or, as in this case, baked. This oven-baked rabbit recipe requires few ingredients. Lastly, it is a very economical dish that can serve as a starter or a main course, accompanied by a good salad.",
+                "Elaboración": [
+                    "To start this recipe, first clean the rabbit by removing the fat. Once cleaned, cut it into pieces. Next, preheat the oven to 200°C (390°F) with both the top and bottom heat settings. Remember to place the rabbit pieces in an ovenproof dish. Season the rabbit pieces with salt and pepper and add a splash of olive oil.",
+                    "Peel the garlic cloves and add them to the dish with the rabbit. Now, peel the potatoes and cut them into quarters if they are small. If the potatoes are large, cut them into 6 pieces so they cook at the same time as the rabbit. Next, season the potatoes with a little salt and oil. At the same time, sprinkle some dried or fresh thyme over the entire dish. Finally, place the dish in the oven for about 15 minutes.",
+                    "After 15 minutes, take the dish out of the oven to turn the rabbit and potatoes, ensuring they cook evenly and the rabbit remains juicy and tender. Next, sprinkle a little more thyme and, if necessary, a bit more salt. Then, add the glass of white wine and return the dish to the oven. Let the meat cook for another 20-30 minutes.",
+                    "Keep checking that the meat is browning evenly. It is important to take the dish out and turn the contents until everything is browned. Also, test the potatoes with a fork to ensure they are tender. When everything is fully browned, it’s time to take it out of the oven. You can now serve the oven-baked rabbit with potatoes."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/conejo_al_horno_al_ajillo.jpg",
+                "Ingredientes": {
+                    "Olive oil": "1 splash",
+                    "Garlic": "7 cloves",
+                    "Rabbit": "1 rabbit, cut into pieces",
+                    "Potatoes": "2 potatoes",
+                    "Pepper": "to taste",
+                    "Salt": "to taste",
+                    "Thyme": "to taste",
+                    "White wine": "150 ml"
+                }
+            },
+            "Estofado de osobuco": {
+                "Descripción": "Osso buco (from Italian 'ossobuco' meaning hollow bone) is a cut of meat from a part of the cow or veal's leg. In some countries, it is known as shank or veal shank and is ideal for stews, braising, or stewing, as we will do here. It is essential not to remove the bone, as the marrow gives the dish its characteristic flavor.",
+                "Elaboración": [
+                    "Prepare all the vegetables. Peel and chop the onion, garlic, and bell peppers. Also, peel and slice the carrot into rounds and wash and chop the leek, reserving the green part separately.",
+                    "Next, remove any excess fat from the meat and flour the osso buco pieces on both sides.",
+                    "Then, heat a pot with a tablespoon of oil. Once hot, sear the meat on both sides. Remove and set aside.",
+                    "In the same pot, sauté the vegetables with another tablespoon of oil. First, add the onion and garlic. Once translucent, add the bell peppers, carrot, and the white part of the leek.",
+                    "After a few minutes, when the vegetables begin to color, return the meat to the pot and pour in the wine. Let the alcohol evaporate for 3-4 minutes and add the stock. Cover the pot and, once boiling, reduce the heat. Cook the osso buco for at least 1 hour, stirring occasionally and adding more stock if necessary.",
+                    "When ready, you can mix the chopped leek leaves into the osso buco stew or sprinkle them on top when serving the dish. Enjoy your meal!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/estofado_de_osobuco.jpg",
+                "Ingredientes": {
+                    "Garlic": "1 clove",
+                    "Beef broth": "1/2 liter",
+                    "Onion": "1 onion",
+                    "Flour": "2 tablespoons",
+                    "Bay leaves": "2 leaves",
+                    "Osso buco": "3 slices",
+                    "Sweet paprika": "1 teaspoon",
+                    "Pepper": "to taste",
+                    "Red bell pepper": "1/2 red bell pepper",
+                    "Green bell pepper": "1/2 green bell pepper",
+                    "Leek": "1 leek",
+                    "Salt": "to taste",
+                    "Thyme": "1 sprig",
+                    "Carrot": "1 carrot"
+                }
+            },
+            "Estofado de ternera con setas": {
+                "Descripción": "Beef stew is a classic in traditional Spanish and Mediterranean cuisine. It is a very simple stew that makes use of tougher cuts of beef that require longer cooking times to tenderize and would otherwise be difficult to eat. This recipe uses mushrooms to accompany the meat. Mushrooms add unique flavors to stews, with their earthy and moist aromas remaining prominent on the palate. Therefore, beef stew with mushrooms is a very comforting dish that pairs well with a good loaf of bread.",
+                "Elaboración": [
+                    "Flour the meat and brown it in a pot with hot olive oil. Remove the meat to a plate and set aside.",
+                    "Chop the onion, carrot, and bell pepper into small cubes and sauté them for 5 minutes in the same pot used for browning the meat.",
+                    "When the vegetables are softened, add the crushed tomato and continue to sauté everything together for another 5 minutes. It is very important to stir regularly to avoid burning, as the sauté is what will provide the most flavor to the beef stew with mushrooms.",
+                    "While the sauté is cooking, sauté the mushrooms in a separate pan for 2 minutes to release some of their moisture. Turn off the heat and set aside.",
+                    "After the 5 minutes, add the meat back into the pot, mix carefully, and then pour in the glass of red wine. Allow the alcohol to evaporate for about 1 minute. The red wine is another key ingredient for a flavorful beef stew with mushrooms, so it is not advisable to omit it from the recipe. The beef stew with mushrooms is almost ready!",
+                    "Add the mushrooms, the two glasses of water or stock, and the rosemary to the pot. Season with salt and pepper to taste and cover the pot. Let it cook over medium heat for about 40 minutes, stirring occasionally. You can also prepare the beef stew with mushrooms in a pressure cooker; in this case, the cooking time will be 20 minutes.",
+                    "It will be ready to serve! Enjoy this amazing beef stew with mushrooms while still hot and don’t forget to slice some good loaf bread."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/estofado_de_ternera_con_setas.jpg",
+                "Ingredientes": {
+                    "Olive oil": "200 ml",
+                    "Beef broth": "1/2 liter",
+                    "Onion": "1 onion",
+                    "Flour": "140 g",
+                    "Bell pepper": "1/2 bell pepper",
+                    "Rosemary": "1 sprig",
+                    "Mixed mushrooms": "250 g",
+                    "Beef": "400 g, cubed",
+                    "Crushed tomato": "200 g",
+                    "Red wine": "1 glass",
+                    "Carrots": "2 carrots"
+                }
+            },
+            "Foto": "gs://cooking-plus.appspot.com/carne.jpg",
+            "Milanesa napolitana con puré": {
+                "Descripción": "Milanesa is a popular Argentine dish. There are many variations: a caballo, napolitana, fugazzeta, milapizza, and so many more. Even the milanesa sandwich is an institution, present in family homes, bachelor pads, and high-end restaurants alike. Milanesa can be made with beef, pork, chicken, or fish, dipped in egg and breaded with breadcrumbs, polenta, oats, panko, seeds, or a combination of all. It can be baked or fried and served with various side dishes, including fries, purée, or salad. In this recipe, you will learn how to make napolitana-style milanesa with natural mashed potatoes. Let's cook!",
+                "Elaboración": [
+                    "To start the recipe for milanesa with purée, first preheat the oven to the maximum temperature. Meanwhile, mix the egg with the milk and pepper. Next, dip the meat, which could be boneless pork chops, loin, top round, or other cuts, into this mixture.",
+                    "Prepare the breadcrumbs in a large container. You can also mix or replace it with oats, polenta, processed cornflakes, or panko. You may also add seeds. Then, place the egg-dipped milanesa into this container and press to ensure it sticks. Set them aside.",
+                    "Before cooking the milanesas, prepare the ingredients for the purée. Peel and cut the potatoes and pumpkin into cubes.",
+                    "Cook the vegetables in plenty of boiling water until they fall off a fork or knife when pierced.",
+                    "Spray the milanesas with cooking spray on both sides, and then cover them with a small amount of oil, or brush them with a cooking brush. Place them on a baking sheet and cook in the preheated oven at 200°C or 220°C for 10-15 minutes. For frying, heat enough oil to submerge the milanesa and fry for about 2-3 minutes on each side.",
+                    "Prepare the sauce for your Argentine milanesa. Peel and chop the onion and sauté it in a pan with a teaspoon of oil. When it is translucent, lower the heat and, if needed, add a tablespoon of hot water to deglaze the pan. Repeat this 2-3 times until well cooked.",
+                    "Once the onion is cooked, add the crushed tomato and seasonings: paprika, oregano, and thyme. When it begins to boil, reduce the heat to low and cook the sauce while the milanesas are in the oven.",
+                    "Before serving your sauce, add a pinch of baking soda to avoid acidity.",
+                    "After 10 minutes of cooking the milanesas, turn them and cook for another 5-10 minutes, depending on their thickness.",
+                    "Add the sauce you prepared earlier. If you had fried the milanesa, transfer it to a baking dish to follow these steps and prepare it Napolitana-style.",
+                    "Top with a slice of ham and fresh cheese. Then, return the milanesas to the oven and heat for about 5 minutes until the cheese melts and the ingredients are warmed through.",
+                    "Prepare the purée by mashing the pumpkin.",
+                    "Season the pumpkin to taste with pepper, nutmeg, and butter. Depending on the consistency, add milk or cream to lighten it.",
+                    "Also mash and season the potatoes to taste with pepper, nutmeg, and butter. Adjust the consistency and taste by adding milk or cream as needed.",
+                    "Serve the Napolitana-style milanesa with purée and a sprinkle of oregano. Enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/milanesa_napolitana_con_pure.jpg",
+                "Ingredientes": {
+                    "Onion": "1 onion",
+                    "Egg": "1 egg",
+                    "Natural ham": "1 slice per cutlet",
+                    "Milk": "as needed",
+                    "Oregano": "to taste",
+                    "Breadcrumbs": "as needed",
+                    "Paprika": "1/2 teaspoon",
+                    "Pepper": "1/2 teaspoon",
+                    "Fresh cheese": "60 g",
+                    "Beef": "1 cutlet per person",
+                    "Fried tomato": "1/2 can"
+                }
+            },
+            "Pollo al disco con vino blanco": {
+                "Descripción": "The recipe we're presenting is easy and quick to prepare thanks to the disk cooking method. You’ll find it very juicy, colorful, and with a delicious sauce created by the flavors of the ingredients blended with the wine. In this case, we use a Chardonnay white wine. It is a dry, full-bodied wine known for its aromatic intensity and fruity flavors ranging from green apple to tropical fruits and citrus. It pairs perfectly with this dish.",
+                "Elaboración": [
+                    "To start preparing this recipe, peel and julienne the onion and slice the garlic thinly. Also, wash, seed, and de-vein the red and yellow bell peppers, and cut them into strips. Finally, peel and slice the carrot into rounds.",
+                    "Separate the chicken legs from the thighs, remove the skin and fat. Season with salt and pepper.",
+                    "Place the disk on the fire and pour a splash of oil. Once it heats up, add the chicken pieces and sauté until golden brown on all sides. At this point, remove and set aside on a plate.",
+                    "Cook the onion and garlic. When they start to become translucent, add the bell peppers, and when they are tender, add the carrot. Cook for about 5 minutes until everything is slightly browned. Then pour in the white wine and wait a couple of minutes for the alcohol to evaporate.",
+                    "Add the broth, seasonings, and chicken. Stir everything well and cook for 20 to 30 minutes. Check occasionally and add more liquid if necessary.",
+                    "Add the peas and cream to the mixture. Stir well, remove from heat, and let it rest for a few minutes to allow the ingredients to heat through and the flavors to meld.",
+                    "The chicken with white wine is ready; sprinkle with chopped parsley. Enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/pollo_al_disco_con_vino_blanco.jpg",
+                "Ingredientes": {
+                    "Olive oil": "as needed",
+                    "Garlic": "1 clove",
+                    "Chicken broth": "300 ml",
+                    "Onion": "1 onion",
+                    "Cream": "2 tablespoons",
+                    "Peas": "100 g",
+                    "Parsley": "to taste",
+                    "Pepper": "to taste",
+                    "Yellow bell pepper": "1/2 bell pepper",
+                    "Red bell pepper": "1/2 bell pepper",
+                    "Chicken": "2 chicken quarters",
+                    "Rosemary": "1 sprig",
+                    "Salt": "to taste",
+                    "White wine": "1 glass",
+                    "Carrot": "1 carrot",
+                    "Thyme": "to taste"
+                }
+            },
+            "Redondo de ternera de la abuela": {
+                "Descripción": "There’s nothing better than a round of beef, grandma's recipe, for a special occasion or for everyday cooking. It’s a meat you can prepare in advance, the day before, which makes the meat and sauce even better. Additionally, the beef round can be cooked in various ways: in a clay pot over medium heat, which can take up to 2 hours depending on the meat; in the oven, which also takes time; or in a pressure cooker in 30-40 minutes, depending on the pot.",
+                "Elaboración": [
+                    "First, prepare the beef round. Ask your butcher to tie it for you, so you don’t have to do it yourself. Season the round with salt and pepper.",
+                    "Prepare the rest of the ingredients: clean the mushrooms, chop the onions, peel and cut the carrots, and peel the garlic.",
+                    "Heat a pot over medium-high heat with a splash of olive oil, and brown the beef round on all sides. When it’s halfway browned, add the onion to sauté along with the meat.",
+                    "Add the chopped carrots and cook everything for about 5 minutes. Also add the garlic cloves, stir, and add the tomato sauce or crushed tomatoes.",
+                    "When the vegetables are softened, add the white wine and let it cook for 3-4 minutes until the alcohol evaporates. Then, add the broth or water until the meat is almost covered. Next, let the meat cook for 1 to 1.5 hours. If using a pressure cooker, it should be ready in 30-40 minutes depending on the thickness of the meat.",
+                    "When the beef round is tender, remove it and let it cool before slicing.",
+                    "Leave the sauce in the pot; you can blend it or leave the vegetables. Taste and adjust the seasoning. Then, sauté the mushrooms in a pan and add them to the sauce. Let it cook for a few minutes.",
+                    "Slice the meat and place it on a serving dish. Serve the beef round, grandma’s recipe, with the vegetables, mushrooms, and sauce. You can put some of the sauce in a gravy boat for the guests."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/redondo_de_ternera_de_la_abuela.jpg",
+                "Ingredientes": {
+                    "Olive oil": "as needed",
+                    "Garlic": "2 cloves",
+                    "Beef broth": "500 ml",
+                    "Onions": "2 onions",
+                    "Mushrooms": "250 g",
+                    "Pepper": "to taste",
+                    "Beef round": "1 round of beef",
+                    "Salt": "to taste",
+                    "Fried tomato": "150 g",
+                    "White wine": "200 ml",
+                    "Carrots": "3 carrots"
+                }
+            }
+        },
+        "Guisos": {
+            "Ajiaco de olluco": {
+                "Descripción": "Olluco ajiaco is an easy-to-make Peruvian dish, a traditional stew, and like all traditional ajiacos from the country, it is made from a base of yellow chili pepper. Next, the main ingredient that differentiates this type of ajiaco is added, in this case, olluco, and it is thickened with potatoes. To finish the dish, a splash of milk and cubes of fresh cheese are added. However, the star is a tuber native to the highlands of Peru, which is elongated, similar to a potato but with an intense yellow color, hence it is known as the golden tuber.",
+                "Elaboración": [
+                    "Start by boiling the tubers. Place the 2 types of potatoes and the olluco in a large pot. Fill with cold water until covered, cover it, bring to a simmer, and cook until tender. To check if they are done, pierce them with a toothpick; it should go in easily.",
+                    "Once cooked, remove them from the pot and let them cool for a few minutes. While still warm, peel them (there's no need to peel the olluco) and cut into medium cubes. Then, mash one-third of these tubers into a rustic puree. This puree will help make the ajiaco creamy and hearty. Set aside.",
+                    "Additionally, cut the cheese into medium cubes the same size as the potato cubes.",
+                    "In a separate pot, heat a generous amount of oil. Once hot, add the finely chopped onion and sauté until translucent.",
+                    "For the seasoning, add minced or chopped garlic, yellow chili paste (you can also add a teaspoon of panca chili if desired), and spices like ground cumin, ground black pepper, dried oregano, and salt. Mix occasionally until the seasoning starts to separate from the oil.",
+                    "Next, add the potato and olluco mixture. Also, add a cup of chicken broth or water and season with a sprig of huacatay.",
+                    "Let it boil and stir constantly as the base can easily burn. If it is too thick, you can add more liquid.",
+                    "Before serving, add a splash of evaporated milk, fresh cheese cubes, adjust the seasoning, and let it come to a final boil.",
+                    "Adjust the seasoning of the olluco stew and serve with fried or poached eggs and a portion of raw criolla sauce."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Ajiaco de olluco.PNG",
+                "Ingredientes": {
+                    "Ground or chopped garlic": "2 tablespoons",
+                    "Yellow chili paste": "4 tablespoons",
+                    "Onion": "1 finely chopped onion",
+                    "Ground cumin": "A pinch",
+                    "Huacatay (black mint)": "1 sprig",
+                    "Evaporated milk": "A splash",
+                    "Olluco": "1 kilogram",
+                    "Dried ground oregano": "To taste",
+                    "Yellow potato": "1/4 kg",
+                    "Pink potato": "1/4 kg",
+                    "Black pepper": "A pinch",
+                    "Fresh cheese": "1/4 kg",
+                    "Salt": "To taste"
+                }
+            },
+            "Cocido de la abuela": {
+                "Descripción": "Grandma's stew is a very hearty and filling spoon dish. It's ideal for cold weather since it's very substantial. To make this stew, the ingredients must be of good quality to ensure a good result. Note that depending on the region, some ingredients may vary, but it remains just as delicious. This recipe is typically made in a clay pot, but it can also be cooked in a pressure cooker to reduce the time.",
+                "Elaboración": [
+                    "To make grandma's stew, first soak the chickpeas for a day in water with a pinch of salt. The next day, when you start making the authentic Madrilenian stew, drain and rinse the chickpeas.",
+                    "Take a large pot and add all the meat that you have previously washed. Place it in the pot and cover with water. Then add the soaked chickpeas, chorizos, and morcilla. Put the pot over high heat. Set the potatoes aside.",
+                    "Let it cook until the stew starts to boil. Then remove the foam with a skimmer that forms on the surface of the broth. Simmer over medium heat for 2 hours without disturbing the meat or chickpeas. If you notice that the broth reduces too much, add more water.",
+                    "After 2 hours, check the chickpeas and meat. Meanwhile, peel, wash, and cut the potatoes in half, and add them to the pot. Clean and cut the carrots, and also add them to the pot. Cook for another 20-30 minutes until the potatoes and carrots are tender.",
+                    "Once everything is cooked, remove the meat. You can transfer some of the broth, chickpeas, and potatoes to another pot, also adding the chopped chorizo and morcilla.",
+                    "When serving, place the meat on a serving dish.",
+                    "Taste the traditional Madrilenian stew for salt and adjust if necessary. It is hearty, so it won’t need much salt. When the chorizo and morcilla are cooked, turn off the heat and serve the chickpeas separately from the meat."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/cocido_de_la_abuela.jpg",
+                "Ingredientes": {
+                    "Chorizo": "2 chorizos",
+                    "Chickpeas": "500 g",
+                    "Caña bone (pork shank bone)": "1 bone",
+                    "Spine bone (pork backbone bone)": "1 bone",
+                    "Salted beef bone": "1 bone",
+                    "Ham hock": "1 ham hock",
+                    "Blood sausage": "2 or 3 blood sausages",
+                    "Potatoes": "3 potatoes",
+                    "Chicken": "1/4 chicken",
+                    "Beef": "1 piece of beef for broth",
+                    "Carrots": "2 carrots"
+                }
+            },
+            "Estofado argentino": {
+                "Descripción": "Stew is a popular dish in Argentine households. It is characterized by having few but carefully selected ingredients to ensure the final dish is flavorful. Another key aspect is the cooking method, which starts with a sauté and continues with a long, slow simmer to ensure the meat is extremely tender and juicy. It can be eaten alone as a stew or as a side dish. Don’t miss out on the options we’ll describe at the end of the recipe.",
+                "Elaboración": [
+                    "The first step is to peel and chop the onion and garlic. Also, peel and slice the carrot into rounds.",
+                    "Remove excess fat from the meat and cut it into large portions (at least 1 portion per person). Heat a large pot with a tablespoon of oil. When hot, add the meat and brown on all sides, turning as each side is browned.",
+                    "Remove the meat and in the same pot, add another tablespoon of oil and sauté the onion and garlic over low heat. When they start to brown, increase the heat and add the wine.",
+                    "Reserve for a few minutes to allow the alcohol to evaporate, then return the meat to the pot. Also add the crushed tomatoes. Finally, add the seasonings. Stir well, lower the heat to the minimum, cover, and cook for 20 minutes.",
+                    "Add the carrot rounds, stir well, cover again, and continue cooking for at least another 40 minutes, stirring occasionally.",
+                    "The Argentine stew is ready to eat."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Estofado Argentino.PNG",
+                "Ingredientes": {
+                    "Oil": "2 tablespoons",
+                    "Beef": "600 g",
+                    "Onion": "1 onion",
+                    "Garlic clove": "1 clove",
+                    "Spices": "Salt, pepper, cumin, bay leaf, paprika, thyme, and crushed chili",
+                    "Crushed tomatoes": "500 g",
+                    "Wine": "1/2 cup",
+                    "Carrot": "1 carrot"
+                }
+            },
+            "Foto": "gs://cooking-plus.appspot.com/guisos.jpg",
+            "Guiso de caigua": {
+                "Descripción": "Caigua is a very versatile fruit, as its edible part is soft and not invasive in flavor, so it is consumed both raw and cooked in salads, stuffed, stewed, sautéed, or in this recipe, in a stew. This dish is very easy to prepare, cooks quickly, and is highly nutritious. In this case, we will use meat as the protein, but you can substitute it with chicken and even enrich it with cubes of fresh cheese.",
+                "Elaboración": [
+                    "Start by finely chopping the onion and garlic.",
+                    "For the caigua, cut off the ends and then slice them in half, discard the veins and seeds. Then, cut into thick strips and set aside.",
+                    "Also, cut the tomato into thin slices and then into small cubes.",
+                    "Finally, before starting the stew, wash, peel, remove the eyes, and cut the potato into medium cubes.",
+                    "Heat a pot and pour in a generous amount of oil. When hot, add the onion and sauté, stirring occasionally until translucent.",
+                    "Next, add the garlic, chopped tomato, and continue stirring. At this point, you can also add spices and dried herbs (ground cumin, black pepper, powdered oregano, and bay leaves).",
+                    "Then, add the ají panca or colorando. Continue stirring until this mixture has the texture of a jam and you notice the oil separating.",
+                    "Add the chopped meat, mix well, and let it sear for a couple of minutes.",
+                    "Next, pour in beef broth to cover. Add salt to taste, cover, and bring to a boil.",
+                    "Depending on the type of cut, when the meat is halfway cooked, add the diced potatoes and let cook until al dente. You can add more beef broth if the liquid does not cover.",
+                    "Add the chopped caigua, mix a little, and cook for just a couple of minutes. The stew will be ready when the potatoes are soft, so mash them a bit to give consistency to the juice. If the caigua is already soft but not wilted, immediately turn off the heat.",
+                    "To finish the dish, add chopped parsley, adjust the seasoning and texture. If it has thickened too much, you can add more beef broth or water and serve without letting it cool. Enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Guiso de caigua.PNG",
+                "Ingredientes": {
+                    "Chopped garlic": "1 tablespoon",
+                    "Panca chili paste": "2 tablespoons",
+                    "Caiguas": "7 units",
+                    "Beef broth": "as needed",
+                    "Ground meat": "1 kg",
+                    "Red onion": "1 unit",
+                    "Ground cumin": "1 pinch",
+                    "Bay leaves": "2 leaves",
+                    "Dried powdered oregano": "1 pinch",
+                    "Potatoes": "1/2 kg",
+                    "Chopped parsley": "as needed",
+                    "Ground black pepper": "1 pinch",
+                    "Salt": "to taste",
+                    "Tomato": "1 large unit"
+                }
+            },
+            "Guiso de fideos moñito": {
+                "Descripción": "Stews are meals where we can incorporate leftover ingredients from the fridge and still achieve a unique flavor. Thus, in this case, we want to show you how to make a stew with farfalle pasta. These pasta shapes are ideal for a stew with sauce due to their shape, as they can hold liquid, acting like a spoon. The original name of this pasta is 'farfalle,' which in its literal translation from Italian to Spanish means butterfly. As their wings also evoke a bowtie, they are also known by both names.",
+                "Elaboración": [
+                    "The first step in preparing the farfalle stew is to peel and chop both the onion and garlic. Sauté them in a non-stick pan over high heat with 1 teaspoon of oil. When the sauté starts to dry out, lower the heat to medium and add a tablespoon of hot water. Repeat several times until the onion caramelizes.",
+                    "When the onion is caramelized, add the peeled and grated carrot and the chopped bell peppers, cleaned and without white ribs or seeds. Keep the heat low to cook for a few minutes.",
+                    "Add a tablespoon of hot water to the sauté to remove the vegetables. Set them aside on a plate while you sauté the meat cut into small bite-sized cubes in the same cooking base, this time with high heat and a new tablespoon of oil. Do not move it until it is browned or it will stick.",
+                    "When the meat is browned, transfer it to the pressure cooker along with the vegetables, farfalle pasta, and the can of crushed tomatoes. If you don’t have these cans, you can grate 3 tomatoes, cut them in half and pass them through the coarse side of a grater. Also, add 1 glass of water of the same size as used for measuring the pasta. If using cans, you can measure everything in them, both the pasta and the water. Season with bay leaf, thyme, and paprika. Close the lid and cook your farfalle stew with vegetables for about 15 minutes from when it starts to whistle.",
+                    "After the cooking time, serve and enjoy the farfalle stew."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Guiso de fideos moñito.PNG",
+                "Ingredientes": {
+                    "Onion": "1 unit",
+                    "Garlic clove": "1 unit",
+                    "Fideo moñito (little bow pasta)": "1 cup",
+                    "Bay leaf": "1 leaf",
+                    "Pork loin": "200 g",
+                    "Paprika": "1 tablespoon",
+                    "Red bell pepper": "1/4",
+                    "Green bell pepper": "1/4",
+                    "Roma tomato": "1 can",
+                    "Thyme": "1 tablespoon",
+                    "Carrot": "1 unit"
+                }
+            },
+            "Guiso de patatas y atún": {
+                "Descripción": "When the cold arrives, hot dishes are appealing. Besides soups, stews are an excellent option, such as this potato and tuna stew, which represents a tasty and hearty main dish.",
+                "Elaboración": [
+                    "Here we have the ingredients for this tuna and potato stew, combined with other vegetables like bell pepper, onion, and tomato. The spices, which are optional or can be substituted with other alternatives, will add flavor to this tuna stew.",
+                    "Cut the onion into julienne strips and place it in a saucepan with hot oil to brown.",
+                    "Next, add the green bell pepper, washed and chopped, and the tuna, also chopped. Let it cook for a few minutes until it browns, stirring with a wooden spoon to avoid sticking to the pot.",
+                    "The next step in making this potato and fish stew is to add the tomato, previously washed and chopped, and the bay leaf. Also add a bit of salt, as well as cilantro and the remaining spices.",
+                    "While it cooks for a few more minutes, wash and peel the potatoes, and cut them into pieces similar to the tuna. Add them to the pot and let them sauté for five minutes.",
+                    "After five minutes, cover the stew with water and let it cook for about 30 minutes on low heat, stirring occasionally.",
+                    "Remove the chili pepper when serving the stew, which you can plate and consume immediately or let it rest for a few hours. Pair it with white wine, and enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/guiso_de_patatas_y_atun.jpg",
+                "Ingredientes": {
+                    "Olive oil": "4 or 5 tablespoons",
+                    "Tuna": "1/2 in cubes",
+                    "Onion": "1 onion",
+                    "Cilantro": "1 pinch",
+                    "Chili pepper": "1 chili pepper",
+                    "Bay leaf": "1 leaf",
+                    "Potatoes": "3 potatoes",
+                    "Sweet paprika": "1 pinch",
+                    "Green bell pepper": "1 bell pepper",
+                    "Salt": "to taste",
+                    "Tomatoes": "2 tomatoes"
+                }
+            },
+            "Matasquita de pollo": {
+                "Descripción": "Not only in the warmth of a Peruvian home is the generosity of its inhabitants discovered, but also at the table, where the immense creativity and care with which they turn each product into dishes that endure generation after generation is appreciated. Also, in the region of Arequipa and parts of Cusco, picanterías are representative of these homes that stand out for their grandiose cuisine. One of their traditional stews is matasquita de carne, a dish dating back to the colonial era, originally made with beef but now includes chicken, pork, and even fish, becoming a delicious option.",
+                "Elaboración": [
+                    "Start by cutting the chicken into medium cubes, the potato into small cubes, and the carrot into small squares. Also, cut the onion into even smaller squares for our seasoning.",
+                    "Season the chicken pieces with salt, pepper, and cumin, and let them marinate for a few minutes. In a pot, heat a splash of oil and, when hot, carefully add the chicken pieces to sear on all sides.",
+                    "When the chicken is sealed, remove and set aside. In the same cooking base, add the chopped onion, then the minced garlic, and sauté for about 3 minutes.",
+                    "Add the 3 tablespoons of ají panca paste and sauté for another 3 minutes.",
+                    "At this point, add the chicken broth, diced potatoes, carrots, and a sprig of mint to flavor. Add salt, pepper, and cumin to taste. Cover the pot and cook for about 10 minutes.",
+                    "Finally, return the chicken pieces, add the remaining chopped mint leaves, and cook for another 5 minutes. Adjust seasoning, and it will be ready to serve.",
+                    "Prepare a salsa criolla to accompany it; you only need onion and tomato in julienne, lemon juice, salt, and finely chopped mint. Also, this dish can be served with a good portion of rice."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Matasquita de pollo.PNG",
+                "Ingredientes": {
+                    "Vegetable oil": "1 splash",
+                    "Ground garlic": "1 tablespoon",
+                    "Ground panca chili": "3 tablespoons",
+                    "Chicken broth": "2 cups",
+                    "Red onion": "1 unit",
+                    "Spices": "to taste",
+                    "Chicken breast or thigh fillet": "500 g",
+                    "Mint": "2 sprigs",
+                    "Potatoes": "3 units",
+                    "Carrot": "1 unit"
+                }
+            },
+            "Relleno negro yucateco": {
+                "Descripción": "Yucatecan black stuffing is a typical Mayan dish that includes many ingredients and several components: the first is chilmole or black recado, a sauce made from chiles and spices. The second component is the 'but', which consists of pork meatballs stuffed with egg yolks, and finally, shredded turkey or chicken that accompanies the preparation. Everything is cooked in the chosen turkey or chicken broth. A laborious and very delicious recipe.",
+                "Elaboración": [
+                    "Prepare the chicken broth: in a high heat saucepan, place all the ingredients. Cover the pot and once it boils, cook for 45 minutes. Also, cook 6 of the eggs for the but.",
+                    "When the chicken is well cooked, allow it to cool slightly and shred the meat, separating the bones, skin, and cartilage. The latter can be discarded as they are no longer needed. Reserve the chicken meat and also the broth, as it is used as the base for the black recado.",
+                    "For the but: peel the cooked eggs. Carefully separate the whites from the yolks, reserving the yolks and trying not to break them, as they are an important part of the dish's presentation. You can chop or grate the whites and add them to the ground pork.",
+                    "Add the seasoning to the ground meat, the reserved raw egg, as well as finely chopped tomato and onion.",
+                    "Finally, add 1 cup of the chilmole and mix everything well.",
+                    "When all the ingredients for the but are well mixed, form meatballs with the ground meat and stuff them with the reserved egg yolks.",
+                    "Strain the reserved chicken broth and heat it again. When hot, dissolve the remaining chilmole paste.",
+                    "In a little of the hot broth, dissolve the piece of corn dough and return it to the broth. This will help thicken the black recado.",
+                    "Add the but to the black recado and cook for 1 hour over medium-low heat, with the pot covered. Season with salt to taste and remember to stir constantly.",
+                    "Finally, add the shredded chicken along with the sprig of epazote to the preparation and cook for another 20 minutes. Continue stirring constantly to prevent the black recado from sticking to the bottom of the pot.",
+                    "Serve the Yucatecan black stuffing with a bit of black recado as a base, shredded chicken, and but. Optionally, you can add more cooked eggs and warm tortillas, accompanied by your favorite drink. We hope you enjoy this traditional Mexican recipe from the Yucatán Peninsula."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Relleno negro yucateco.PNG",
+                "Ingredientes": {
+                    "Garlic powder": "1 teaspoon",
+                    "White onion": "1/2 piece",
+                    "Onion powder": "1 teaspoon",
+                    "Eggs": "7 units",
+                    "Fine salt": "1/2 teaspoon",
+                    "Tomato": "1 unit",
+                    "Ground pork": "1/4 kg",
+                    "Chilmole": "2 cups",
+                    "Corn dough": "1 piece",
+                    "Ground pepper": "1/2 teaspoon",
+                    "Epazote": "1 sprig",
+                    "Water": "1/2 liter",
+                    "Garlic clove": "2 cloves",
+                    "Bay leaves": "5 leaves",
+                    "Chicken thigh": "2 pieces",
+                    "Corn tortillas": "1 dozen"
+                }
+            }
+        },
+        "Pastas": {
+            "Espagueti rojo sin crema": {
+                "Descripción": "Learn to prepare one of the most popular pastas with an equally traditional sauce. We provide an easy and delicious recipe for red spaghetti without cream, for those who are lactose intolerant, dislike cream, or simply prefer a simpler preparation. You can also use this red spaghetti recipe to accompany almost any dish, or as a main course served with a protein of your choice. Try this recipe, see how easy it is, and how delicious it turns out. So keep reading and discover how to make red spaghetti without cream.",
+                "Elaboración": [
+                    "Start the recipe by cooking the spaghetti in plenty of water with a pinch of salt and a pinch of dried epazote. The cooking time will depend on the package instructions, but on average, pasta cooks in about 8 minutes. Once cooked, drain the water and set aside.",
+                    "For the sauce, in a pan with a little oil, place the sliced tomatoes, onion, and clean garlic cloves. Cook over very low heat until they are evenly browned. They will be ready when the garlic is golden and toasted, the onion is slightly transparent, and the tomatoes are golden with the skin peeling off easily.",
+                    "When they are well browned, transfer to a blender, add half a cup of water, a pinch of dried epazote, a pinch of paprika, salt, and pepper to taste. Blend for about 3 minutes. You can also substitute water with chicken broth or vegetable stock, and use fresh epazote, but if so, add it to the blender later.",
+                    "Once the tomato sauce is blended, heat a tablespoon of oil in a pot and, once hot, pour in the tomato sauce. Add 2 teaspoons of chicken bouillon powder or a chicken bouillon cube. Also add a sprig of cilantro, and if using fresh epazote, add it now. Cook until it boils, then taste and adjust seasoning with more salt and/or pepper if needed.",
+                    "When the sauce is seasoned, lower the heat, add the cooked pasta, and mix well so that the sauce integrates with the pasta. Cook together for just a couple of minutes, then remove from heat.",
+                    "Once the spaghetti is ready, serve and enjoy. Optionally, you can add extra fresh cilantro leaves, or parsley, and crumbled cheese. Enjoy your meal!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/espagueti_rojo_sin_crema.jpg",
+                "Ingredientes": {
+                    "Water": "3 cups",
+                    "Garlic": "2 cloves",
+                    "Chicken broth": "1/2 cup",
+                    "Onion": "1/2 onion",
+                    "Dried epazote": "1 pinch",
+                    "Paprika": "1 teaspoon",
+                    "Black pepper": "to taste",
+                    "Salt": "to taste",
+                    "Spaghetti": "200 g",
+                    "Tomatoes": "4 tomatoes"
+                }
+            },
+            "Espaguetis a la carbonara": {
+                "Descripción": "This time, we will take you to Italy with a classic and comforting recipe: carbonara pasta. This dish, originating from the Lazio region, has won hearts worldwide with its perfect combination of al dente pasta, a creamy and flavorful sauce made with eggs and pecorino or Parmesan cheese, all topped with crispy pancetta, bacon, or guanciale.",
+                "Elaboración": [
+                    "Before starting this Italian carbonara spaghetti recipe, the first thing to do is to prepare all the ingredients for our delicious pasta dish.",
+                    "Next, peel and finely chop the onion. Then, sauté it in a tablespoon of butter.",
+                    "Cut the smoked pancetta or guanciale into strips and crush the peeled garlic cloves.",
+                    "Add these two ingredients to the pan with the onion and sauté.",
+                    "Meanwhile, boil the spaghetti in plenty of salted water. The cooking time will depend on the type of pasta, so check the manufacturer's recommendations on the package.",
+                    "In a separate bowl, mix the egg yolks with 100 grams of Parmesan cheese, and season with salt and pepper.",
+                    "Add the cream to the sautéed ingredients and cook over low heat for 5 minutes to continue making the carbonara sauce.",
+                    "After that time, turn off the heat and quickly incorporate the egg yolk mixture into the sauté. Stir quickly and immediately mix with the cooked pasta.",
+                    "Enjoy your carbonara spaghetti with the remaining grated Parmesan cheese!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Espaguetis a la carbonara.PNG",
+                "Ingredientes": {
+                    "Onion": "1 medium",
+                    "Cream or evaporated milk": "400 g",
+                    "Garlic cloves": "2 cloves",
+                    "Spaghetti or fettuccine": "400 g",
+                    "Eggs": "One per person (3)",
+                    "Butter": "1 tablespoon",
+                    "Smoked pancetta or guanciale": "100 g",
+                    "Black pepper": "1 pinch",
+                    "Parmesan or pecorino cheese": "300 g",
+                    "Salt": "1 pinch"
+                }
+            },
+            "Foto": "gs://cooking-plus.appspot.com/Pastas.jpeg",
+            "Lasaña de carne picada": {
+                "Descripción": "Ground beef and vegetable lasagna is an exquisite and easy preparation that will please everyone at home. A complete dish with various vegetables that can be prepared in advance. Although it's a bit time-consuming, it's worth it; the result is delicious. Are you ready to cook with us?",
+                "Elaboración": [
+                    "To prepare the easy ground beef lasagna, first peel the onion, clean the carrot and green bell pepper, and cut the vegetables into small pieces. Place a pan with a generous splash of olive oil and add all the vegetables. Let them cook until softened, about 5 minutes.",
+                    "Add the ground beef to the vegetable mixture, sauté until it acquires some color, about 10 minutes. Season with a bit of salt and pepper.",
+                    "Add a glass of white wine to the ground beef and let the alcohol evaporate for a few minutes. Then, add the fried tomato, mix well, and cook for another 10 minutes. Stir occasionally to prevent sticking. Taste the beef mixture and adjust seasoning if needed.",
+                    "Prepare the béchamel sauce. In a saucepan, melt the butter over medium heat and add the flour. Stir to cook the flour slightly.",
+                    "Add half of the milk and whisk continuously to prevent lumps while preparing the béchamel sauce. Once mixed, gradually add the remaining milk until you reach your desired thickness. Add salt and a bit of nutmeg.",
+                    "To prepare the lasagna sheets, follow the manufacturer's instructions. The ones we use are precooked, so just place them in hot water for 10 minutes. Next, assemble the lasagna. Place a bit of béchamel sauce in an ovenproof dish and cover the bottom with lasagna sheets.",
+                    "Add a thin layer of ground beef, a few spoonfuls of béchamel, and some grated cheese.",
+                    "Add another layer of lasagna sheets, beef, more sheets, beef, and finish with a layer of lasagna sheets.",
+                    "Cover the vegetable lasagna with the remaining béchamel and sprinkle with grated cheese. Place the dish in the oven to gratinate.",
+                    "When the ground beef and béchamel lasagna is golden, remove from the oven, and it will be ready to serve. Enjoy your meal!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Lasaña de carne picada.PNG",
+                "Ingredientes": {
+                    "Oil": "as needed",
+                    "Bechamel sauce": "For the lasagna",
+                    "Ground beef or pork": "1 kg",
+                    "Onion": "1 unit",
+                    "Flour": "50 g",
+                    "Milk": "600 ml",
+                    "Lasagna sheets": "12 units",
+                    "Butter": "50 g",
+                    "Nutmeg": "as needed",
+                    "Pepper": "as needed",
+                    "Green bell pepper": "1 unit",
+                    "Grated cheese": "as needed",
+                    "Salt": "as needed",
+                    "Fried tomato": "200 g",
+                    "White wine": "150 ml",
+                    "Carrot": "1 unit"
+                }
+            },
+            "Macarrones con chistorra": {
+                "Descripción": "Chistorra is a Spanish sausage typically made from fresh pork meat, aromatic herbs, garlic, salt, and paprika, which gives it its characteristic color. Chistorra is usually consumed grilled or fried and as an addition to various dishes, like in this case, where the main ingredient is pasta. We have chosen macaroni, a widely enjoyed pasta that delights both children and adults.",
+                "Elaboración": [
+                    "To make macaroni with chistorra, first cook the macaroni. Place a pot with water and a bit of salt over heat. Once it starts boiling, add the macaroni and cook according to the manufacturer's recommendations, usually between 9-11 minutes. Stir occasionally to prevent sticking.",
+                    "While the macaroni is cooking, cut the chistorra into pieces and peel and chop the onion.",
+                    "In a large pan, heat two tablespoons of olive oil. Once the oil is hot, add the chistorra and fry for 1 or 2 minutes to let the oil absorb the chistorra flavor and color. Remove the chistorra with kitchen tongs and place it on a plate lined with paper towels.",
+                    "In the same oil used to fry the chistorra, add the chopped onion and sauté over medium heat until golden.",
+                    "Once the onion is well cooked, add the fried tomato, 2 tablespoons of oregano, and the chistorra you set aside. Stir and cook for 5 minutes over low heat, stirring occasionally. The sauce will reduce slightly and absorb the chistorra flavor.",
+                    "When the macaroni is cooked, remove from heat and drain. Then, add the macaroni to the tomato, oregano, and chistorra sauce. Stir well to coat the macaroni with the sauce, then turn off the heat.",
+                    "Serve the macaroni with tomato and chistorra. As you can see, it's a very easy and flavorful dish."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Macarrones con chistorra.PNG",
+                "Ingredientes": {
+                    "Olive oil": "2 tablespoons",
+                    "Onion": "1 unit",
+                    "Chorizo (or chistorra)": "150 g",
+                    "Macaroni": "300 g",
+                    "Dried oregano": "2 tablespoons",
+                    "Salt": "1 pinch",
+                    "Fried tomato": "500 g"
+                }
+            },
+            "Ravioles con tuco de carne": {
+                "Descripción": "Para todos los fanáticos de la pasta rellena y las salsas suculentas, presentamos esta receta que es una explosión de sabores. No solo verás que amasar en casa es más simple de lo que imaginas, sino que, además, te enseñaremos a preparar el clásico tuco de carne. Y si bien lleva algo de tiempo, el procedimiento en general es simple y el resultado bien vale la pena. Asimismo, también te explicaremos cómo hacer un relleno de zapallo, que contrastará perfectamente con el intenso sabor del tuco.",
+                "Elaboración": [
+                    "Comenzaremos preparando el tuco para los raviolis. Para ello, retira el exceso de grasa de la carne y córtala en cubos. En este caso, utilizamos roast beef. Otros cortes apropiados para esta receta son: paleta, carnaza, falda, aguja, etc.",
+                    "Calienta una olla grande, agrega una cucharada de aceite y, cuando levante temperatura, sella la carne. Te recomendamos hacerlo en tandas para que la carne se dore y no se hierva. Mientras tanto, pica la cebolla, el diente de ajo y el pimiento.",
+                    "Retira y reserva la carne, agrega otra cucharada de aceite y rehoga las verduras (cebolla, ajo y pimiento). A continuación, baja el fuego al medio y deja cocinar.",
+                    "Cuando los vegetales estén algo tiernos, vierte el vino. Espera unos minutos a que evapore el alcohol e incorpora el extracto de tomate, el tomate triturado, el agua, los condimentos y la carne. Remueve bien y cuando rompa el hervor, baja el fuego al mínimo, tapa y deja cocinar como mínimo 1 hora.",
+                    "A continuación, prepara la masa. Realiza una corona con la harina, y coloca en el centro el huevo, el agua y el aceite. Integra los ingredientes del centro hacia afuera.",
+                    "Amasa unos minutos sobre la mesada hasta formar el bollo. Cúbrelo y deja reposar durante 30 minutos.",
+                    "Entre tanto, prepara el relleno. Envuelve el zapallo cabutia en papel film y cocina en microondas por 10 minutos.",
+                    "Retira la pulpa y realiza un puré. Condimenta con sal, pimienta y nuez moscada y deja enfriar.",
+                    "Comienza con la preparación de los ravioles. Divide el bollo en 4 partes y estira cada uno de ellos. Puedes hacerlo con máquina sobadora, pero si no tienes, estira con palote dejando la masa bien fina.",
+                    "Con la ayuda de un molde, arma los ravioles. Cubre con una porción de masa y rellena cada hueco con el relleno de calabaza.",
+                    "Humedece los bordes y cubre con la otra parte de masa. Presiona suavemente para retirar el aire y para marcar los ravioles.",
+                    "Desmolda y, con un cuchillo, termina de separarlos. Espolvorea con harina y continúa armando ravioles con el resto de la masa y el relleno.",
+                    "Llena una olla con agua y lleva al fuego, cuando rompa el hervor añade los ravioles. Cuando suban, déjalos 1 minuto más y retira con espumadera.",
+                    "Sirve los ravioles, salsea con el tuco de carne y listo para comer."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Ravioles con tuco de carne.JPG",
+                "Ingredientes": {
+                    "Olive oil": "2 tablespoons",
+                    "Water": "1/4 liter",
+                    "Garlic": "1 clove",
+                    "Beef": "500 g",
+                    "Onion": "1 onion",
+                    "Flour": "250 g",
+                    "Egg": "1 egg",
+                    "Nutmeg": "to taste",
+                    "Tomato paste": "1 tablespoon",
+                    "Pepper": "to taste",
+                    "Red bell pepper": "1 pepper",
+                    "Salt": "to taste",
+                    "Crushed tomatoes": "500 g",
+                    "White wine": "1 glass",
+                    "Pumpkin (cabutia)": "1 pumpkin"
+                }
+            },
+            "Rigatoni con salsa amatriciana": {
+                "Descripción": "La salsa amatricana es originaria de la ciudad italiana Amatrice. Parece ser que la crearon los pastores de esta región combinando ingredientes clásicos y al alcance de todos, como lo son la panceta, el tomate y la pasta seca. Es por ello que esta salsa forma parte de lo que se conoce como cucina povera o cocina pobre. Este término hace referencia a la amplia variedad de recetas creadas en Italia desde el siglo XIX hasta después de la Segunda Guerra Mundial. Junto con la salsa carbonara, es una de las salsas más típicas y clásicas de la cocina italiana.",
+                "Elaboración": [
+                    "Como primer paso de esta receta, retira el cuerito o grasa de la panceta. Pícala y saltéala en una sartén sin aceite con el fuego alto. Aquí buscamos dorarla para que se ponga crujiente y resalte su sabor, así como crear una base grasosa para saltear las cebollas.",
+                    "Una vez dorada, agrega la cebolla picada y baja el fuego a medio. Cuando la cebolla se haya dorado, agrega 1 cucharada de agua caliente y, cuando se evapore, incorpora 1 cucharada más. Repite este procedimiento tantas veces como quieras. Cuantas más veces lo repitas, más dulce quedará la cebolla.",
+                    "Cuando hayas logrado el punto de cocción de la cebolla deseado, agrega la salsa de tomate y baja el fuego al mínimo. Tapa la salsa amatriciana y cocínala por 10 minutos. Puedes utilizar tomates de lata triturados o en cubos, aunque podrías hacerlo de forma casera. Para ello, lava y corta una cruz en la base de 4 tomates perita. Llévalos a una cacerola con agua hirviendo por 2 minutos. Retíralos y, con cuidado de no quemarte, pélalos. Córtalos en cubos y llévalos a la sartén con la cebolla y la panceta.",
+                    "Mientras, cocina la pasta rigatoni en abundante agua hirviendo por 7-10 minutos de acuerdo a tu gusto. Cuélala y, si lo deseas, añádelos a la sartén para cocinar los rigatoni con la salsa amatriciana.",
+                    "Sirve los rigatoni con salsa amatriciana de inmediato para disfrutarlos calientes. Si te gusta, puedes coronarlos con queso rallado y ¡a comer!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Rigatoni con salsa amatriciana.JPG",
+                "Ingredientes": {
+                    "Onion": "1 onion",
+                    "Smoked pancetta": "3 slices",
+                    "Grated cheese": "30 g",
+                    "Rigatoni": "210 g",
+                    "Fried tomato": "200 g"
+                }
+            },
+            "Tallarines rojos con pollo": {
+                "Descripción": "Muchos de los platos que forman parte del menú de los hogares peruanos y, sobre todo, los almuerzos peruanos, vienen con una pequeña porción de influencias de nuestros antepasados. Encontramos recetas que preservan características orientales, africanas, mexicanas, europeas y, de este último grupo, podemos encontrar una cocina muy importante a nivel mundial: la italiana. Tal es así que los peruanos hemos sabido lograr que la pasta italiana y nuestros insumos y sabores peruanos conversen entre ellos y terminen peleando los primeros puestos a la hora de formar un menú.",
+                "Elaboración": [
+                    "Para empezar la preparación de los tallarines rojos peruanos, alista el mise en place que debe incluir: la cebolla roja picada en cuadritos, el ajo y el ají panca molidos, zanahoria y tomate cortados en cubos o dados, nuestras 2 hojas de laurel, la pasta y nuestras presas de pollo. Tú puedes escoger las partes del pollo al gusto.",
+                    "Empieza calentando agua en una olla grande donde quepa la pasta. Cuando el agua ha llegado al punto de ebullición, agrega una pizca de sal y un chorrito de aceite vegetal, añade la pasta esparcida por toda la olla. Mueve suavemente para cocinar de forma pareja, esto solo tomará 10 minutos. Luego, escurre los fideos y reserva.",
+                    "En una olla calienta un chorro de aceite vegetal. Aquí sellaremos las presas de pollo por ambos lados. Las presas de pollo las debes sazonar al gusto previamente con sal, pimienta y comino.",
+                    "Retira las presas. En esta misma olla donde acabas de sellar el pollo, agrega la cebolla picada y las dos cucharadas de ajo molido y deja dorar por un par de minutos. Ahora agrega las dos cucharadas de ají panca y deja cocinar por 3 minutos más moviendo suavemente.",
+                    "Agrega la zanahoria y el tomate junto con un poco del agua donde has estado cociendo la pasta. Echa también una pizca de sal aquí.",
+                    "Después de 8 minutos de cocción, lleva esta preparación a licuar. Ten cuidado de no hacerlo cuando esté aún muy caliente. Lo conseguido en el licuado debe tener una textura espesa y pastosa.",
+                    "Incorpora lo que has licuado a la olla donde hiciste el aderezo y agrega más agua de cocción. Aquí también podrías colocar fondo de pollo para realzar el sabor. Agrega también las presas de pollo, las hojas de laurel y rectifica la sazón. Deja cocinar por un lapso de 15 minutos.",
+                    "Cuando el pollo esté cocido, retira por un momento y vierte en este juguito la pasta ya cocida. Mezcla bien y proporciona una última probada a la sazón, rectifica con sal, pimienta y orégano a tu gusto. Para servir, coloca sobre tu plato una buena porción de los fideos y encima la contundente y jugosa presa de pollo. ¡A disfrutar del delicioso guiso de tallarines con pollo!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/tallarines_rojos_con_pollo.jpg",
+                "Ingredientes": {
+                    "Olive oil": "1 splash",
+                    "Ground garlic": "2 tablespoons",
+                    "Red onion": "1 onion",
+                    "Cumin": "to taste",
+                    "Bay leaves": "2 leaves",
+                    "Oregano": "to taste",
+                    "Pepper": "to taste",
+                    "Chicken": "4 thighs",
+                    "Salt": "to taste",
+                    "Spaghetti": "750 g",
+                    "Tomatoes": "5 tomatoes",
+                    "Carrot": "1 carrot"
+                }
+            },
+            "Ñoquis de papa sin huevo": {
+                "Descripción": "Although this dish is traditionally made on the 29th of each month, gnocchi are so delicious, quick, and easy to prepare that you should make them as often as you like. You can also make them when you run out of eggs in the fridge, if you are vegan, or if you cannot include eggs in your diet. While this ingredient adds more consistency, you can easily omit it and still achieve easy and perfect potato gnocchi.",
+                "Elaboración": [
+                    "Cook the potato. To do this, wash it thoroughly with a brush that you only use in the kitchen and do not peel it. You can choose to boil it until tender or use a microwave. Once cooked, let it cool and peel it.",
+                    "Make a puree with the potato. Mash it and season with salt, pepper, nutmeg, and grated cheese.",
+                    "Incorporate flour into the puree and mix, integrating the ingredients to form a dough, but without kneading, as we do not want to activate the gluten.",
+                    "Cut portions of the dough and roll them out into shapes as shown in the picture.",
+                    "Cut portions of approximately 1.5 cm. Next, shape them with the tool used to mark them or with a fork. Sprinkle with a little flour and let them rest for about 15-20 minutes.",
+                    "Boil plenty of water in a large pot where the gnocchi can fit comfortably. When the water reaches a rolling boil, add the gnocchi. When they start to float to the surface, remove with a slotted spoon and serve directly onto each plate.",
+                    "Top the homemade potato gnocchi without egg with your favorite sauce. Enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/noquis_de_papa_sin_huevo.jpg",
+                "Ingredientes": {
+                    "Flour": "150 g",
+                    "Nutmeg": "to taste",
+                    "Potato": "1 large potato",
+                    "Black pepper": "to taste",
+                    "Baking powder": "1 teaspoon",
+                    "Grated cheese": "150 g",
+                    "Salt": "to taste"
+                }
+            }
+        },
+        "Pescados": {
+            "Albóndigas de bacalao de la abuela": {
+                "Descripción": "Prepare these tasty cod meatballs in sauce, another way to eat meatballs but with fish, ideal for giving to the little ones; they will surely like it a lot. Also, for cod lovers, it's another way to cook this fish. You can use either desalted cod already flaked or frozen cod. To accompany this dish, you can make a sauce like the one provided, which is simple and very good, or you can also make a good tomato sauce.",
+                "Elaboración": [
+                    "To make the grandmother's cod meatballs, first place the bread in a bowl with milk, let it sit for a few minutes until it is well soaked.",
+                    "Remove the skin and bones from the cod, cut it into very small pieces, using scissors to ensure it is finely shredded. Add it to a bowl with the egg, chopped garlic, chopped parsley, and the bread soaked in milk, shredded. Mix everything well.",
+                    "Add breadcrumbs, the amount depending on how you see it; it should be enough to form the dough into balls, approximately 2 tablespoons. Let the dough rest in the refrigerator for a while or overnight.",
+                    "Place flour on a plate, take balls of dough and coat them with flour.",
+                    "Add oil to a pan to heat and, when hot, fry the meatballs on all sides until golden brown. Place them on a plate with paper towels to drain excess oil. Remove the meatballs once cooked and set aside.",
+                    "Chop half an onion, heat a saucepan with a splash of oil and add the onion, letting it brown. When it starts to brown, add a tablespoon of flour, stirring well to cook the flour.",
+                    "Add the white wine, let it cook for a few minutes to reduce the alcohol. Pour in the fish stock or water and, when hot, add the meatballs, letting them cook for 10 minutes. Taste and adjust the seasoning if needed.",
+                    "When the cod meatballs in sauce are ready, chop a handful of parsley and add it to the saucepan with the meatballs."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Albóndigas de bacalao de la abuela.PNG",
+                "Ingredientes": {
+                    "Olive oil": "as needed",
+                    "Salted cod": "600 g",
+                    "Garlic cloves": "2 cloves",
+                    "Flour": "as needed",
+                    "Egg": "1 egg",
+                    "Milk": "1 small glass",
+                    "Sliced bread": "2 slices",
+                    "Breadcrumbs": "3 teaspoons",
+                    "For the sauce: Fish stock or water": "as needed",
+                    "For the sauce: Onion": "1/2 onion",
+                    "For the sauce: Flour": "as needed",
+                    "For the sauce: Chopped parsley": "as needed",
+                    "For the sauce: White wine": "as needed",
+                    "Parsley": "as needed",
+                    "Salt": "to taste"
+                }
+            },
+            "Atún encebollado": {
+                "Descripción": "Grandma's onion tuna is a traditional stew typical of the province of Cádiz, Andalusia. A very simple maritime dish to prepare that will be ready in no time. Also, you should know that tuna is a blue fish with very good nutrients and a good source of omega 3, a healthy fish.",
+                "Elaboración": [
+                    "To prepare Andalusian-style onion tuna, first prepare the fish. Ask at the fish market to cut it into 2 cm fillets, cleaned of bones. Then, cut the fish into bite-sized pieces, and if you prefer, you can keep it in fillets.",
+                    "Cover the bottom of a saucepan with olive oil and heat over medium heat. Once hot, sauté the tuna, just searing it on all sides without cooking it through. Remove and set aside.",
+                    "Peel the onion and garlic, then slice the onion thinly and the garlic into rounds. In the same pan where you seared the tuna, add a little more olive oil and the garlic, letting it cook for a few seconds to integrate the flavors, then cook over medium heat until the onion is softened, about 10-15 minutes. Cover the pan so the onion will cook faster with the steam.",
+                    "When the onion is softened, remove the pan from the heat and add half a tablespoon of sweet paprika and the bay leaf, stirring to avoid burning the paprika.",
+                    "Put the pan back on the heat and add vinegar, letting it cook for a few minutes, then add a glass of water. Add some salt and pepper and let it cook for a few more minutes until the sauce reduces a bit, taste and adjust seasoning.",
+                    "Add the pieces of tuna to the pan and let everything cook together for 2 minutes. Turn off the heat and let the tuna finish cooking in the residual heat of the sauce. To ensure the onion tuna from Cádiz is good, don’t overcook it, as overcooked tuna becomes dry. Ready, the best onion tuna recipe!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/atun_encebollado.jpg",
+                "Ingredientes": {
+                    "Olive oil": "5 tablespoons",
+                    "Water": "1.5 liters",
+                    "Garlic": "2 cloves",
+                    "Tuna": "600 g",
+                    "Onions": "2 onions",
+                    "Bay leaf": "1 leaf",
+                    "Oregano": "to taste",
+                    "Sweet paprika": "1 teaspoon",
+                    "Salt": "to taste",
+                    "Vinegar": "40 ml"
+                }
+            },
+            "Bacalao en salsa vizcaína": {
+                "Descripción": "The easy Vizcayan-style cod recipe consists of an excellent cod dish with a very good and special sauce made with choricero peppers. A traditional Basque dish that makes the mix of cod and sauce excellent. It is also commonly prepared during Christmas and especially during Holy Week. To prepare it, it is essential to use a good piece of cod without bones and properly salted. Nowadays, you can find desalted cod at the right salt point in many stores.",
+                "Elaboración": [
+                    "If you want to learn how to make traditional Vizcayan-style cod, you should first know that it is important to buy pre-desalted pieces of cod. If you desalinate it at home, you should soak it in water for 48 hours, changing the water every 8 hours; if it is very thick, it may need a bit longer. In a saucepan, add a generous splash of olive oil to cover the bottom. Then, peel the garlic and slice it. The saucepan should be on low heat; add the garlic, making sure it does not brown. Place the cod pieces in the pan and cook for 2-3 minutes on each side. Remove and set aside.",
+                    "Peel the onion and slice it into strips. In the pan where you cooked the cod, add the onion. Let it cook over medium heat for about 25 minutes until it is very softened without browning.",
+                    "When the onion is done, add a tablespoon of choricero pepper and mix with the onion. Then add the cognac and cook for a few minutes until the alcohol evaporates.",
+                    "Add a glass of 200 ml water and cook over medium heat for about 10 minutes.",
+                    "Transfer the sauce to a glass or jug and blend with a blender until the sauce is well blended.",
+                    "Return the sauce to the pan and, if it is too thick, add a little more water until it reaches your desired consistency. Then, taste and adjust the salt and pepper. Add the pieces of cod to the sauce and let cook over medium heat for about 5 minutes to blend the flavors.",
+                    "You can now enjoy a delicious and simple Vizcayan-style cod!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Bacalao en salsa vizcaína.PNG",
+                "Ingredientes": {
+                    "Olive oil": "1 small glass",
+                    "Water": "1 glass",
+                    "Salted cod": "4 pieces",
+                    "Onion": "1 large onion",
+                    "Cognac": "50 ml",
+                    "Garlic cloves": "4 cloves",
+                    "Choricero pepper (dried red pepper)": "1 tablespoon",
+                    "Salt": "1 pinch"
+                }
+            },
+            "Ceviche de atún estilo Sinaloa": {
+                "Descripción": "If you crave something fresh, tasty, and quick to prepare, this Sinaloan-style tuna ceviche recipe will delight you. Sinaloa is one of Mexico's states with great tourism offerings, its beautiful beaches, and exquisite cuisine, which is why you must visit and try its variety of seafood dishes. Ceviche is one of the main dishes, with variations like fish, shrimp, octopus, and more. In this case, we teach you how to prepare a delicious Sinaloan-style tuna ceviche, very similar to a fresh tuna salad with mango, combining the fresh flavor of tuna with cucumber, onion, cilantro, and an extra ingredient, mango, which will make this recipe exquisite.",
+                "Elaboración": [
+                    "Start the Sinaloan-style tuna ceviche recipe by chopping the tuna steak or fillet into small cubes, place in a bowl and set aside.",
+                    "Finely chop the red onion and serrano chiles, and you can remove the seeds and veins from the chiles if you don’t want it too spicy. Chop the tomato into small cubes and add them to the bowl with the tuna.",
+                    "Peel the mango, cut it into small cubes, and add it to the bowl with the rest of the ingredients.",
+                    "Chop the cilantro and add it to the bowl. Add lemon or lime juice and olive oil to taste, and mix everything well.",
+                    "Season with salt and pepper to taste. Refrigerate the ceviche for 30 minutes before serving.",
+                    "Serve the ceviche chilled with tortilla chips, tostadas, or as a filling for tacos."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Ceviche_de_atun_estilo_Sinaloa.PNG",
+                "Ingredientes": {
+                    "Fresh tuna": "500 g",
+                    "Fresh cilantro": "1 bunch",
+                    "Cucumber": "1 unit",
+                    "Serrano chili": "1 unit",
+                    "Mango": "1 unit",
+                    "Tomatoes": "2 units",
+                    "Olive oil": "2 tablespoons",
+                    "Salt": "to taste",
+                    "Lemon juice": "from 2 lemons",
+                    "Pepper": "to taste"
+                }
+            },
+            "Foto": "gs://cooking-plus.appspot.com/Pescados.jpg",
+            "Merluza con salsa marinera": {
+                "Descripción": "Prepare a traditional fish dish, specifically a hake in marinara sauce. A simple and quick recipe that can also be cooked with other fish in marinara sauce that have a firm flesh. Also, you should know that hake has a mild and pleasant flavor and is light due to its low fat content. Furthermore, this dish has a simple, quick, and light sauce.",
+                "Elaboración": [
+                    "Place a bowl with water and salt, add the clams for about 30 minutes.",
+                    "Peel the shrimp, remove the heads and shells from the body, and set aside.",
+                    "In a pan, add a little oil, one chopped garlic clove, and a bit of parsley.",
+                    "Add the shrimp heads and cook for a couple of minutes without burning them. Also, add water to cover all the fish bones and, if you have hake bones or head, add them as well. Let it cook for about 20 minutes and add a bit of salt.",
+                    "Heat a pan to prepare the hake and pour a little oil. Add the shrimp and sauté for a bit, then remove and set aside.",
+                    "In the same pan, if needed, add oil and brown the hake, which you should have previously coated with flour. Remove and set aside.",
+                    "Chop one onion and the garlic cloves, add them to the pan, and sauté over medium heat. When the onion is softened, add a spoonful of flour, mix, and pour in the white wine. Let it cook for 1 minute, then add the sweet paprika, stir, and add the fish stock.",
+                    "When the stock starts to boil, taste and add salt if needed. Also, add the hake fillets and cook for about 5 minutes, stirring the pan. Add the clams.",
+                    "When the clams start to open, add the peeled shrimp, stir the pan to mix everything, and turn off the heat. Let it rest for 5 minutes and serve.",
+                    "The hake with marinara sauce is now ready!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Merluza con salsa marinera.PNG",
+                "Ingredientes": {
+                    "Olive oil": "1 splash",
+                    "Clams": "1 kg",
+                    "Fish stock": "500 ml",
+                    "Onion": "1 unit",
+                    "Garlic cloves": "2 units",
+                    "Shrimp": "12 minimum",
+                    "Flour": "3 tablespoons",
+                    "Sweet paprika": "1 teaspoon",
+                    "Hake fillets": "8 units",
+                    "Salt": "1 pinch",
+                    "White wine": "100 ml"
+                }
+            },
+            "Palitos de merluza": {
+                "Descripción": "Fish, among meats, has the lowest fat content. Additionally, its fats have positive effects on our health, as they not only help prevent cardiovascular diseases but also assist in managing existing conditions with fewer complications. If you have an established condition, we recommend replacing flour with breadcrumbs and baking the fish. If you usually eat healthily, you can try this recipe for breaded fish sticks without any problems. It is also a tempting way to incorporate fish into children's diets.",
+                "Elaboración": [
+                    "Cut the hake into sticks of similar size so they cook evenly. We recommend choosing fish like hake or sole that are firm and hold their shape when cooked.",
+                    "In a large bowl, mix the flour, egg, and seasonings. Place the hake sticks in it, marinate them for a few minutes to absorb the flavors, and coat them well with the mixture.",
+                    "Cook the hake sticks in a pan with hot oil. Be careful not to add too many sticks at once to avoid lowering the oil temperature. At the end of the recipe, you can read other tips regarding frying.",
+                    "Place the hake sticks on a plate with paper towels to remove excess fat and you're done. You can now enjoy this delicacy. This is how the first breading looks.",
+                    "If you opted for the second breading, the homemade hake sticks will turn out as shown. Both options are delicious! Let us know which one is your favorite."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Palitos de merluza.PNG",
+                "Ingredientes": {
+                    "Deboned whiting fillet": "300 g",
+                    "Flour": "1/4 cup",
+                    "Wheat flour": "as needed",
+                    "Egg": "1 unit",
+                    "Breadcrumbs": "as needed",
+                    "Sweet paprika or paprika": "as needed"
+                }
+            },
+            "Poke de salmón": {
+                "Descripción": "The poke bowl is a typical Hawaiian dish, created by fishermen who combined cuts of the day's catch with various regional foods. Poké means to cut in its original language, and that is the essence of the dish—presenting various cut ingredients, ready to eat, in an elegant and appetizing way. In this opportunity, we want to teach you how to prepare a salmon poke bowl, which we will combine with rice, avocado, mango, and cream cheese. You can enjoy it as a light dinner or a fresh lunch on hot days.",
+                "Elaboración": [
+                    "To start preparing the salmon poke bowl, bring the rice to a pot covered by 1 inch of water. Turn on the heat and wait until the water begins to boil.",
+                    "When the water boils, remove the pot from the heat and cover it to let it sit for about 12 minutes, until it absorbs the water and is tender.",
+                    "Afterward, dissolve the sugar in the vinegar and season the rice with this mixture. Chill it in the refrigerator for at least one hour.",
+                    "When your rice is cold, start assembling the salmon poke bowl. Cut the mango into cubes and place them in one section. In another section, add the cheese. You can use a spoon or a piping bag for a different presentation. Also add the smoked salmon and sliced avocado, and finish with lemon zest.",
+                    "And there you have your salmon poke bowl ready!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/poke_de_salmon.jpg",
+                "Ingredientes": {
+                    "Avocado": "1 avocado",
+                    "Rice": "3/4 cup",
+                    "Sugar": "30 g",
+                    "Lemon": "zest",
+                    "Mango": "1 piece",
+                    "Smoked salmon": "160 g",
+                    "White vinegar": "50 ml"
+                }
+            },
+            "Salmón en salsa verde": {
+                "Descripción": "Green sauce is a very traditional sauce for white fish such as hake. In this case, at RecetasGratis, we will use a blue fish to prepare this healthy recipe ideal for dinner or a light meal. It is salmon in green sauce. Salmon is a very healthy fish, rich in fatty acids and proteins, and it is also very versatile in cooking; there are many recipes with different cooking methods, all resulting in a wonderful dish. That said, preparing this recipe will be very easy and appealing. Do you want to see how to make salmon in green sauce step by step?",
+                "Elaboración": [
+                    "Cut the salmon into rectangular fillets. In a pot, heat the olive oil and sear the fish for a few seconds on each side. Set it aside for later.",
+                    "In the same pot, add the chopped onion and cook for a few minutes until it starts to brown. Then add the sliced garlic and cook for 1 minute.",
+                    "Add a tablespoon of flour and cook for a few minutes to avoid a raw flour taste in the green sauce.",
+                    "Pour in the white wine and stir well to combine with the flour. Cook for a few seconds to evaporate the alcohol and add the glass of water. Continue stirring well and you will notice that the sauce begins to thicken. If necessary, add a bit more water. Season to taste.",
+                    "Wash the parsley well and chop it finely. Add it to the sauce and mix well. You will see that the sauce turns greenish, which means it is ready.",
+                    "Finally, add the salmon you reserved earlier to the sauce and let it cook together for about 8 to 10 minutes, or until the fish is cooked through.",
+                    "Boil the egg for 10 minutes in boiling water. Cool it, peel it, and cut it into quarters.",
+                    "Place the salmon in a deep plate and cover it with the green sauce. Decorate with the hard-boiled egg and enjoy this delicious and healthy blue fish dish. Bon appétit!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/Salmón en salsa verde.PNG",
+                "Ingredientes": {
+                    "Olive oil": "1 glass",
+                    "Water": "1 small glass",
+                    "Spring onion": "1 unit",
+                    "Garlic clove": "1 clove",
+                    "Wheat flour": "1 tablespoon",
+                    "Egg": "1 egg",
+                    "Fresh parsley": "1 bunch",
+                    "Fresh salmon": "300 g",
+                    "White wine": "1 small glass"
+                }
+            }
+        },
+        "Verduras": {
+            "Berenjenas rellenas sin bechamel": {
+                "Descripción": "Oven-baked stuffed eggplants with cheese are a fantastic, delicious, and easy-to-make dish. Additionally, they can be filled with any kind of meat, and they are also delicious with vegetables, mushrooms, fish, etc. You should know that eggplant is a very good vegetable, low in calories and light. This recipe does not contain béchamel, so we've added a sprinkle of grated cheese for baking. They can be prepared as a starter or as a main dish.",
+                "Elaboración": [
+                    "Are you wondering how to make easy stuffed eggplants? To start with the recipe for stuffed eggplants without béchamel, first, preheat the oven to 200 ºC with both top and bottom heat. Next, wash the eggplants and cut each one in half lengthwise. Place them on a baking sheet with a drizzle of oil and a bit of salt. Then, put them in the oven until they are roasted, approximately 30-40 minutes.",
+                    "Place a pot with a good drizzle of oil over medium heat, then peel and finely chop the onion, adding it to the pot. Next, wash and cut the peppers into small pieces, adding them along with the onion until they are softened.",
+                    "When the vegetables are ready, add the minced meat, mix it with the vegetables, and cook the meat. Stir to cook it thoroughly. Next, add the fried tomato, salt, and pepper. Let it cook for about 10 minutes, stirring to prevent sticking.",
+                    "When the eggplants are ready, remove them from the oven and let them cool slightly so you can handle them. Next, remove the flesh from the eggplants. Then, chop the flesh and add it to the prepared mixture.",
+                    "Using a spoon, fill the eggplants with the meat mixture.",
+                    "Place the stuffed eggplants in a baking dish and cover with grated cheese. Then, put them in the oven at 180 ºC with both top and bottom heat until they are gratinated.",
+                    "When you see that the cheese is gratinated, remove the tray from the oven with the stuffed eggplants. You can now serve the delicious stuffed eggplants without béchamel!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/berenjenas_rellenas_sin_bechamel.jpg",
+                "Ingredientes": {
+                    "Olive oil": "4 or 5 tablespoons",
+                    "Eggplant": "4 eggplants",
+                    "Ground meat": "400 g",
+                    "Onion": "1 onion",
+                    "Black pepper": "1 pinch",
+                    "Red bell pepper": "1 piece",
+                    "Green bell pepper": "1 piece",
+                    "Grated cheese": "100 g",
+                    "Salt": "to taste",
+                    "Fried tomato": "100 g"
+                }
+            },
+            "Cebolla caramelizada para hamburguesa": {
+                "Descripción": "If you have ever looked at a gourmet burger menu, you have likely seen that caramelized onions are a common ingredient among the options. This is because caramelized onions give a delicious sweet-and-sour touch to any meat burger and pair very well with cheese, particularly cheddar cheese. If you like making burgers at home, you should also learn how to make caramelized onions.",
+                "Elaboración": [
+                    "Start by peeling the onions and slicing them into about 5 mm thick rounds, meaning neither too thin nor too thick.",
+                    "Heat a pan with butter, and when it melts, add the onion slices without overlapping them. Cook over low heat for about 5-7 minutes or until the onion becomes transparent.",
+                    "After the previous step, add the soy sauce and sugar, mix and separate the onion rings. Cook over low heat for another 5 minutes.",
+                    "When the onions are very soft and caramelized, you can turn off the heat and serve. Enjoy this sweet-and-sour burger topping, and check out some tips at the end of this recipe to enhance its flavor. Enjoy your meal!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/cebolla_caramelizada_para_hamburguesa.jpg",
+                "Ingredientes": {
+                    "Brown sugar": "1/2 teaspoon",
+                    "Onions": "2 onions",
+                    "Lard": "1 teaspoon",
+                    "Soy sauce": "2 tablespoons"
+                }
+            },
+            "Chop suey de verduras": {
+                "Descripción": "Prepare an exquisite vegetable stir-fry or vegetable chop suey, a Chinese dish that involves mixing various vegetables, stir-frying them, and adding an oriental touch with sauces. Additionally, to ensure the vegetables are well-cooked, they should be cut into similar strips so they cook evenly. The type of pan used is also important for this dish; in this case, it is a wok or a deep pan.",
+                "Elaboración": [
+                    "To prepare the vegetable chop suey, first wash the vegetables. Then, cut the peppers into strips, the onion into quarters and then each quarter in half, and the carrot into strips or thin rounds. Wash the zucchini, cut off the ends, then cut each piece into 2 or 3 parts lengthwise about 1 cm wide, and then into strips.",
+                    "Add a wok or a deep pan to high heat with 2-3 tablespoons of sesame or sunflower oil and chop the garlic cloves. Add them to the pan along with all the vegetables except the bean sprouts. Cook the vegetables for about 5 minutes, stirring.",
+                    "Add the soy sauce and stir to mix everything well. Also, add the vegetable broth, mix everything, and cook for 2-3 minutes.",
+                    "Add the bean sprouts and stir-fry everything together for a couple more minutes.",
+                    "When you have stir-fried the vegetable chop suey, check if the salt level is correct and remove from heat.",
+                    "Serve in a dish or deep plate and sprinkle with sesame seeds. Enjoy! You can accompany this recipe with Chinese fried bread; you will love it."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/chop_suey_de_verduras.jpg",
+                "Ingredientes": {
+                    "Sunflower oil": "as needed",
+                    "Garlic": "1 clove",
+                    "Bean sprouts": "100 g",
+                    "Zucchini": "1 zucchini",
+                    "Vegetable stock": "1 liter",
+                    "Scallions": "2",
+                    "Red pepper": "1 red pepper",
+                    "Green pepper": "1 green pepper",
+                    "Sesame seeds": "100 g",
+                    "Carrots": "2 carrots"
+                }
+            },
+            "Coliflor con queso al horno": {
+                "Descripción": "This time I bring you another classic dish in my house, oven-baked cauliflower with cheese. This was my older brother's favorite dish when we were kids, and whenever my mom asked him what he wanted to eat, he would always ask for it. Of course, it was a must on his birthday. The rest of the family didn't mind at all because we also loved eating this gratin cauliflower with béchamel. And I must say that my mom's version was award-winning. And it still is :) As a good daughter, I prepare it the same way and my husband goes crazy for it. It couldn't be any other way :)",
+                "Elaboración": [
+                    "Cook the cauliflower and drain it well. Then place it in an ovenproof dish.",
+                    "While the cauliflower is cooking, prepare the béchamel sauce. The ingredients are more or less approximate because I make it by eye. It is important that the sauce is somewhat liquid (more so than for croquettes, for example) because we want to pour it over the cauliflower and get into all the gaps. If it is too thick, it will form a heavy layer on top. We want to achieve a dish with cauliflower gratin with cheese just right, light despite the sauce. The key is the béchamel. If it is too dense, the dish will be very heavy and lose its appeal. Once it's ready, pour the béchamel sauce over the cauliflower, ensuring it covers all the cauliflower and fills the gaps.",
+                    "Finally, sprinkle grated cheese on top, place the cauliflower in the oven with the grill function, and leave it for a few minutes until the surface is golden to your liking.",
+                    "Then remove the gratin cauliflower from the oven and serve directly. You'll see how delicious it is!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/coliflor_con_queso_al_horno.jpg",
+                "Ingredientes": {
+                    "Cauliflower": "1 cauliflower",
+                    "Flour": "20 g",
+                    "Milk": "as needed",
+                    "Butter": "40 g",
+                    "Grated cheese": "to taste",
+                    "Salt": "to taste"
+                }
+            },
+            "Croquetas de arroz y espinaca": {
+                "Descripción": "Croquettes are a very versatile dish where you can combine different vegetables to add more fiber and micronutrients to your diet. In this opportunity, you will learn to make simple oven-baked rice croquettes, ideal for a light lunch, for kids, or to take to work, university, school, as a meal. This version is baked to achieve a healthy dish that balances the 3 main nutrients in our diet: carbohydrates, proteins, and fiber. You can serve them with a salad or sauce for dipping and make them part of a healthy snack. At the end of the recipe, we will give you more ideas.",
+                "Elaboración": [
+                    "Cook the rice according to the package instructions. Generally, this means boiling it in about 3 times its amount. For example, if using 1 cup of rice, add at least 3 cups of water. Cook for about 8 minutes, turn off the heat, and let it sit covered to finish hydrating.",
+                    "While the rice is cooking, peel and chop the onion and garlic to sauté them in a pan over high heat with a teaspoon of oil. Once the onion is translucent, lower the heat to medium and sauté, stirring occasionally to prevent burning. If it needs more liquid, you can add a tablespoon of water to caramelize the onion slowly.",
+                    "Meanwhile, wash and process the spinach leaves. To wash them, we recommend separating each leaf from its stem and soaking them in water with vinegar. Then, transfer them to a container with a solution of 1 drop of food-safe bleach per liter of water and immerse them for 15 minutes. After that, drain and process them. This way, they will be disinfected and safe.",
+                    "Mix the cooked rice with the processed spinach and the sautéed onion and garlic. Season to taste with nutmeg and grated cheese. You can add other seasonings such as turmeric, garlic powder, chili flakes, and mustard. Taste to make sure you like it.",
+                    "Once you have tasted the mixture and like it, add the egg and flour. Mix well.",
+                    "In a greased or breadcrumb-covered baking dish, shape your rice and spinach croquettes using a spoon. You can shape them as desired.",
+                    "Bake them in a preheated oven at maximum temperature (200-220 ºC) for about 10 minutes until golden. Flip them and bake for another 7 minutes.",
+                    "Serve your rice and spinach croquettes. Enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/croquetas_de_arroz_y_espinaca.jpg",
+                "Ingredientes": {
+                    "Garlic": "1 clove",
+                    "Long-grain rice": "1 small cup",
+                    "Onion": "1 onion",
+                    "Spinach": "200 g",
+                    "Flour": "2 teaspoons",
+                    "Egg": "1 egg",
+                    "Nutmeg": "1 teaspoon",
+                    "Grated cheese": "3 teaspoons"
+                }
+            },
+            "Rollitos de primavera vegetarianos": {
+                "Descripción": "Chinese-style spring rolls are an appetizer or snack that is surprisingly easy and quick to make. The most time-consuming part is cutting the vegetables. This recipe is usually made with wheat flour wrappers, but to make it gluten-free, we use rice and tapioca wrappers as done in Vietnam.",
+                "Elaboración": [
+                    "Cut the white onion into thin strips by halving it lengthwise, placing one half flat on the cutting board to cut the ends, then slicing it into very thin strips. Repeat the same steps with the other half of the onion. Next, cut the leek in the same way, first cutting the white part into 6 cm pieces and halving them, then cutting these halves into julienne strips. Also, cut the carrots and zucchini into julienne strips. Start by slicing the vegetables thinly before cutting them into fine strips. Finally, cut the cabbage into wedges, removing the stem, and cut each piece into chiffonade or thin strips. Set aside.",
+                    "Heat a wok or large pan, pour a splash of olive oil, and add the sliced onion and julienned leek. Stir until the onion becomes translucent and the leek is tender.",
+                    "Add the julienned carrots and cook for a couple of minutes, stirring occasionally to prevent browning.",
+                    "When the carrots are al dente, add the cabbage and zucchini strips. Mix well.",
+                    "Then add the Chinese roots and season with a splash of soy sauce, ground black pepper, and a pinch of salt. Stir well, reduce the heat to low, and cook for 10 minutes or until the vegetables are perfectly cooked. Adjust seasoning and set aside off the heat.",
+                    "To assemble, soak the rice paper by dipping it in water for 5 seconds, let it drain, and place it on a board (you will quickly notice that the sheet becomes more flexible).",
+                    "Immediately place a couple of tablespoons of the vegetable mixture in the center of the paper.",
+                    "Fold the closer ends over the filling, measuring the length of the rolls.",
+                    "Fold one side inward to prevent the filling from falling out.",
+                    "Roll the rice paper tightly to form a tube.",
+                    "Finally, if desired, fry them in a pan with hot oil on each side until golden.",
+                    "Serve the vegetable spring rolls with soy sauce or sweet and sour Chinese sauce. Enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/rollitos_de_primavera_vegetarianos.jpg",
+                "Ingredientes": {
+                    "Olive oil": "as needed",
+                    "Water": "A little for soaking",
+                    "Zucchini": "1 zucchini",
+                    "Onion": "1 onion",
+                    "Special roll wrappers": "1 package",
+                    "Ground black pepper": "to taste",
+                    "Leek": "1 leek",
+                    "Chinese root vegetables": "200 g",
+                    "Cabbage": "1 small cabbage",
+                    "Salt": "to taste",
+                    "Soy sauce": "to taste",
+                    "Carrots": "2 carrots"
+                }
+            },
+            "Romanescu al horno": {
+                "Descripción": "Romanesco is a type of broccoli and cauliflower with numerous health benefits and properties. It contains many vitamins and minerals, with anticancer, diuretic, and heart-healthy properties, lowers blood cholesterol, and has few calories. It is a great ally when trying to lose weight. Even if you consume romanescu with few additions, like the recipe we're suggesting, it is much healthier and recommended. In very few steps, you'll get a delicious oven-baked romanescu with its unique, mild, and fruity flavor.",
+                "Elaboración": [
+                    "Wondering how to cook romanescu? Well, to make oven-baked romanescu, first, remove all the leaves from the vegetable. You should also trim a bit of the base of the romanescu, the hardest part of the stem. Next, wash it well and shake off the excess water.",
+                    "Place the romanescu on a baking sheet lined with parchment paper and sprinkle a little salt all over the surface, both on the top and bottom. Then drizzle with a little oil. Place it in a preheated oven at 180 ºC with top and bottom heat and bake for 15 minutes. Halfway through cooking, turn it over to ensure it also browns a bit on the bottom.",
+                    "After 15 minutes, remove the romanescu from the oven and grate a large garlic clove on top. Finally, add another drizzle of olive oil.",
+                    "Cover the romanescu with aluminum foil and return it to the oven, continuing to cook at 180 ºC with top and bottom heat for 20 more minutes.",
+                    "Remove the aluminum foil carefully as it will release steam. Next, cut the florets of the oven-baked romanescu and serve immediately."
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/romanescu_al_horno.jpg",
+                "Ingredientes": {
+                    "Olive oil": "2 drizzles",
+                    "Garlic": "1 clove",
+                    "Romanesco": "1 romanesco (1.2 kg)",
+                    "Salt": "to taste"
+                }
+            },
+            "Verduras con queso": {
+                "Descripción": "Vegetable gratin is a very tasty and easy dish to prepare. This dish is quite versatile, as you can make it with the vegetables you like most or those you have left in the fridge. One way to add a lot of flavor to the vegetables is by making them with béchamel, which adds juiciness and flavor to the dish. Additionally, you can mix any vegetables you like. To add flavor, we top it with grated cheese, which gives it that crispy gratin touch; you can use any type of creamy cheese.",
+                "Elaboración": [
+                    "To start the recipe, first wash the vegetables, then peel and cut them into chunks or slices. Cook the broccoli and cauliflower in a pot with a little water for 10 minutes.",
+                    "In a separate pan over high heat, cook the zucchini slices and carrot strips. Just cook them slightly, so it's better to use high heat to brown them a bit and finish cooking them in the oven. Once the vegetables are browned, add the spinach, stir, and then set aside.",
+                    "Next, prepare the béchamel sauce. Melt the butter in a saucepan, then add the flour and cook together for one minute.",
+                    "Gradually add the milk while stirring until a thick cream forms. Then add salt and a pinch of nutmeg.",
+                    "Once the béchamel sauce is ready, place all the vegetables in an ovenproof dish.",
+                    "Cover the vegetables with the béchamel sauce, ensuring the mixture is well covered. Now, sprinkle the grated cheese on top. Finally, place the dish in the oven to gratin at 200 ºC until the vegetables are gratin.",
+                    "When the top is golden, remove from the oven and serve the cheese-baked vegetables. Enjoy!"
+                ],
+                "Foto": "gs://cooking-plus.appspot.com/verduras_con_queso.jpg",
+                "Ingredientes": {
+                    "Olive oil": "1 drizzle",
+                    "Broccoli": "1 broccoli",
+                    "Zucchini": "2 zucchinis",
+                    "Cauliflower": "1 cauliflower",
+                    "Spinach": "250 g",
+                    "Flour": "50 g",
+                    "Milk": "700 ml",
+                    "Butter": "50 g",
+                    "Nutmeg": "1 pinch",
+                    "Grated cheese": "50 g",
+                    "Salt": "to taste",
+                    "Carrots": "2 carrots"
+                }
+            }
+        }
+    }
+}
