@@ -7,6 +7,9 @@
         "Pescados": "Fish",
         "Verduras": "Vegetables"
     },
+    "cerrarSesion": "Log Out",
+    "iniciadoSesionComo": "Logged in as:",
+    "email": "Email:",
     "Arroz al caldero murciano": "Murcian Caldereta Rice",
     "Arroz al horno valenciano": "Valencian Baked Rice",
     "Arroz con aceitunas": "Rice with Olives",
@@ -54,5 +57,5 @@
     "Croquetas de arroz y espinaca": "Rice and Spinach Croquettes",
     "Rollitos de primavera vegetarianos": "Vegetarian Spring Rolls",
     "Romanescu al horno": "Oven-Baked Romanesco",
-    "Verduras con queso": "Vegetables with Cheese"  
+    "Verduras con queso": "Vegetables with Cheese"
 }

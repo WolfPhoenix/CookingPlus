@@ -49,8 +49,9 @@ $(function () {
                 }
 
                 $("h1.descripcion").text(descripcionTraduccion);
-                $("h1.elaboracion").text(elaboracionTraduccion);
                 $("h1.ingredientes").text(ingredientesTraduccion);
+                $("h1.elaboracion").text(elaboracionTraduccion);
+                
 
                 const URLfoto = miReceta.Foto;
                 const contenedorFoto = $(".foto");

@@ -34,7 +34,11 @@ $.getJSON(`../json/${recetasFile}`)
         // Cargar traducciones de títulos y recetas
         const traduccionesSecciones = data.secciones;
         const traduccionesRecetas = data; // Ajustar según la estructura actual del JSON
-
+        const traduccionesTexto = {
+            cerrarSesion: data.cerrarSesion || "Cerrar Sesión",
+            iniciadoSesionComo: data.iniciadoSesionComo || "Has iniciado sesión como:",
+            email: data.email || "Email:"
+        };
         console.log("Traducciones de secciones:", traduccionesSecciones);
         console.log("Traducciones de recetas:", traduccionesRecetas);
 
@@ -44,7 +48,7 @@ $.getJSON(`../json/${recetasFile}`)
             if (datosUsuario) {
                 const usuario = datosUsuario.nombre;
                 const email = datosUsuario.email;
-                $("#datosUsuario").html(`Has iniciado sesión como: <br>${usuario}<br>Email: <br>${email}`);
+                $("#datosUsuario").html(`${traduccionesTexto.iniciadoSesionComo} <br>${usuario}<br>${traduccionesTexto.email} <br>${email}`);
             } else {
                 console.log('No hay datos en la referencia.');
             }
@@ -63,6 +67,8 @@ $.getJSON(`../json/${recetasFile}`)
             }
             pulsado = !pulsado;
         });
+
+        $("#cerrarSesion").text(traduccionesTexto.cerrarSesion);
 
         $("#cerrarSesion").on("click", function () {
             sessionStorage.removeItem('usuario');
