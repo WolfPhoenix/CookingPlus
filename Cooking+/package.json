@@ -14,16 +14,13 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "cordova-browser": "^7.0.0",
-    "cordova-plugin-firebase": "^2.0.6",
     "web": "^0.0.2"
   },
   "cordova": {
     "platforms": [
       "browser"
     ],
-    "plugins": {
-      "cordova-plugin-firebase": {}
-    }
+    "plugins": {}
   },
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",

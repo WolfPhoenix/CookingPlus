@@ -1,1 +1,1 @@
-{"plugins":["cordova-plugin-firebase"]}
+{"plugins":["cordova-plugin-firebasex","cordova-plugin-firebase"]}

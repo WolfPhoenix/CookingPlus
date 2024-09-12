@@ -83,7 +83,7 @@ function onDeviceReady() {
   $("#comprobar").on("input", function () {
     let password = $("#nuevoPassword").val();
     let comprobar = $(this).val();
-    $("#errorComprobar").html(comprobar ? (password !== comprobar ? "Las contraseñas no coinciden." : "") : "Confirmar contraseña es obligatorio.");
+    $("#errorComprobar").html(comprobar ? (password !== comprobar ? "Las contraseñas no coinciden." : "") : "Campo obligatorio.");
   });
 
   // Registro de usuario
@@ -97,15 +97,15 @@ function onDeviceReady() {
 
     let hasError = false;
     if (!usuario) {
-      $("#errorUsuario").html("El nombre de usuario es obligatorio.");
+      $("#errorUsuario").html("Campo obligatorio.");
       hasError = true;
     }
     if (!email || !validarEmail(email)) {
-      $("#errorCorreo").html(email ? "Por favor introduzca un formato de email válido." : "El correo electrónico es obligatorio.");
+      $("#errorCorreo").html(email ? "Introduzca un formato de email válido." : "Campo obligatorio.");
       hasError = true;
     }
     if (!password || password.length < 6 || password.length > 12 || !/[A-Z]/.test(password) || !/[^a-zA-Z0-9]/.test(password)) {
-      $("#errorPassword").html("La contraseña no cumple con los requisitos.");
+      $("#errorPassword").html("No cumple con los requisitos.");
       hasError = true;
     }
     if (!comprobar || password !== comprobar) {

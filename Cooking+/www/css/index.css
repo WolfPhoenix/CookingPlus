@@ -90,10 +90,13 @@ button {
 .autentificadores{
     display: flex;
     align-items: center;
-    width: 100px;
-    height: 80px;
+    width: 200px;
+    height: 40px;
     justify-content: space-between;
 }
 #mensaje,#mensajeRe{
     color: red;
+}
+span{
+    color:red
 }

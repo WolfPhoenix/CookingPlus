@@ -11,19 +11,19 @@
     "nuevoPassword": "New Password",
     "confirmarPassword": "Confirm Password",
     "registrarse": "Sign Up",
-    "errorUsuario": "Username is required.",
+    "errorUsuario": "Field is required.",
     "errorCorreo": {
-        "required": "Email is required.",
+        "required": "Field is required.",
         "invalid": "Please enter a valid email address."
     },
     "errorPassword": {
         "required": "Password is required.",
-        "length": "Password must be between 6 and 12 characters.",
-        "uppercase": "Password must contain at least one uppercase letter.",
-        "special": "Password must contain at least one special character."
+        "length": "Must be between 6 and 12 characters.",
+        "uppercase": "Must contain at least one uppercase letter.",
+        "special": "Must contain at least one special character."
     },
     "errorComprobar": {
-        "required": "Confirming the password is required.",
+        "required": "Field is required.",
         "match": "Passwords do not match."
     }
 }

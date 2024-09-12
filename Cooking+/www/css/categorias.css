@@ -149,7 +149,14 @@ a{
     border-radius: 10px;
     z-index: 1000
 }
-
+#datosUsuario{
+    margin-top: 25px;
+    text-align: center;
+}
+#cerrarSesion{
+    margin-top: 30px;
+    margin-left: 50px;
+}
 .fancybox-slide--iframe .fancybox-slide__inner {
     width: 100vw;
     height: 100vh;
@@ -163,4 +170,8 @@ a{
     height: 100%;
     padding: 0;
     border: none;
+  }
+
+  a:hover{
+    color: white;
   }
