@@ -1,8 +1,6 @@
 :root {
     --colorbody: #f7d5a9;
     --colorheader: rgba(86, 99, 126, 1);
-    --colorFormulario: rgba(255, 255, 255, 0.3);
-    --colorbotones:  linear-gradient(rgba(132, 154, 201, 0.84), rgba(54, 76, 151, 0.84) 50%);
 }
 
 body {

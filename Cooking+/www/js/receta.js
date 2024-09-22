@@ -10,10 +10,7 @@ $(function () {
         const storage = getStorage(app);    
 
         var miReceta = JSON.parse(localStorage.getItem("receta"));
-        var recetaNombre = localStorage.getItem("recetaNombre");
-
-        console.log("Receta en localStorage:", miReceta);
-        console.log("Nombre de la receta:", recetaNombre);
+        var recetaNombre = localStorage.getItem("recetaNombre");    
 
         if (!miReceta || !recetaNombre) {
             console.error("No se encontró la receta o el nombre en localStorage.");
@@ -32,16 +29,14 @@ $(function () {
                 const elaboracionTraduccion = data.elaboracion;
                 const pasosTraduccion = data.pasos;
 
-                const categorias = Object.keys(traduccionesRecetas);
-                console.log("Categorías en el JSON:", categorias);
+                const categorias = Object.keys(traduccionesRecetas);               
 
                 const categoria = categorias.find(cat => traduccionesRecetas[cat][recetaNombre]);
                 if (!categoria) {
                     console.error(`Categoría para receta ${recetaNombre} no encontrada.`);
                     return;
                 }
-
-                console.log("Categoría encontrada:", categoria);
+              
                 const receta = traduccionesRecetas[categoria][recetaNombre];
                 if (!receta) {
                     console.error(`Receta ${recetaNombre} no encontrada en la categoría ${categoria}.`);

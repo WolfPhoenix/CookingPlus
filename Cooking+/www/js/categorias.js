@@ -18,12 +18,10 @@ const isEnglish = lang.startsWith("en") || lang.startsWith("EN");
 
 // Cargar el archivo JSON adecuado basado en el idioma
 const recetasFile = isEnglish ? 'categorias-en.json' : 'categorias-es.json';
-console.log(`Cargando archivo JSON de recetas: ${recetasFile}`);
 
 // Cargar el archivo JSON de recetas
 $.getJSON(`../json/${recetasFile}`)
-    .done(function(data) {
-        console.log("Datos JSON cargados:", data);
+    .done(function(data) {     
 
         // Comprobar que las propiedades existen en el JSON cargado
         if (!data || !data.secciones) {
@@ -39,8 +37,6 @@ $.getJSON(`../json/${recetasFile}`)
             iniciadoSesionComo: data.iniciadoSesionComo || "Has iniciado sesión como:",
             email: data.email || "Email:"
         };
-        console.log("Traducciones de secciones:", traduccionesSecciones);
-        console.log("Traducciones de recetas:", traduccionesRecetas);
 
         // Mostrar datos del usuario
         onValue(usuRef, (snapshot) => {
