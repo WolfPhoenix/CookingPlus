@@ -1,12 +1,16 @@
 import { Firebase } from './firebase.js';
 import { getStorage, ref as storageRef, getDownloadURL } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-storage.js";
 import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-database.js";
+import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-auth.js";
+
 
 // Inicializar Firebase
 const firebaseInstance = new Firebase();
 const app = firebaseInstance.getApp();
 const storage = getStorage(app);
 const db = getDatabase(app);
+const auth = getAuth(app);
+
 
 // Referencias a la base de datos
 const usuRef = ref(db, "usuarios/" + sessionStorage.getItem("usuario"));
@@ -38,19 +42,32 @@ $.getJSON(`../json/${recetasFile}`)
             email: data.email || "Email:"
         };
 
-        // Mostrar datos del usuario
-        onValue(usuRef, (snapshot) => {
-            const datosUsuario = snapshot.val();
-            if (datosUsuario) {
-                const usuario = datosUsuario.nombre;
-                const email = datosUsuario.email;
-                $("#datosUsuario").html(`${traduccionesTexto.iniciadoSesionComo} <br>${usuario}<br>${traduccionesTexto.email} <br>${email}`);
+        onAuthStateChanged(auth, (user) => {
+            if (user) {
+              const uid = user.uid;
+              const usuRef = ref(db, "usuarios/" + uid);
+          
+              // Mostrar datos del usuario
+              onValue(usuRef, (snapshot) => {
+                const datosUsuario = snapshot.val();
+                if (datosUsuario) {
+                  const usuario = datosUsuario.nombre;
+                  const email = datosUsuario.email;
+                  $("#datosUsuario").html(`${traduccionesTexto.iniciadoSesionComo} <br>${usuario}<br>${traduccionesTexto.email} <br>${email}`);
+                } else {
+                  console.log('No hay datos en la referencia.');
+                }
+              }, (error) => {
+                console.error('Error al obtener datos del usuario:', error);
+              });
+          
             } else {
-                console.log('No hay datos en la referencia.');
+              console.log("No hay usuario autenticado");
+              // Opcional: redirigir al login
+              window.location.href = "../index.html";
             }
-        }, (error) => {
-            console.error('Error al obtener datos del usuario:', error);
-        });
+          });
+          
 
         let pulsado = true;
         $("#user").on("click", function () {

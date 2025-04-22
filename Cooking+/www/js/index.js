@@ -120,8 +120,8 @@ function onDeviceReady() {
         updateProfile(result.user, { displayName: usuario })
           .then(() => {
             console.log("Nombre de usuario agregado con éxito.");
-            const user = email.replace(/[.@]/g, '');
-            set(ref(db, 'usuarios/' + user), { nombre: usuario, email: result.user.email })
+            const uid = result.user.uid;
+            set(ref(db, 'usuarios/' + uid), { nombre: usuario, email: result.user.email })
               .then(() => {
                 $("#nuevoCorreo, #nuevoPassword, #comprobar, #usuario").val("");
                 volverInicio();
@@ -166,7 +166,7 @@ function onDeviceReady() {
 
     signInWithEmailAndPassword(auth, email, password)
       .then((result) => {
-        iniciarSesion(email.replace(/[.@]/g, ''));
+        iniciarSesion(result.user.uid); // UID, no email modificado
         $("#email, #contraseña").val("");
         window.location.href = "./html/categorias.html";
       })
@@ -174,6 +174,7 @@ function onDeviceReady() {
         console.error("Error al iniciar sesión:", error);
         $("#mensaje").html("Los datos no son correctos.");
       });
+
   });
 
   function volverInicio() {
@@ -190,12 +191,12 @@ function onDeviceReady() {
         console.log("token", token);
 
         const user_info = result.user;
-        const user = user_info.email.replace(/[.@]/g, '');
+        const uid = user_info.uid;
         const name = user_info.displayName;
 
-        iniciarSesion(user);
+        iniciarSesion(uid);
 
-        set(ref(db, 'usuarios/' + user), { nombre: name, email: user_info.email })
+        set(ref(db, 'usuarios/' + uid), { nombre: name, email: user_info.email })
           .then(() => {
             window.location.href = "./html/categorias.html";
           })
@@ -219,12 +220,12 @@ function onDeviceReady() {
     $('#registro').text(traduccion.register);
     $('#email').attr('placeholder', traduccion.email);
     $('#contraseña').attr('placeholder', traduccion.password);
-    
+
     const textoGoogle = traduccion.google;
     $('#google').html(`<img src="./img/google-icon.png" height="25" width="25" alt="Icono de Google"> ${textoGoogle}`);
-    
+
     if (!email || !contraseña) {
-        $('#mensaje').text(traduccion.mensaje);
+      $('#mensaje').text(traduccion.mensaje);
     }
 
     $('#volverInicio').text(traduccion.volver);
@@ -235,7 +236,7 @@ function onDeviceReady() {
     $('#registrar').text(traduccion.registrarse);
 
     validarInputs(traduccion);
-}
+  }
 
 
   const idiomaNavegador = navigator.language.split('-')[0];
